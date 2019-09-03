@@ -18,6 +18,11 @@ library(reshape)
 datpath="C:/git/wg_WGWIDE/NSHM/data/"
 resultpath="C:/git/wg_WGWIDE/NSHM/results/"
 
+#hhdata <- getDATRAS(record = "HH", survey = "NS-IBTS", years = 1991:2018, quarters = 3)
+#hldata_IBTS <- getDATRAS(record = "HL", survey = "NS-IBTS", years = 1991:2018, quarters = 3)
+#hhdata <- getDATRAS(record = "HH", survey = "FR-CGFS", years = 1991:2018, quarters = 4)
+#hldata <- getDATRAS(record = "HL", survey = "FR-CGFS", years = 1991:2018, quarters = 4)
+
 # olddatpath="C:/IMARES/FAMA/ICES/WGWIDE/August_2017/NSHM/data/survey_data/"
 # newdatpath="C:/IMARES/FAMA/ICES/WGWIDE/August_2018/NSHM/data/survey_data/"
 
