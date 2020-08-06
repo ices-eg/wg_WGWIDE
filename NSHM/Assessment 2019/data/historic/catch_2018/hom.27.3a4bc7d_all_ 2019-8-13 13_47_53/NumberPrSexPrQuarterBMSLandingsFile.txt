@@ -1,0 +1,13 @@
+Number at Age
+
+	Season	Q1		Q4
+	Sex	Undetermined		Undetermined
+	Age	Number		Number
+	0	0.000		5.597
+	1	0.000		469.631
+	2	0.000		841.240
+	3	0.000		225.839
+	4	0.000		560.725
+	5	0.000		77.656
+	6	0.000		11.801
+	7	0.000		12.169
