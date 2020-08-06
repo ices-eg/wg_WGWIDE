@@ -5,6 +5,7 @@ rm(list=ls())
 library(FLCore)
 
 dataPath  <- "C:/git/wg_WGWIDE/NSHM/data/"
+dataPath  <- "C:/Users/beukh001/OneDrive - WageningenUR/WOT/WGWIDE/NSHM/Assessment 2019 - wg_WGWIDE/wg_WGWIDE/NSHM/data/"
 
 stockkeylabel   <- "hom.27.3a4bc7d"
 stockName       <- 'NSHM'
