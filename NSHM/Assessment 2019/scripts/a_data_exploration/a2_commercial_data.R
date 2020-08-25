@@ -10,7 +10,7 @@ library(gridExtra)
 
 #################### define paths #######################
 
-dataPath  <- "C:/git/wg_WGWIDE/NSHM/data/"
+dataPath  <- "NSHM/Assessment 2019/data/"
 resPath   <- "C:/git/wg_WGWIDE/NSHM/results/"
 figPath   <- "C:/git/wg_WGWIDE/NSHM/figures/commercial/"
 

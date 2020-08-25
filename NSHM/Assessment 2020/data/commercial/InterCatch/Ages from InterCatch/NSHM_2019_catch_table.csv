@@ -1,0 +1,259 @@
+Stock,Country,Year,CatchCategory,ReportingCategory,CATONRaisedOrImported,MisreportedArea,Area,Season,SeasonType,Fleet,CATON,Effort,UnitEffort,OfficialLandings,SampledOrEstimated,SampledCatch,No. of Length Samples,No. of Length Measured,No. of Age Samples,No. Age Readings
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,TrawlPlus,353,148981,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,GTR_DEF_all_0_0_all,207,884,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_CRU_70-99_0_0_all,161,10024,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,TrawlPlus,4610,1129916,kWd,5000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,71,-9,dop,71,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,59,-9,dop,59,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,6,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_IBC,55,-9,dop,55,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,834,-9,dop,834,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,OTM_SPF_32-69_0_0_all,309,-9,dop,309,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.b,1,Quarter,MIS_MIS_0_0_0_HC,85,-9,dop,85,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,1,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.c,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,1,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_32-69_0_0_all,45392,-9,dop,45392,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Faroe Islands,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,All,10000,-9,NA,10000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,OTB_DEF_70-99_0_0,1295.44,122263,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,OTM_SPF_32-69_0_0_all,8388.48,5294,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,SSC_DEF_70-99_0_0_all,794.01,17339,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,MIS_MIS_0_0_0,1915.41,4478339,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_DEF_70-99_0_0,0,1888252,kWd,2912,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Discards,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_DEF_70-99_0_0,15650.8,1888252,kWd,,Estimated_Distribution,0,9,58,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_DEF_70-99_0_0,30706.36,1888252,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_SPF_70-99_0_0_all,2004.37,156926,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,1,Quarter,OTB_SPF_70-99_0_0_all,0,156926,kWd,200,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_DEF_70-99_0_0_all,345.14,14277,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_32-69_0_0_all,134570.3,137485,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_70-99_0_0_all,1032.56,29464,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_70-99_0_0_all,0,29464,kWd,500,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,SSC_DEF_70-99_0_0_all,7339.88,249499,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,1,Quarter,SSC_DEF_70-99_0_0_all,0,249499,kWd,1700,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,SSC_DEF_All_0_0_All,1450,11293,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,1,Quarter,TBB_DEF_70-99_0_0_all,110,4227275,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,OTM_SPF_32-69_0_0_all,36510,46838,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,1,Quarter,SSC_DEF_All_0_0_All,59020,460640,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Sweden,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,HM-ALL,72,-9,NA,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Sweden,2019,Discards,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,OTB_CRU_32-69_2_22_all,39,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Sweden,2019,Discards,Reported,Imported_Data, ,27.3.a.nshm,1,Quarter,OTB_CRU_90-119_0_0_all,532,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,1,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,1,Quarter,HM-ALL,23,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,1,Quarter,HM-ALL,3260,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,1,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,1,Quarter,HM-ALL,1656,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,1,Quarter,HM-ALL,1288918,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK(Northern Ireland),2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,NI-PT,52843,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,TrawlPlus,562,246516,kWd,1000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,TrawlPlus,96,204009,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,247,-9,dop,247,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,1,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,4073,-9,dop,4073,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,92,-9,dop,92,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_HC,665,-9,dop,665,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_IBC,35901,-9,dop,35901,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.c,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,MIS_MIS_0_0_0_IBC,1177,-9,dop,1177,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,2,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,OTB_DEF_70-99_0_0,693.94,13774,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,OTB_SPF_70-99_0_0_all,14.56,83642,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,OTM_SPF_70-99_0_0_all,49.25,62546,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,MIS_MIS_0_0_0,4553.07,267850,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,OTB_DEF_70-99_0_0,20985.99,99050,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,2,Quarter,OTB_DEF_70-99_0_0,0,99050,kWd,108,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,OTB_SPF_70-99_0_0_all,1682.12,9439,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,2,Quarter,OTB_SPF_70-99_0_0_all,0,9439,kWd,177,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,OTM_SPF_32-69_0_0_all,769.62,21141,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,OTM_SPF_70-99_0_0_all,263.36,19367,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,SSC_DEF_70-99_0_0_all,20653.43,90788,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,2,Quarter,SSC_DEF_70-99_0_0_all,0,90788,kWd,3600,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,MIS_MIS_0_0_0,3179.86,4106381,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,2,Quarter,MIS_MIS_0_0_0,0,4106381,kWd,77,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,2,Quarter,OTB_DEF_70-99_0_0,0,1820020,kWd,5929,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Discards,Reported,Imported_Data, ,27.7.d,2,Quarter,OTB_DEF_70-99_0_0,116382.53,1820020,kWd,,Estimated_Distribution,0,15,296,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTB_DEF_70-99_0_0,51932.06,1820020,kWd,,Estimated_Distribution,0,13,147,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTB_SPF_32-69_0_0_all,154.78,33557,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTB_SPF_70-99_0_0_all,3343,98282,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_DEF_70-99_0_0_all,1088.51,22370,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_SPF_32-69_0_0_all,5976.48,225831,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_SPF_70-99_0_0_all,7795.88,92409,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,2,Quarter,OTM_SPF_70-99_0_0_all,0,92409,kWd,500,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,SSC_DEF_70-99_0_0_all,30925.45,184219,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,2,Quarter,SSC_DEF_70-99_0_0_all,0,184219,kWd,3000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,OTM_SPF_32-69_0_0_all,14,-9,NA,1000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,SSC_DEF_All_0_0_All,40,9866,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,1300,107226,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,SSC_DEF_All_0_0_All,240,55531,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,OTB_DEF_70-99_0_0_all,1720,3439,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,SSC_DEF_All_0_0_All,4980,109860,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,OTB_DEF_70-99_0_0_all,32110,4891,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,SDN_all_0_0_all,960,1488,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,SSC_DEF_All_0_0_All,740,371261,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,2,Quarter,TBB_DEF_70-99_0_0_all,5080,3707824,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,2,Quarter,SSC_DEF_All_0_0_All,28300,123082,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Norway,2019,Landings,Reported,Imported_Data, ,27.4.b,2,Quarter,HM-ALL,17590,-9,NA,18000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Sweden,2019,Landings,Reported,Imported_Data, ,27.3.a.nshm,2,Quarter,HM-ALL,72,-9,NA,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,2,Quarter,HM-ALL,2,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,2,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,2,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,2,Quarter,HM-ALL,41499,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Discards,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,2,Quarter,HM-ALL,36,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,2,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,2,Quarter,HM-ALL,13512,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK(Scotland),2019,Landings,Reported,Imported_Data, ,27.4.c,2019,Year,All,17506,-9,kWd,18000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK(Scotland),2019,Landings,Reported,Imported_Data, ,27.7.d,2019,Year,All,20535,-9,kWd,21000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,TrawlPlus,1890,217153,kWd,2000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,TrawlPlus,281,208008,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_HC,2192,-9,dop,2192,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_HC,64,-9,dop,64,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_IBC,13833,-9,dop,13833,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,3,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.c,3,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,MIS_MIS_0_0_0_IBC,1129,-9,dop,1129,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,3,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,OTB_DEF_70-99_0_0,17.66,6848,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,OTB_DEF_70-99_0_0,10869.3,50248,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,3,Quarter,OTB_DEF_70-99_0_0,0,50248,kWd,1687,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,OTB_SPF_70-99_0_0_all,8994.3,8569,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,3,Quarter,OTB_SPF_70-99_0_0_all,0,8569,kWd,900,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,OTM_SPF_32-69_0_0_all,829.17,15355,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,OTM_SPF_70-99_0_0_all,1547.8,3094,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,SSC_DEF_70-99_0_0_all,4598.29,59445,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,3,Quarter,SSC_DEF_70-99_0_0_all,0,59445,kWd,700,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,MIS_MIS_0_0_0,10922.42,3440326,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,MIS_MIS_0_0_0,0,3440326,kWd,200,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTB_DEF_70-99_0_0,37167.28,2600975,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,OTB_DEF_70-99_0_0,0,2600975,kWd,10693,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTB_SPF_32-69_0_0_all,2678.28,78687,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTB_SPF_70-99_0_0_all,2321.89,118976,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,OTB_SPF_70-99_0_0_all,0,118976,kWd,30,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_DEF_70-99_0_0_all,320.63,3834,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Discards,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,39413.81,632792,kWd,,Estimated_Distribution,0,5,82,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,0,632792,kWd,3577,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,29053.96,632792,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_70-99_0_0_all,7084.07,120798,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_70-99_0_0_all,0,120798,kWd,1220,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,SSC_DEF_70-99_0_0_all,4033.41,317057,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,3,Quarter,SSC_DEF_70-99_0_0_all,0,317057,kWd,3109,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,OTM_SPF_32-69_0_0_all,1265,-9,NA,1000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,OTM_SPF_32-69_0_0_all,126651,-9,kWd,126000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,OTB_DEF_70-99_0_0_all,220,5702,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,OTM_SPF_32-69_0_0_all,110,539298,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,SSC_DEF_All_0_0_All,3490,117306,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,OTB_DEF_70-99_0_0_all,23930,11732,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,SDN_all_0_0_all,820,17355,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,SSC_DEF_All_0_0_All,25410,141365,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,3,Quarter,TBB_DEF_70-99_0_0_all,260,2570788,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,SDN_all_0_0_all,10,7412,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,3,Quarter,SSC_DEF_All_0_0_All,38730,107010,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Norway,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,HM-ALL,22073,-9,NA,22000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Sweden,2019,Landings,Reported,Imported_Data, ,27.4.b,3,Quarter,HM-ALL,182,-9,NA,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,3,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,3,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,3,Quarter,HM-ALL,2765,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,3,Quarter,HM-ALL,4141,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,3,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,TrawlPlus,235,817267,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_CRU_70-99_0_0_all,1500,58862,kWd,2000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_DEF_32-69_0_0_all,47,11766,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,TrawlPlus,2204,264747,kWd,2000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_CRU_70-99_0_0_all,1687,41847,kWd,2000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_DEF_32-69_0_0_all,10,1704,kWd,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Belgium,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,TrawlPlus,3757,336113,kWd,4000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Discards,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_HC,3570,-9,dop,3570,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_HC,1,-9,dop,1,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_HC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,MIS_MIS_0_0_0_IBC,1423,-9,dop,1423,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,4,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.4.c,4,Quarter,MIS_MIS_0_0_0_IBC,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,BMS landing,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Denmark,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,0,-9,dop,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,OTB_DEF_70-99_0_0,0,1815,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,MIS_MIS_0_0_0,293.28,217235,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_DEF_70-99_0_0,5707.2,310122,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_DEF_70-99_0_0,0,310122,kWd,740,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_SPF_70-99_0_0_all,148.4,4296,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTM_SPF_32-69_0_0_all,196211.33,68188,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTM_SPF_70-99_0_0_all,211.94,6020,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,SSC_DEF_70-99_0_0_all,1324.73,50081,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.4.c,4,Quarter,SSC_DEF_70-99_0_0_all,0,50081,kWd,100,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,MIS_MIS_0_0_0,0,6359354,kWd,635,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,MIS_MIS_0_0_0,775.2,6359354,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_DEF_70-99_0_0,18431.17,2553129,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_DEF_70-99_0_0,0,2553129,kWd,6261,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_SPF_32-69_0_0_all,53.04,4118,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_SPF_70-99_0_0_all,0,88957,kWd,600,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTB_SPF_70-99_0_0_all,3370.88,88957,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_DEF_70-99_0_0_all,555.5,8669,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,0,338235,kWd,34,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,243387.25,338235,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_70-99_0_0_all,459.9,49302,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,SSC_DEF_70-99_0_0_all,1037.05,245995,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,France,2019,Logbook Registered Discard,Reported,Imported_Data, ,27.7.d,4,Quarter,SSC_DEF_70-99_0_0_all,0,245995,kWd,1050,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,OTM_SPF_32-69_0_0_all,25,-9,NA,1000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Lithuania,2019,Discards,Reported,Imported_Data, ,27.7.d,4,Quarter,Active,0,21,dat,0,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Lithuania,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,Active,1254066,21,dat,1254000,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,OTB_DEF_70-99_0_0_all,210,3583,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,OTB_MCD_>=55_0_0,10,76708,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.b,4,Quarter,SSC_DEF_All_0_0_All,750,37588,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,OTB_DEF_70-99_0_0_all,390,9506,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,SSC_DEF_All_0_0_All,10280,76691,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.4.c,4,Quarter,TBB_DEF_70-99_0_0_all,640,2870179,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,MIS_MIS_0_0_0_HC,160,736,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,1769930,562839,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Netherlands,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,SSC_DEF_All_0_0_All,41500,398260,kWd,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,4,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Discards,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,4,Quarter,HM-ALL,1386,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,4,Quarter,HM-ALL,511,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,4,Quarter,HM-ALL,645442,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.4.c,4,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,BMS landing,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,4,Quarter,HM-ALL,0,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,4,Quarter,HM-ALL,1629809,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,UK (England),2019,Discards,"All - reported, nonreported and misreported",Imported_Data, ,27.7.d,4,Quarter,HM-ALL,192,-9,NA,,Estimated_Distribution,0,0,0,0,0
+hom.27.3a4bc7d,Norway,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,1,Quarter,HM-ALL,1290956,-9,NA,1291000,Sampled_Distribution,1293,1,27,1,27
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,OTM_SPF_32-69_0_0_all,2245,-9,NA,2000,Sampled_Distribution,2,2,144,2,82
+hom.27.3a4bc7d,Norway,2019,Landings,Reported,Imported_Data, ,27.4.a.nshm,2,Quarter,HM-ALL,1212797,-9,NA,1213000,Sampled_Distribution,1215,4,113,4,113
+hom.27.3a4bc7d,UK (England),2019,Landings,"All - reported, nonreported and misreported",Imported_Data, ,27.4.b,3,Quarter,HM-ALL,174,-9,NA,,Sampled_Distribution,0,0,0,1,25
+hom.27.3a4bc7d,Germany,2019,Landings,Reported,Imported_Data, ,27.7.d,4,Quarter,OTM_SPF_32-69_0_0_all,815513,-9,NA,816000,Sampled_Distribution,816,50,1035,50,228

@@ -1,0 +1,1641 @@
+Country	Year	Season	SeasonType	Area	Fleet	Catch category	Reporting category	Caton	Effort	UnitEffort	Weighting
+Filling-in for the following unsampled record:
+Norway	2019	2	Quarter	27.4.b	HM-ALL	Landings	R Report	17590.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Norway	2019	3	Quarter	27.4.b	HM-ALL	Landings	R Report	22073.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.a.nshm	SSC_DEF_All_0_0_All	Landings	R Report	240.00000	55531	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	0.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.c	SSC_DEF_All_0_0_All	Landings	R Report	10280.00000	76691	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.b	SSC_DEF_All_0_0_All	Landings	R Report	750.00000	37588	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.b	OTB_MCD_>=55_0_0	Landings	R Report	10.00000	76708	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	1769930.00000	562839	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.c	OTB_DEF_70-99_0_0_all	Landings	R Report	390.00000	9506	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.7.d	SSC_DEF_All_0_0_All	Landings	R Report	41500.00000	398260	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.7.d	MIS_MIS_0_0_0_HC	Landings	R Report	160.00000	736	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.b	OTB_DEF_70-99_0_0_all	Landings	R Report	210.00000	3583	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.b	SSC_DEF_All_0_0_All	Landings	R Report	3490.00000	117306	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.7.d	SDN_all_0_0_all	Landings	R Report	10.00000	7412	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.c	SSC_DEF_All_0_0_All	Landings	R Report	25410.00000	141365	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.7.d	SSC_DEF_All_0_0_All	Landings	R Report	38730.00000	107010	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.b	OTB_DEF_70-99_0_0_all	Landings	R Report	220.00000	5702	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.b	OTM_SPF_32-69_0_0_all	Landings	R Report	110.00000	539298	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.c	OTB_DEF_70-99_0_0_all	Landings	R Report	23930.00000	11732	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.c	SDN_all_0_0_all	Landings	R Report	820.00000	17355	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.c	SSC_DEF_All_0_0_All	Landings	R Report	740.00000	371261	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.7.d	SSC_DEF_All_0_0_All	Landings	R Report	28300.00000	123082	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.b	SSC_DEF_All_0_0_All	Landings	R Report	4980.00000	109860	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.c	SDN_all_0_0_all	Landings	R Report	960.00000	1488	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.c	OTB_DEF_70-99_0_0_all	Landings	R Report	32110.00000	4891	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.b	OTB_DEF_70-99_0_0_all	Landings	R Report	1720.00000	3439	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	1	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	36510.00000	46838	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	1	Quarter	27.4.c	SSC_DEF_All_0_0_All	Landings	R Report	1450.00000	11293	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	1	Quarter	27.7.d	SSC_DEF_All_0_0_All	Landings	R Report	59020.00000	460640	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.3.a.nshm	SSC_DEF_All_0_0_All	Landings	R Report	40.00000	9866	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	1	Quarter	27.4.c	TBB_DEF_70-99_0_0_all	Landings	R Report	110.00000	4227275	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	4	Quarter	27.4.c	TBB_DEF_70-99_0_0_all	Landings	R Report	640.00000	2870179	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.c	TBB_DEF_70-99_0_0_all	Landings	R Report	5080.00000	3707824	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	3	Quarter	27.4.c	TBB_DEF_70-99_0_0_all	Landings	R Report	260.00000	2570788	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Netherlands	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	1300.00000	107226	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	0.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2019	2	Quarter	27.4.b	OTM_SPF_32-69_0_0_all	Landings	R Report	14.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	126651.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2019	4	Quarter	27.4.b	OTM_SPF_32-69_0_0_all	Landings	R Report	25.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2019	3	Quarter	27.4.b	OTM_SPF_32-69_0_0_all	Landings	R Report	1265.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.4.b	HM-ALL	Landings	A All - 	23.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.4.b	HM-ALL	Landings	A All - 	511.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	3	Quarter	27.4.c	HM-ALL	Landings	A All - 	2765.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	3	Quarter	27.4.b	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.4.c	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.7.d	HM-ALL	Landings	A All - 	13512.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.4.c	HM-ALL	Landings	A All - 	645442.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	3	Quarter	27.7.d	HM-ALL	Landings	A All - 	4141.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.4.b	HM-ALL	Discards	A All - 	1386.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.7.d	HM-ALL	Discards	A All - 	36.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.4.b	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.4.b	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	3	Quarter	27.4.c	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.7.d	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.4.c	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	3	Quarter	27.7.d	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.4.b	HM-ALL	Landings	A All - 	2.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.4.c	HM-ALL	Landings	A All - 	3260.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.7.d	HM-ALL	Landings	A All - 	1288918.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.7.d	HM-ALL	Landings	A All - 	1629809.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.4.b	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.4.c	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	1	Quarter	27.7.d	HM-ALL	BMS landing	A All - 	1656.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.7.d	HM-ALL	BMS landing	A All - 	0.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	2	Quarter	27.4.c	HM-ALL	Landings	A All - 	41499.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2019	4	Quarter	27.7.d	HM-ALL	Discards	A All - 	192.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2019	2019	Year	27.7.d	All	Landings	R Report	20535.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2019	2019	Year	27.4.c	All	Landings	R Report	17506.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.b	MIS_MIS_0_0_0_HC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_IBC	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	BMS landing	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_IBC	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Discards	R Report	85.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Discards	R Report	3570.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	Discards	R Report	4073.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Discards	R Report	2192.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Discards	R Report	0.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	Discards	R Report	834.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Discards	R Report	71.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Discards	R Report	665.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Landings	R Report	64.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Landings	R Report	35901.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	45392.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Landings	R Report	247.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_IBC	Landings	R Report	55.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	309.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.a.nshm	MIS_MIS_0_0_0_HC	Landings	R Report	92.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	0.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Landings	R Report	13833.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	2	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Landings	R Report	1177.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Landings	R Report	1.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	4	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Landings	R Report	1423.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	3	Quarter	27.4.c	MIS_MIS_0_0_0_IBC	Landings	R Report	1129.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2019	1	Quarter	27.3.a.nshm	MIS_MIS_0_0_0_HC	Landings	R Report	59.00000	-9	dop	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+UK(Northern Ireland)	2019	1	Quarter	27.4.a.nshm	NI-PT	Landings	R Report	52843.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Lithuania	2019	4	Quarter	27.7.d	Active	Landings	R Report	1254066.00000	21	dat	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Lithuania	2019	4	Quarter	27.7.d	Active	Discards	R Report	0.00000	21	dat	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.b	OTB_SPF_70-99_0_0_all	Landings	R Report	14.56000	83642	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.b	OTB_DEF_70-99_0_0	Landings	R Report	693.94000	13774	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Landings	R Report	4598.29000	59445	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTM_SPF_32-69_0_0_all	Landings	R Report	769.62000	21141	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	OTB_SPF_70-99_0_0_all	Landings	R Report	148.40000	4296	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.4.c	OTB_DEF_70-99_0_0	Landings	R Report	1295.44000	122263	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTM_SPF_70-99_0_0_all	Landings	R Report	1547.80000	3094	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	MIS_MIS_0_0_0	Landings	R Report	1915.41000	4478339	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	MIS_MIS_0_0_0	Landings	R Report	775.20000	6359354	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Landings	R Report	4033.41000	317057	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTB_DEF_70-99_0_0	Landings	R Report	30706.36000	1888252	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTB_DEF_70-99_0_0	Landings	R Report	18431.17000	2553129	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Landings	R Report	7795.88000	92409	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTB_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	9439	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	50248	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	MIS_MIS_0_0_0	Logbook Registered Discard	R Report	0.00000	4106381	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	249499	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	245995	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	632792	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	1820020	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Discards	R Report	39413.80500	632792	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTB_DEF_70-99_0_0	Discards	R Report	116382.52500	1820020	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	MIS_MIS_0_0_0	Landings	R Report	293.28000	217235	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.4.c	OTM_SPF_32-69_0_0_all	Landings	R Report	8388.48000	5294	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTB_SPF_70-99_0_0_all	Landings	R Report	8994.30000	8569	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	OTB_DEF_70-99_0_0	Landings	R Report	5707.20000	310122	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTB_SPF_32-69_0_0_all	Landings	R Report	154.78000	33557	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	MIS_MIS_0_0_0	Landings	R Report	10922.42000	3440326	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Landings	R Report	30925.45000	184219	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	134570.30000	137485	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	243387.25000	338235	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Landings	R Report	2321.89000	118976	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTM_DEF_70-99_0_0_all	Landings	R Report	1088.51000	22370	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTB_DEF_70-99_0_0	Landings	R Report	37167.28000	2600975	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Landings	R Report	7084.07000	120798	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	50081	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	99050	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	317057	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	156926	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	88957	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	29464	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	59445	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	310122	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	MIS_MIS_0_0_0	Logbook Registered Discard	R Report	0.00000	6359354	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	118976	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	1888252	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	2553129	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	92409	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.b	OTB_DEF_70-99_0_0	Landings	R Report	0.00000	1815	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.b	OTM_SPF_70-99_0_0_all	Landings	R Report	49.25000	62546	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Landings	R Report	20653.43000	90788	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	OTM_SPF_32-69_0_0_all	Landings	R Report	196211.33000	68188	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTB_SPF_70-99_0_0_all	Landings	R Report	1682.12000	9439	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTB_DEF_70-99_0_0	Landings	R Report	10869.30000	50248	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	OTM_SPF_70-99_0_0_all	Landings	R Report	211.94000	6020	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTB_SPF_32-69_0_0_all	Landings	R Report	53.04000	4118	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	MIS_MIS_0_0_0	Landings	R Report	3179.86000	4106381	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Landings	R Report	7339.88000	249499	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Landings	R Report	1037.05000	245995	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	29053.96000	632792	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Landings	R Report	3343.00000	98282	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTM_DEF_70-99_0_0_all	Landings	R Report	345.14000	14277	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTM_DEF_70-99_0_0_all	Landings	R Report	555.50000	8669	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Landings	R Report	1032.56000	29464	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Landings	R Report	459.90000	49302	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.b	OTB_DEF_70-99_0_0	Landings	R Report	17.66000	6848	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	MIS_MIS_0_0_0	Landings	R Report	4553.07000	267850	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Landings	R Report	794.01000	17339	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Landings	R Report	1324.73000	50081	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTM_SPF_32-69_0_0_all	Landings	R Report	829.17000	15355	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTB_DEF_70-99_0_0	Landings	R Report	20985.99000	99050	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	OTM_SPF_70-99_0_0_all	Landings	R Report	263.36000	19367	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTB_SPF_32-69_0_0_all	Landings	R Report	2678.28000	78687	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	5976.48000	225831	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Landings	R Report	2004.37000	156926	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTB_SPF_70-99_0_0_all	Landings	R Report	3370.88000	88957	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_DEF_70-99_0_0_all	Landings	R Report	320.63000	3834	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	OTB_DEF_70-99_0_0	Landings	R Report	51932.06000	1820020	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.4.c	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	90788	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.4.c	OTB_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	8569	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	MIS_MIS_0_0_0	Logbook Registered Discard	R Report	0.00000	3440326	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	2	Quarter	27.7.d	SSC_DEF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	184219	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Logbook Registered Discard	R Report	0.00000	338235	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTB_DEF_70-99_0_0	Logbook Registered Discard	R Report	0.00000	2600975	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	3	Quarter	27.7.d	OTM_SPF_70-99_0_0_all	Logbook Registered Discard	R Report	0.00000	120798	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+France	2019	1	Quarter	27.7.d	OTB_DEF_70-99_0_0	Discards	R Report	15650.79700	1888252	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Sweden	2019	1	Quarter	27.3.a.nshm	OTB_CRU_32-69_2_22_all	Discards	R Report	39.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Sweden	2019	1	Quarter	27.3.a.nshm	HM-ALL	Landings	R Report	72.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Sweden	2019	2	Quarter	27.3.a.nshm	HM-ALL	Landings	R Report	72.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Sweden	2019	3	Quarter	27.4.b	HM-ALL	Landings	R Report	182.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Sweden	2019	1	Quarter	27.3.a.nshm	OTB_CRU_90-119_0_0_all	Discards	R Report	532.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Belgium	2019	1	Quarter	27.4.c	TrawlPlus	Landings	R Report	353.00000	148981	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Belgium	2019	1	Quarter	27.7.d	TrawlPlus	Landings	R Report	4610.00000	1129916	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.7.d	TrawlPlus	Landings	R Report	3757.00000	336113	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	1	Quarter	27.7.d	GTR_DEF_all_0_0_all	Landings	R Report	207.00000	884	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.4.c	TrawlPlus	Landings	R Report	2204.00000	264747	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.4.c	OTB_DEF_32-69_0_0_all	Landings	R Report	47.00000	11766	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	3	Quarter	27.7.d	TrawlPlus	Landings	R Report	281.00000	208008	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.7.d	OTB_DEF_32-69_0_0_all	Landings	R Report	10.00000	1704	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.4.b	TrawlPlus	Landings	R Report	235.00000	817267	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	3	Quarter	27.4.c	TrawlPlus	Landings	R Report	1890.00000	217153	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	1	Quarter	27.7.d	OTB_CRU_70-99_0_0_all	Landings	R Report	161.00000	10024	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+Filling-in for the following unsampled record:
+Belgium	2019	2	Quarter	27.4.c	TrawlPlus	Landings	R Report	562.00000	246516	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.4.c	OTB_CRU_70-99_0_0_all	Landings	R Report	1500.00000	58862	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	816.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	2	Quarter	27.7.d	TrawlPlus	Landings	R Report	96.00000	204009	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	1293.00000
+<<Norway	2019	2	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1212797.00000	-9	NA	1215.00000
+<<Germany	2019	2	Quarter	27.4.a.nshm	OTM_SPF_32-69_0_0_all	Landings	R Report	2245.00000	-9	NA	2.00000
+<<UK (England)	2019	3	Quarter	27.4.b	HM-ALL	Landings	A All - 	174.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Belgium	2019	4	Quarter	27.7.d	OTB_CRU_70-99_0_0_all	Landings	R Report	1687.00000	41847	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Germany	2019	4	Quarter	27.7.d	OTM_SPF_32-69_0_0_all	Landings	R Report	815513.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Faroe Islands	2019	1	Quarter	27.4.a.nshm	All	Landings	R Report	10000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2019	1	Quarter	27.4.a.nshm	HM-ALL	Landings	R Report	1290956.00000	-9	NA	0.00000
+

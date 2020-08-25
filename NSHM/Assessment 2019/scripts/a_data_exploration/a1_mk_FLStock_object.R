@@ -4,8 +4,10 @@ rm(list=ls())
 
 library(FLCore)
 
+options(max.print=100000)
+
 dataPath  <- "C:/git/wg_WGWIDE/NSHM/data/"
-dataPath  <- "C:/Users/beukh001/OneDrive - WageningenUR/WOT/WGWIDE/NSHM/Assessment 2019 - wg_WGWIDE/wg_WGWIDE/NSHM/data/"
+dataPath  <- "NSHM/Assessment 2019/data/"
 
 stockkeylabel   <- "hom.27.3a4bc7d"
 stockName       <- 'NSHM'
@@ -50,13 +52,14 @@ caton_area_cat        <- read.table(paste0(dataPath,"caton_area_cat.csv"),sep=',
 
 uniqueAreas     <- colnames(canum_area[,3:dim(canum_area)[2]])
 
+# Get a list of the dimension names of age, year, unit, season and area
 dmns <- list(age = as.character(ageVec),
              year = as.character(yearVec),
              unit = 'unique',
              season = 'all',
-             area = c(uniqueAreas,
-                      'all'))
+             area = c(uniqueAreas, 'all'))
 
+# Create empty FLQuant
 stk <- FLQuant(array( NA,
                       dim=c(length(dmns$age),    # ages
                             length(dmns$year),   # years
@@ -66,6 +69,7 @@ stk <- FLQuant(array( NA,
                             1)), # number of iterations
                 dimnames=dmns)
 
+# Get it into stock object format
 stk <- FLStock(stock.n = stk,
                name = "stockName",
                desc = stockkeylabel)
