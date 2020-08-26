@@ -7,12 +7,13 @@
 rm(list=ls())
 
 library(pscl)
+library(ggplot2)
 
 #datpath="M:/git/wg_WGWIDE/NSHM/data/"
 #resultpath="M:/git/wg_WGWIDE/NSHM/results/"
 #figPath <- "M:/git/wg_WGWIDE/NSHM/figures/model/"
 
-datpath="C:/git/wg_WGWIDE/NSHM/data/"
+datpath="NSHM/Assessment 2019/data/"
 resultpath="C:/git/wg_WGWIDE/NSHM/results/"
 figPath <- "C:/git/wg_WGWIDE/NSHM/figures/model/"
 
@@ -316,6 +317,14 @@ summary(zi)
 chi2 <- sum(resid(zi)^2)
 df <- zi$df.residual
 dis.st <- chi2/df # 2.15
+
+## Compare parameter coefficients of the hurdle and ZI model
+parm.coef <- data.frame(hurdle = coef(hurdle2), zero_infl = coef(zi))
+parm.coef$diff <- abs(parm.coef$hurdle - parm.coef$zero_infl) #calculate absolute difference between parameters
+## Quite some differences between the zero part of the models
+parm.coef$part <- c(rep("count",44),rep("zero",nrow(parm.coef)-44))
+ggplot(parm.coef, aes(hurdle,zero_infl,colour=part)) + geom_point() + theme_bw()
+
 
 
 ### What about removing 2018: no warning!

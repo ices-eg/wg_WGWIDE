@@ -12,13 +12,13 @@ library(pscl)
 #resultpath="M:/git/wg_WGWIDE/NSHM/results/"
 #figPath <- "M:/git/wg_WGWIDE/NSHM/figures/model/"
 
-datpath="C:/git/wg_WGWIDE/NSHM/data/"
+datpath="NSHM/Assessment 2019/data/"
 resultpath="C:/git/wg_WGWIDE/NSHM/results/"
 figPath <- "C:/git/wg_WGWIDE/NSHM/figures/model/"
 
 # Load cleaned survey data
 #data <- read.csv("M:/My Documents/WGWIDE/Assessment 2019/NSHM/data_exploration/survey_data/survey_data_1992-2018_clean.csv",stringsAsFactors = FALSE)
-data <- read.csv(paste0(resultpath,"survey_data_1992-2018_clean.csv",sep=""),stringsAsFactors = FALSE)
+data <- read.csv(paste0(datpath,"survey_data_1992-2018_clean.csv",sep=""),stringsAsFactors = FALSE)
 
 
 #### Prepare the data for modelling
