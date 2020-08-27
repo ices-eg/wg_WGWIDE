@@ -290,6 +290,43 @@ print(p)
 dev.off()
 
 
+###################### Distribution of catches country  ###################################
+
+# Load catch data from InterCatch output
+data=read.csv(paste0(dataPath,"InterCatch/Ages from InterCatch/NSHM_2019_catch_table.csv"), stringsAsFactors = FALSE)
+
+# Group some categories or change names
+data$CatchCategory=revalue(data$CatchCategory, c("BMS landing"="Landings", "Logbook Registered Discard"="Discards"))
+data$Area = revalue(data$Area,c("27.3.a.nshm"="27.3.a","27.4.a.nshm"="27.4.a"))
+
+# Select data of interest
+choice=c("Country","Year","CatchCategory","Season","CATON")
+data=data[,names(data) %in% choice]
+colnames(data)=c("country","year","category","season","catch")
+data$season[data$season == 2019] <- "all"
+
+
+#catch in tons
+data$catch=data$catch/1000
+
+
+png(paste(figPath, "catch_country_quarter.png", sep=""), width=1500, heigh= 1500, units="px", pointsize=7, bg="white", res=300)
+
+p=ggplot(data,aes(country, fill=season, weight=catch))
+p= p + geom_bar(position="stack", width=0.75)
+p= p + scale_fill_brewer(palette="Set1", name="Quarter")
+p = p + theme(text = element_text(size=10))+labs(x="Country",y="Catch (tons)")  
+p = p + theme(legend.title=element_blank(), legend.text = element_text(size = 8)) 
+p = p + theme(axis.text.x = element_text(hjust = 1, vjust = 0.25, size = 8,angle = 90)) + 
+  theme(axis.text.y = element_text(size = 6.5)) 
+p = p + theme(panel.background = element_rect(fill = "white")) 
+p = p  + ggtitle("Catch by country and quarter") + theme(plot.title = element_text(color="grey40", size=12, face="bold.italic", hjust=0.5))
+p = p + theme(axis.line.x = element_line(size = 0.5, colour = "grey30"),axis.line.y = element_line(size = 0.5, colour = "grey30"))
+print(p)
+
+dev.off()
+
+
 
 ###################### Distribution of catches by season and country  ###################################
 

@@ -14,7 +14,7 @@ figpath <- "NSHM/Assessment 2020/figures/survey/"
 outpath <- "NSHM/Assessment 2020/results/survey/"
 
 # Load data
-load("NSHM/Assessment 2020/results/survey/survey_data_1992-2018_clean.RData")
+load("NSHM/Assessment 2020/results/survey/survey_data_1992-2019_clean.RData")
 
 # Set years
 Years <- c(2014:2019)
@@ -296,13 +296,14 @@ dev.off()
 #  Map now several years together 2014-2018.
 selecdata <- subset(datos, Year %in% Years)
 
-png(filename=paste(figpath,"Adult_bubble_plot_CPUE_",years[1],"-",years[6],".png",sep=""), heigh=1600, width=2500, units="px", pointsize=5, res=300)
+png(filename=paste(figpath,"Adult_bubble_plot_CPUE_",Years[1],"-",Years[6],".png",sep=""), heigh=1600, width=2500, units="px", pointsize=5, res=300)
 
 par(oma=c(0,0,0,0))
 mapPoints <- ggplot() +  
   borders(fill="azure3",colour = "azure3") +
   coord_quickmap(xlim=limx,ylim=limy) +
-  geom_point(aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), data = selecdata, alpha = .5, colour="red") +  
+  geom_point(data = selecdata[selecdata$CPUE==0,], aes(x = ShootLong, y = ShootLat), shape=4) +  
+  geom_point(data = selecdata[selecdata$CPUE>0,], aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), alpha = .4, colour="red") +  
   facet_wrap(~Year, labeller = label_both, nrow=2, ncol=3) + 
   theme(text = element_text(size=14)) + 
   labs(x="Longitude",y="Latitude") + 
@@ -315,15 +316,16 @@ dev.off()
 
 
 # Now map only the CGFS for the last six years
-selecdata <- subset(datos, Year %in% years & Survey %in% "FR-CGFS")
+selecdata <- subset(datos, Year %in% Years & Survey %in% "FR-CGFS")
 
-png(filename=paste(figpath,"Adult_bubble_plot_CPUE_",years[1],"-",years[6],"_CGFS.png",sep=""), heigh=1600, width=2500, units="px", pointsize=5, res=300)
+png(filename=paste(figpath,"Adult_bubble_plot_CPUE_",Years[1],"-",Years[6],"_CGFS.png",sep=""), heigh=1600, width=2500, units="px", pointsize=5, res=300)
 
 par(oma=c(0,0,0,0))
 mapPoints <- ggplot() +  
   borders(fill="azure3",colour = "azure3") +
   coord_quickmap(xlim=c(-2,2),ylim=c(49,51.5)) +  
-  geom_point(aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), data = selecdata, alpha = .5,colour="red") +  
+  geom_point(data = selecdata[selecdata$CPUE==0,], aes(x = ShootLong, y = ShootLat), shape=4) +  
+  geom_point(data = selecdata[selecdata$CPUE>0,], aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), alpha = .4, colour="red") +    
   facet_wrap(~Year, labeller = label_both, nrow=2, ncol=3) + 
   theme(text = element_text(size=14)) + 
   labs(x="Longitude",y="Latitude") + ggtitle("Exploitable substock")+  
@@ -423,13 +425,14 @@ dev.off()
 # Plot maps of all years together
 selecdata <- subset(datos, Year %in% Years)
 
-png(filename=paste(figpath,"Juvenile_bubble_plot_CPUE_",years[1],"-",years[6],".png",sep=""), height=1600, width=2500, units="px", pointsize=5, res=300)
+png(filename=paste(figpath,"Juvenile_bubble_plot_CPUE_",Years[1],"-",Years[6],".png",sep=""), height=1600, width=2500, units="px", pointsize=5, res=300)
 
 par(oma=c(0,0,0,0))
 mapPoints <- ggplot() +  
   borders(fill="azure3",colour = "azure3") +
   coord_quickmap(xlim=limx,ylim=limy) +
-  geom_point(aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), data = selecdata, alpha = .5, colour="red") +  
+  geom_point(data = selecdata[selecdata$CPUE==0,], aes(x = ShootLong, y = ShootLat), shape=4) +  
+  geom_point(data = selecdata[selecdata$CPUE>0,], aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), alpha = .4, colour="red") +    
   facet_wrap(~Year, labeller = label_both, nrow=2, ncol=3) + 
   theme(text = element_text(size=14)) + 
   labs(x="Longitude",y="Latitude") + 
@@ -450,7 +453,8 @@ par(oma=c(0,0,0,0))
 mapPoints <- ggplot() +  
   borders(fill="azure3",colour = "azure3") +
   coord_quickmap(xlim=c(-2,2),ylim=c(49,51.5)) +  
-  geom_point(aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), data = selecdata, alpha = .5, colour="red") +  
+  geom_point(data = selecdata[selecdata$CPUE==0,], aes(x = ShootLong, y = ShootLat), shape=4) +  
+  geom_point(data = selecdata[selecdata$CPUE>0,], aes(x = ShootLong, y = ShootLat, size = sqrt(CPUE)), alpha = .4, colour="red") +    
   facet_wrap(~Year, labeller = label_both, nrow=2, ncol=3) + 
   theme(text = element_text(size=14)) + 
   labs(x="Longitude",y="Latitude") + 
