@@ -42,10 +42,6 @@ for(area in areaUnique){
 }
 caton_area_cat_2019 <- outArray/1000 #convert from kg to tonnes
 
-###!!! Due to issues with the raising method and data of the French discards, we exclude them!! 
-### Note that we can still use the length frequency data
-caton_area_cat_2019["27.7.d","Discards"] <- NA
-
 # Calculate the total catch in 2019 
 caton_2019 <- sum(caton_area_cat_2019, na.rm=TRUE) 
 

@@ -1,16 +1,16 @@
 ############################################################################################################-
-# Prepare and process lenght frequency data of InterCatch and the PFA
+# Prepare lenght frequency data of InterCatch and the PFA
 #
 # Length distributions per country, quarter and area will be summed by area, and proportional length
 # distributions per area will be calculated.
 # Input values are numbers in thousands. Data were gathered from the InterCatch files provided by each
-# country and the PFA separately.
+# country and the PFA.
 #
 # Created by Benoit Berges, adapted by Esther Beukhof
 ############################################################################################################-
 
-dataPath <- "NSHM/Assessment 2020/data/commercial/length/"
-resPath  <- "NSHM/Assessment 2020/results/commercial/length/"
+dataPath <- "NSHM/Assessment 2020/data/length/"
+resPath  <- "NSHM/Assessment 2020/results/length/"
 
 ########################## InterCatch length frequencies ########################## 
 
