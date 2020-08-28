@@ -1,7 +1,7 @@
 ############################################################################################################-
-# Length-based indicators (LBI) based on the commercial length frequency data
+# Length-based indicators (LBI) based on the PFA length frequency data from both 7.d
 #
-# As we only have data from 7.d from multiple years, only 7.d data will be used
+# As most catches and LF data are from 7.d, the analysis is only based on data from 7.d
 #
 # Created by Alfonso Perez Rodriguez, adapted by Benoit Berges and Esther Beukhof
 ############################################################################################################-
@@ -22,7 +22,7 @@ figAdvice    <- "NSHM/Assessment 2020/figures/advice/"
 
 # Settings
 years      <-c(2016:2019)
-title_name <- 'NSHM'
+title_name <- 'NSHM_PFA'
 
 # Create empty array where to store results
 adviceOut <- array(0,dim=c(2,0))
@@ -33,9 +33,9 @@ for (i in years){
   
   # Load data from year of interest
   if(i %in% years[c(1:length(years)-1)]){
-    data <- read.table(paste0(dataHistPath,'InterCatch/historic/NSHM_LF_area_',as.character(i),".csv"),sep=',',header=TRUE,check.names=FALSE)
+    data <- read.table(paste0(dataHistPath,'PFA/historic/NSHM_LF_area_PFA_',as.character(i),".csv"),sep=',',header=TRUE,check.names=FALSE)
   } else{
-    data <- read.table(paste0(dataPath,'/NSHM_LF_area_',as.character(i),".csv"),sep=',',header=TRUE,check.names=FALSE)
+    data <- read.table(paste0(dataPath,'/NSHM_LF_area_PFA_',as.character(i),".csv"),sep=',',header=TRUE,check.names=FALSE)
   }
   
   # Create empty data frame
@@ -142,7 +142,7 @@ for (i in years){
   abline(v=Lc,col="olivedrab",lty=2); text(Lc-0.9,max(dat$prop)-0.02,label="Lc",col="olivedrab",cex=0.8)
   abline(v=Lmean,col="red3",lty=2); text(Lmean-1.9,max(dat$prop)+0.009,label="Lmean",col="red3",cex=0.8)
   abline(v=Lfm,col="blue",lty=2); text(Lfm+1.4,max(dat$prop)+0.005,label="Lfm",col="blue",cex=0.8)
-  text(Linf,mean(dat$prop)-0.1,label=paste("ratio F/Fmsy = ",round(ratio_F_Fmsy,digits=3),sep=""),col="blue",cex=1.4)
+  text(40,0.1,label=paste("ratio F/Fmsy = ",round(ratio_F_Fmsy,digits=3),sep=""),col="blue",cex=1.4)
   
   dev.off()
   
@@ -165,7 +165,7 @@ for (i in years){
 # figure for advice
 png(filename=paste(figAdvice,title_name,"_advice",".png",sep=""),width = 1500, height = 1200, units = "px", pointsize = 5,bg = "white", res = 450)
 
-minYear <- 2016
+minYear <- 2018
 plot(adviceOut[1,],adviceOut[2,],type="b", pch=19, lwd=1.2, cex=1.2, xlab="Year", ylab="Indicator ratio", 
      cex.lab=1.5, cex.main=1.5,xlim=c(min(adviceOut[1,])-0.5,max(adviceOut[1,])+0.5),ylim=c(0,max(adviceOut[2,])+0.8),
      las=1,mgp=c(2.5,0.5,0),col="blue", lab=c(3,1,1),bty="l")
