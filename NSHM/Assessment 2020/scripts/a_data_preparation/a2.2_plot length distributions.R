@@ -80,6 +80,21 @@ print(p)
 ggsave("LF_years_4a.png",plot = p, path = figPath,  width = 4, height = 5)
 
 
+# Calculate mean length for each year in 7.d
+years <- sort(unique(LF_all_7d$year))
+meanLength_7d <- data.frame(year=years, length=rep(NA,length(years)))
+for(i in 1:length(years)){
+  dat <- subset(LF_all_7d, year %in% years[i])
+  meanLength_7d[i,2] <- sum(dat$length_class * dat$prop)
+}
+
+# Calculate mean length for each year in 4.a
+years <- sort(unique(LF_all_4a$year))
+meanLength_4a <- data.frame(year=years, length=rep(NA,length(years)))
+for(i in 1:length(years)){
+  dat <- subset(LF_all_4a, year %in% years[i])
+  meanLength_4a[i,2] <- sum(dat$length_class * dat$prop)
+}
 
 ########################## PFA length frequencies ########################## 
 
@@ -136,6 +151,13 @@ p <- ggplot(LF_pfa_all_7d, aes(length_class,prop)) +
 print(p)            
 ggsave("LF_PFA_years_7d.png",plot = p, path = figPath, width = 5, height = 7)
 
+# Calculate mean length for each year in 7.d
+years <- sort(unique(LF_pfa_all_7d$year))
+meanLength_pfa_7d <- data.frame(year=years, length=rep(NA,length(years)))
+for(i in 1:length(years)){
+  dat <- subset(LF_pfa_all_7d, year %in% years[i])
+  meanLength_pfa_7d[i,2] <- sum(dat$length_class * dat$prop)
+}
 
 
 

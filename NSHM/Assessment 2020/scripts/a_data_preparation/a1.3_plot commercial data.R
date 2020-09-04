@@ -621,8 +621,7 @@ cont      <- length(coh)
 par_a     <- vector(length=cont)
 par_b     <- vector(length=cont)
 pvalue_b  <- vector(length=cont)
-for(i in 1:cont)
-{
+for(i in 1:cont){
   datsel=data[data$cohort==coh[i],]
   
   datsel <- as.data.frame(stkCohort[,as.character(coh[i])])
@@ -639,7 +638,9 @@ for(i in 1:cont)
 result=data.frame(par_a,par_b,pvalue_b)
 
 png(paste(figPath, "Catch_curves_by_cohort_par_slope.png", sep=""), width=2500, heigh= 1500, units="px", pointsize=10, bg="white", res=300)
-plot(coh,-par_b, type="b", pch=19, xlab="Cohort", ylab="Total mortality Z", main="Total mortality by cohort", cex.main=1.8, cex.axis=1.3, cex.lab=1.5, ylim=c(0,max(-par_b)))
+plot(coh,-par_b, type="b", pch=19, xlab="Cohort", ylab="Total mortality Z", main="Total mortality by cohort", 
+     cex.main=1.8, cex.axis=1.3, cex.lab=1.5, ylim=c(0,max(-par_b)), xaxt="none")
+axis(1, seq(startYearCohort,endYearCohort,1))
 dev.off()
 
 write.csv(drop(stkCohort),paste(resPath,"catch_at_age_cohort.csv",sep=","), row.names=F)

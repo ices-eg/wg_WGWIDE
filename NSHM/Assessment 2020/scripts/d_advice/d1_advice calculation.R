@@ -88,6 +88,9 @@ discardRate2 <- sum(discards$caton[discards$Year == yearIndexA[2]])/sum(catchDat
 
 discardRate <- mean(c(discardRate1,discardRate2))
 
+colnames(outArray) <- c("Year","discardRate")
+write.csv(outArray,"NSHM/Assessment 2020/results/commercial/discardRate.csv", row.names = FALSE)
+
 discardAdvice   <- catchAdvice*discardRate
 landingsAdvice  <- catchAdvice - catchAdvice*discardRate
 
