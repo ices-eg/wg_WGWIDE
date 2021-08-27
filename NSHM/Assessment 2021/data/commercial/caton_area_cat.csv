@@ -1,0 +1,215 @@
+Year;Area;CatchCategory;caton
+1982;27.3.a_27.4.b;Landings;2788
+1982;27.7.d;Landings;1247
+1983;27.3.a_27.4.b;Landings;4420
+1983;27.7.d;Landings;3600
+1984;27.3.a_27.4.b;Landings;25893
+1984;27.7.d;Landings;3585
+1985;27.4.b_27.4.c;Landings;22897
+1985;27.7.d;Landings;2715
+1986;27.4.b_27.4.c;Landings;19496
+1986;27.7.d;Landings;4756
+1987;27.3.a;Landings;1138
+1987;27.4.b_27.4.c;Landings;9477
+1987;27.7.d;Landings;1721
+1988;27.3.a;Landings;396
+1988;27.4.b_27.4.c;Landings;18290
+1988;27.7.d;Landings;3120
+1989;27.3.a;Landings;436
+1989;27.4.b_27.4.c;Landings;25830
+1989;27.7.d;Landings;6522
+1990;27.3.a;Landings;2261
+1990;27.4.b_27.4.c;Landings;17437
+1990;27.7.d;Landings;1325
+1991;27.3.a;Landings;913
+1991;27.4.b_27.4.c;Landings;11400
+1991;27.7.d;Landings;600
+1992;27.4.b_27.4.c;Landings;13955
+1992;27.7.d;Landings;688
+1992;all;Discards;400
+1993;27.4.b_27.4.c;Landings;3895
+1993;27.7.d;Landings;8792
+1993;all;Discards;930
+1994;27.4.b_27.4.c;Landings;2496
+1994;27.7.d;Landings;2503
+1994;all;Discards;630
+1995;27.3.a;Landings;112
+1995;27.4.b_27.4.c;Landings;7948
+1995;27.7.d;Landings;8666
+1995;all;Discards;30
+1996;27.3.a;Landings;1657
+1996;27.4.b_27.4.c;Landings;7558
+1996;27.7.d;Landings;9416
+1996;all;Discards;212
+1997;27.4.b_27.4.c;Landings;14078
+1997;27.7.d;Landings;5452
+1997;all;Discards;10
+1998;27.3.a;Landings;3693
+1998;27.4.b_27.4.c;Landings;10530
+1998;27.7.d;Landings;16194
+1998;all;Discards;83
+1999;27.4.b_27.4.c;Landings;9335
+1999;27.7.d;Landings;27889
+2000;27.4.a;Landings;176
+2000;27.4.b;Landings;7636.708
+2000;27.4.c;Discards;3.7
+2000;27.4.c;Landings;18294.054
+2000;27.7.d;Landings;19019.115
+2001;27.3.a;Landings;43
+2001;27.4.a;Landings;212.24
+2001;27.4.b;Landings;2551.769
+2001;27.4.c;Landings;4133.748
+2001;27.7.d;Landings;21390.001
+2002;27.4.a;Landings;638.67
+2002;27.4.b;Landings;1894.013
+2002;27.4.c;Landings;13409.044
+2002;27.7.d;Landings;11322.731
+2003;27.3.a;Landings;49.26
+2003;27.4.a;Landings;621.7
+2003;27.4.b;Landings;2337.991
+2003;27.4.c;Landings;7970.901
+2003;27.7.d;Landings;21048.633
+2004;27.3.a;Landings;303.004
+2004;27.4.a;Landings;133.30561
+2004;27.4.b;Landings;2621.386
+2004;27.4.c;Landings;15922.192
+2004;27.7.d;Landings;16455.1485
+2005;27.3.a;Landings;0.3
+2005;27.4.a;Landings;1331.41
+2005;27.4.b;Landings;2809.9
+2005;27.4.c;Landings;11184.957
+2005;27.7.d;Discards;62.05282
+2005;27.7.d;Landings;15459.88
+2006;27.3.a;Landings;185
+2006;27.4.a;Landings;2192.12
+2006;27.4.b;Landings;1580.225
+2006;27.4.c;Landings;6415.385
+2006;27.7.d;Discards;78
+2006;27.7.d;Landings;23789.32171
+2007;27.3.a;Landings;11
+2007;27.4.a;Landings;2050.6
+2007;27.4.b;Landings;1115.149
+2007;27.4.c;Discards;120
+2007;27.4.c;Landings;7998.873
+2007;27.7.d;Discards;19
+2007;27.7.d;Landings;29788.77571
+2008;27.3.a;Landings;26.73
+2008;27.4.a;Landings;909.84
+2008;27.4.b;Landings;383.819
+2008;27.4.c;Landings;2198.054
+2008;27.7.d;Landings;32185.148
+2009;27.3.a;Landings;21.112
+2009;27.4.a;Landings;313.872
+2009;27.4.b;Landings;13926.99359
+2009;27.4.c;Discards;1035.8202
+2009;27.4.c;Landings;5047.55826
+2009;27.7.d;Landings;25537.48076
+2010;27.3.a;Landings;0.21
+2010;27.4.a;Landings;100.375
+2010;27.4.b;Landings;861.04
+2010;27.4.c;Landings;1108.034
+2010;27.7.d;Discards;2.427
+2010;27.7.d;Landings;22076.837
+2011;27.3.a;Landings;0.169
+2011;27.4.b;Landings;7902.795
+2011;27.4.c;Landings;2531.788
+2011;27.7.d;Landings;17184.195
+2012;27.3.a;Landings;0.157
+2012;27.4.a;Landings;354.881
+2012;27.4.b;Landings;151.58613
+2012;27.4.c;Landings;1407.19302
+2012;27.7.d;Landings;19463.89102
+2013;27.3.a;Landings;0.02
+2013;27.4.a;Landings;17.216
+2013;27.4.b;Landings;799.45013
+2013;27.4.c;Landings;653.58086
+2013;27.7.d;Landings;17174.73553
+2014;27.3.a;Discards;0.34
+2014;27.3.a;Landings;1.338
+2014;27.4.a;Discards;0.065
+2014;27.4.a;Landings;2.103
+2014;27.4.b;Discards;6.791
+2014;27.4.b;Landings;294.76351
+2014;27.4.c;Discards;0.0071
+2014;27.4.c;Landings;2302.47748
+2014;27.7.d;Discards;0.2736
+2014;27.7.d;Landings;10771.98319
+2015;27.3.a;Discards;0.219
+2015;27.3.a;Landings;3.388
+2015;27.4.a;Discards;0.00244
+2015;27.4.a;Landings;644.019
+2015;27.4.b;BMS landing;0.068
+2015;27.4.b;Discards;12.28484
+2015;27.4.b;Landings;41.72684
+2015;27.4.c;Landings;727.79238
+2015;27.7.d;BMS landing;4.553
+2015;27.7.d;Discards;1991.38668
+2015;27.7.d;Landings;8576.43981
+2016;27.3.a;BMS landing;0
+2016;27.3.a;Discards;2.515
+2016;27.3.a;Landings;1.557
+2016;27.4.a;BMS landing;0
+2016;27.4.a;Discards;0.151
+2016;27.4.a;Landings;1628.419
+2016;27.4.b;BMS landing;0
+2016;27.4.b;Discards;69.016
+2016;27.4.b;Landings;107.14925
+2016;27.4.c;BMS landing;0
+2016;27.4.c;Discards;26.85908
+2016;27.4.c;Landings;867.57917
+2016;27.7.d;BMS landing;1.244
+2016;27.7.d;Discards;1428.43022
+2016;27.7.d;Landings;11207.62524
+2017;27.3.a;Discards;0.012
+2017;27.3.a;Landings;0.022
+2017;27.4.a;BMS landing;0
+2017;27.4.a;Discards;34.01161
+2017;27.4.a;Landings;22.076
+2017;27.4.b;BMS landing;0
+2017;27.4.b;Discards;19.975
+2017;27.4.b;Landings;101.53544
+2017;27.4.c;Discards;0.49497
+2017;27.4.c;Landings;2455.21804
+2017;27.7.d;Discards;1158.35505
+2017;27.7.d;Landings;10787.35887
+2018;27.3.a;Discards;0.301
+2018;27.3.a;Landings;0.158
+2018;27.4.a;Discards;37.53
+2018;27.4.a;Landings;1418.571
+2018;27.4.b;Discards;4.774
+2018;27.4.b;Landings;210.7677
+2018;27.4.c;Discards;1.57536
+2018;27.4.c;Landings;1202.3275
+2018;27.7.d;Discards;220.45719
+2018;27.7.d;Landings;11676.3906
+2018;27.7.d;BMS landing;0.253
+2019;27.3.a;BMS landing;0
+2019;27.3.a;Discards;0.642
+2019;27.3.a;Landings;0.545
+2019;27.4.a;BMS landing;0
+2019;27.4.a;Discards;4.907
+2019;27.4.a;Landings;2570.782
+2019;27.4.b;BMS landing;0
+2019;27.4.b;Discards;7.898
+2019;27.4.b;Landings;105.58141
+2019;27.4.c;BMS landing;0
+2019;27.4.c;Discards;0
+2019;27.4.c;Landings;1111.63526
+2019;27.7.d;BMS landing;1.656
+2019;27.7.d;Discards;171.6751
+2019;27.7.d;Landings;7827.46797
+2020;27.3.a;BMS landing;0
+2020;27.3.a;Discards;0.429
+2020;27.3.a;Landings;0.11
+2020;27.4.a;BMS landing;0
+2020;27.4.a;Discards;1.714
+2020;27.4.a;Landings;2210.95462
+2020;27.4.b;BMS landing;0
+2020;27.4.b;Discards;11.899
+2020;27.4.b;Landings;41.34926
+2020;27.4.c;BMS landing;0.149
+2020;27.4.c;Discards;0
+2020;27.4.c;Landings;1056.33288
+2020;27.7.d;BMS landing;1.919
+2020;27.7.d;Discards;186.81618
+2020;27.7.d;Landings;9075.45038

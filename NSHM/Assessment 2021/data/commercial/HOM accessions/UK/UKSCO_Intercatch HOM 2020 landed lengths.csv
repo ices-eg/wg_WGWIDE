@@ -1,0 +1,21 @@
+HI,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,kWd,6208515.9118462,NA
+HI,UKS,2020,Year,2020,OTB_DEF_>=120_0_0_all,Div,27.6.a,NA,kWd,2391432.1027782,NA
+HI,UKS,2020,Year,2020,OTB_CRU_70-99_0_0_all,Div,27.7.d,NA,kWd,150700.87499963,NA
+HI,UKS,2020,Year,2020,OTB_CRU_70-99_0_0_all,Div,27.7.e,NA,kWd,5742.3333333,NA
+SI,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,NA,H,M,NA,t,304.157,304.157,-9,NA,Unit for NumSamplesLengt & NumSamplesAge is Number of trips,NA
+SI,UKS,2020,Year,2020,OTB_DEF_>=120_0_0_all,Div,27.6.a,NA,HOM,NA,L,R,NA,H,M,NA,t,25.223,25.223,-9,NA,Unit for NumSamplesLengt & NumSamplesAge is Number of trips,NA
+SI,UKS,2020,Year,2020,OTB_CRU_70-99_0_0_all,Div,27.7.d,NA,HOM,NA,L,R,NA,H,M,NA,t,24.028,24.028,-9,NA,Unit for NumSamplesLengt & NumSamplesAge is Number of trips,NA
+SI,UKS,2020,Year,2020,OTB_CRU_70-99_0_0_all,Div,27.7.e,NA,HOM,NA,L,R,NA,H,M,NA,t,2.622,2.622,-9,NA,Unit for NumSamplesLengt & NumSamplesAge is Number of trips,NA
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,260,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,20.691,0.156,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,270,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,10.345,0.176,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,280,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,51.727,0.199,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,290,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,82.764,0.223,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,300,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,62.073,0.249,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,310,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,72.418,0.278,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,320,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,51.727,0.308,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,330,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,93.109,0.341,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,340,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,144.837,0.376,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,350,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,165.528,0.414,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,360,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,93.109,0.454,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,370,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,31.036,0.497,-9,-9,-9,-9
+SD,UKS,2020,Year,2020,MIS_MIS_0_0_0_HC,Div,27.6.a,NA,HOM,NA,L,R,N,lngt,380,-9,304.157,1,86,-9,-9,kg,k,mm,cm,NA,10.345,0.543,-9,-9,-9,-9

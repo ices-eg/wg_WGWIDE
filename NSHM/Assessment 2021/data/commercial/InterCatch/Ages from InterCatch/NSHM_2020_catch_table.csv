@@ -1,0 +1,284 @@
+Stock;Country;Year;CatchCategory;ReportingCategory;CATONRaisedOrImported;MisreportedArea;Area;Season;SeasonType;Fleet;CATON;Effort;UnitEffort;OfficialLandings;SampledOrEstimated;SampledCatch;No. of Length Samples;No. of Length Measured;No. of Age Samples;No. Age Readings
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;OTB_CRU_70-99_0_0_all;63;12828;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;OTB_DEF_32-69_0_0_all;731;63211;kWd;1000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;TrawlPlus;4368;183665;kWd;4000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_CRU_70-99_0_0_all;3;1537;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_DEF_32-69_0_0_all;85;11354;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;TrawlPlus;10869;811091;kWd;11000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;390;-9;NA;390;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;86;-9;NA;86;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;35;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;116;-9;NA;116;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;28;-9;NA;28;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_IBC;4107;-9;NA;4107;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;3487;-9;NA;3487;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.b;1;Quarter;MIS_MIS_0_0_0_HC;13;-9;NA;13;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;1;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.c;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;1;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Faroe Islands;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;All;109000;-9;NA;109000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;1943.62;46500;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;1;Quarter;OTB_DEF_70-99_0_0;11.9;2681;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;OTB_DEF_70-99_0_0;1736.23;113263;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;1;Quarter;OTB_DEF_70-99_0_0;0;113263;kWd;250;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;SSC_DEF_70-99_0_0_all;85.89;7584;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;MIS_MIS_0_0_0;839.62;2537956;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_DEF_100-119_0_0;0;4968;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_DEF_70-99_0_0;29424.76;700078;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_DEF_70-99_0_0;0;700078;kWd;8360;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_SPF_70-99_0_0_all;8991.91;93852;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_SPF_70-99_0_0_all;0;93852;kWd;200;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_DEF;0.52;4276;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_DEF;0;4276;kWd;438;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_32-69_0_0_all;1998.48;38185;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_70-99_0_0_all;485.45;26025;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;SSC_DEF_70-99_0_0_all;7806.99;90826;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;0;188524;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;OTM_SPF_32-69_0_0_all;350;188524;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;OTB_DEF_70-99_0_0_all;100;19125;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.4.c;1;Quarter;OTM_SPF_32-69_0_0_all;0;30370;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;SSC_DEF_All_0_0_All;2680;73504;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;1;Quarter;TBB_DEF_70-99_0_0_all;20;3656059;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTB_DEF_70-99_0_0_all;80;1344;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_32-69_0_0_all;0;33547;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;OTM_SPF_32-69_0_0_all;9510;33547;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;1;Quarter;SSC_DEF_All_0_0_All;56580;401261;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Norway;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;1;Quarter;HM-ALL;1330658;-9;NA;1331000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;FPO_CRU_0_0_0_all;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;GNS_DEF_all_0_0_all;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Landings;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;HM-ALL;16;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;OTB_CRU_32-69_2_22_all;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;1;Quarter;OTB_CRU_70-89_2_35_all;39;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;1;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;1;Quarter;HM-ALL;3810;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;1;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;1;Quarter;HM-ALL;37037;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTB_DEF_100-119_0_0;34;106724;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;TrawlPlus;1214;131147;kWd;1000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_CRU_70-99_0_0_all;265;9382;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;TrawlPlus;6880;228459;kWd;7000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;TrawlPlus;5434;299382;kWd;5000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;5;-9;NA;5;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;1598;-9;NA;1598;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;18;-9;NA;18;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_HC;954;-9;NA;954;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_IBC;6615;-9;NA;6615;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.c;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;MIS_MIS_0_0_0_IBC;3185;-9;NA;3185;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;2;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;MIS_MIS_0_0_0;102.77;107122;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTB_SPF_70-99_0_0_all;767.16;53513;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTM_DEF;62.4;27;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTM_SPF_70-99_0_0_all;13.86;43986;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;SSC_DEF_70-99_0_0_all;23.65;12910;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;MIS_MIS_0_0_0;1850.36;157092;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_DEF_70-99_0_0;30765.41;52834;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_DEF_70-99_0_0;0;52834;kWd;300;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_SPF_70-99_0_0_all;8524.96;12423;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTM_DEF;775.83;5114;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTM_SPF_32-69_0_0_all;1322.09;12427;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTM_SPF_70-99_0_0_all;1500.4;7269;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;SSC_DEF_70-99_0_0_all;37699.78;41011;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;2;Quarter;SSC_DEF_70-99_0_0_all;0;41011;kWd;2700;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;MIS_MIS_0_0_0;15136.94;1685245;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTB_DEF_100-119_0_0;44.52;13428;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTB_DEF_70-99_0_0;64669.74;764547;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;OTB_DEF_70-99_0_0;0;764547;kWd;3508;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTB_SPF_70-99_0_0_all;31115.27;51672;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;OTB_SPF_70-99_0_0_all;0;51672;kWd;140;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_DEF;21.84;943;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_DEF_32-69_0_0_all;313.03;1963;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_DEF_70-99_0_0_all;795.6;6481;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_32-69_0_0_all;6089.35;72926;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_32-69_0_0_all;0;72926;kWd;1050;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_70-99_0_0_all;11969.81;28451;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;OTM_SPF_70-99_0_0_all;0;28451;kWd;150;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;SSC_DEF_70-99_0_0_all;25706.92;58979;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;2;Quarter;SSC_DEF_70-99_0_0_all;0;58979;kWd;3550;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Germany;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;OTM_SPF_32-69_0_0_all;1088;-9;NA;1000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;OTM_SPF_32-69_0_0_all;400;445234;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;SSC_DEF_All_0_0_All;180;49378;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTB_DEF;300;663;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;OTB_DEF_70-99_0_0_all;530;14705;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;SSC_DEF_All_0_0_All;1570;115140;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;MIS_MIS_0_0_0_HC;20;61857;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_DEF;27930;4566;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_DEF_70-99_0_0_all;15980;18392;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;OTB_MCD_>=55_0_0;430;406;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;SSC_DEF_All_0_0_All;109570;236982;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;TBB_CRU_16-31_0_0_all;8040;471748;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;2;Quarter;TBB_DEF_70-99_0_0_all;6560;2708849;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;2;Quarter;SSC_DEF_All_0_0_All;10990;71797;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Norway;2020;Landings;Reported;Imported_Data; ;27.4.a.nshm;2;Quarter;HM-ALL;759695;-9;NA;760000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Landings;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;HM-ALL;3;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Discards;Reported;Imported_Data; ;27.3.a.nshm;2;Quarter;OTB_CRU_32-69_2_22_all;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Landings;Reported;Imported_Data; ;27.4.b;2;Quarter;HM-ALL;400;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;2;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;2;Quarter;HM-ALL;1305;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;2;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;2;Quarter;HM-ALL;15915;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;2;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;2;Quarter;HM-ALL;30687;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK(Scotland);2020;Landings;Reported;Imported_Data; ;27.7.d;2020;Year;OTB_CRU_70-99_0_0_all;24028;150700;kWd;24000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;OTB_DEF_100-119_0_0;16;198946;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;TrawlPlus;1934;207491;kWd;2000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_HC;10302;-9;NA;10302;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_HC;43;-9;NA;43;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_IBC;14323;-9;NA;14323;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;3;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;OTM_SPF_32-69_0_0_all;239;-9;NA;239;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;3;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.c;3;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;3;Quarter;MIS_MIS_0_0_0_IBC;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;0;-9;dop;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;MIS_MIS_0_0_0;10.4;20467;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;OTB_DEF_70-99_0_0;207.81;9538;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;OTB_SPF_70-99_0_0_all;593.31;5757;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;MIS_MIS_0_0_0;218.26;139694;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;3;Quarter;MIS_MIS_0_0_0;0;139694;kWd;100;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTB_DEF_70-99_0_0;4472.4;24606;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTB_SPF_70-99_0_0_all;1163.44;3241;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTM_DEF;292.23;4436;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTM_SPF_32-69_0_0_all;6633.46;13783;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTM_SPF_70-99_0_0_all;1426.79;3331;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;SSC_DEF_70-99_0_0_all;10863.52;56723;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;MIS_MIS_0_0_0;24890.81;1389147;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;MIS_MIS_0_0_0;0;1389147;kWd;474;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_DEF_100-119_0_0;672.89;16706;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_DEF_70-99_0_0;60578.89;1302115;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_DEF_70-99_0_0;0;1302115;kWd;20167;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_SPF_32-69_0_0_all;1446.7;24212;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_SPF_32-69_0_0_all;0;24212;kWd;20;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_SPF_70-99_0_0_all;8571.87;52803;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTB_SPF_70-99_0_0_all;0;52803;kWd;828;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_DEF;91.8;4752;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_DEF_32-69_0_0_all;20780.08;5199;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_DEF_70-99_0_0_all;98.07;3811;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Discards;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;186794.18;169970;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;43022.16;169970;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;0;169970;kWd;2773;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_70-99_0_0_all;5802.75;36922;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_70-99_0_0_all;0;36922;kWd;94;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;SSC_DEF_70-99_0_0_all;9999.29;182738;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;3;Quarter;SSC_DEF_70-99_0_0_all;0;182738;kWd;2764;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Germany;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;OTM_SPF_32-69_0_0_all;50;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.4.b;3;Quarter;OTM_SPF_32-69_0_0_all;0;183233;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;SSC_DEF_All_0_0_All;1210;65218;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTB_DEF;13130;2784;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTB_DEF_70-99_0_0_all;5370;25171;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;OTM_SPF_32-69_0_0_all;6090;13696;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;SSC_DEF_All_0_0_All;52460;225516;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;TBB_CRU_16-31_0_0_all;11380;866248;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;3;Quarter;TBB_DEF_70-99_0_0_all;2440;2915676;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;OTM_SPF_32-69_0_0_all;1565950;108048;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;3;Quarter;SSC_DEF_All_0_0_All;27500;109178;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Sweden;2020;Landings;Reported;Imported_Data; ;27.4.b;3;Quarter;HM-ALL;147;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;3;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;3;Quarter;HM-ALL;6842;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;3;Quarter;HM-ALL;149;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;3;Quarter;HM-ALL;1919;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;TrawlPlus;667;910813;kWd;1000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_CRU_70-99_0_0_all;348;21078;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_DEF_32-69_0_0_all;845;63350;kWd;1000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;TrawlPlus;2316;248696;kWd;2000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_CRU_70-99_0_0_all;11;2951;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_DEF_32-69_0_0_all;400;22128;kWd;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Belgium;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;TrawlPlus;2608;415210;kWd;3000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Discards;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_HC;630;-9;NA;630;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_HC;152;-9;NA;152;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_HC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_IBC;1889;-9;NA;1889;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;4;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.b;4;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;OTM_SPF_32-69_0_0_all;869;-9;NA;869;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;4;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.4.c;4;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;MIS_MIS_0_0_0_IBC;110;-9;NA;110;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;4;Quarter;MIS_MIS_0_0_0_IBC;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;BMS landing;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;142130;-9;NA;142130;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Denmark;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;0;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;OTB_DEF_70-99_0_0;0;0;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.b;4;Quarter;OTB_DEF_70-99_0_0;0;0;kWd;240;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_DEF_70-99_0_0;5270.37;284129;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_DEF_70-99_0_0;0;284129;kWd;80;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_SPF_70-99_0_0_all;3338.81;4464;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTM_SPF_32-69_0_0_all;27804.44;11381;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;SSC_DEF_70-99_0_0_all;884.21;36238;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.4.c;4;Quarter;SSC_DEF_70-99_0_0_all;0;36238;kWd;332;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;MIS_MIS_0_0_0;904.32;3451147;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;4;Quarter;MIS_MIS_0_0_0;0;3451147;kWd;588;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_DEF_100-119_0_0;11.44;13597;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_DEF_70-99_0_0;8395.46;1043565;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_DEF_70-99_0_0;0;1043565;kWd;9551;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_SPF_70-99_0_0_all;1400.47;46466;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_DEF;18.03;36094;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_DEF;0;36094;kWd;26;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_DEF_70-99_0_0_all;65.59;4717;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;212343.18;180800;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Logbook Registered Discard;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;0;180800;kWd;116;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_70-99_0_0_all;60.23;27993;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;France;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;SSC_DEF_70-99_0_0_all;3503.6;164439;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Germany;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;OTM_SPF_32-69_0_0_all;12;-9;NA;0;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Germany;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;2100;-9;NA;2000;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;OTB_DEF_100-119_0_0_all;300;55104;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.b;4;Quarter;SSC_DEF_All_0_0_All;490;29156;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;OTB_DEF;1310;36384;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.4.c;4;Quarter;OTM_SPF_32-69_0_0_all;0;58237;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;SSC_DEF_All_0_0_All;9180;110595;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.4.c;4;Quarter;TBB_DEF_70-99_0_0_all;70;2512086;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTB_DEF;10;3922;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Discards;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;0;646955;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;SSC_DEF_All_0_0_All;55850;419569;kWd;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;4;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.b;4;Quarter;HM-ALL;339;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;4;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;BMS landing;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;4;Quarter;HM-ALL;0;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Discards;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;4;Quarter;HM-ALL;22;-9;NA;;Estimated_Distribution;0;0;0;0;0
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;3;Quarter;HM-ALL;210436;-9;NA;;Sampled_Distribution;0;0;0;2;50
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;3;Quarter;HM-ALL;826563;-9;NA;;Sampled_Distribution;0;0;0;16;399
+hom.27.3a4bc7d;Netherlands;2020;Landings;Reported;Imported_Data; ;27.7.d;4;Quarter;OTM_SPF_32-69_0_0_all;2798800;646955;kWd;;Sampled_Distribution;2854667;9;2034;9;223
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.4.c;4;Quarter;HM-ALL;385738;-9;NA;;Sampled_Distribution;0;0;0;4;100
+hom.27.3a4bc7d;UK (England);2020;Landings;All - reported, nonreported and misreported;Imported_Data; ;27.7.d;4;Quarter;HM-ALL;2860157;-9;NA;;Sampled_Distribution;0;0;0;28;695

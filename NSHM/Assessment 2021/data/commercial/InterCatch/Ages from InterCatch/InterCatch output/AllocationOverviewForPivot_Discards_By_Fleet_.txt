@@ -1,0 +1,135 @@
+File created:13/08/2021 15:22:28
+WG assessment year:2021
+Data year:2020
+Stock:hom.27.3a4bc7d,Stock description:Horse mackerel (Trachurus trachurus) in Divisions 3.a, 4.b-c, and 7.d (Skagerrak and Kattegat, southern and central North Sea, eastern English Channel)
+Allocation scheme:2020NSHOM_ageV4
+
+LIST OF UNSAMPLED STRATA AND THEIR ALLOCATED SAMPLED STRATA.
+
+YOU CAN USE THIS FILE TO HAVE A MATRIX OVERVIEW OF WHAT SAMPLED STRATA HAVE BEEN ALLOCATED TO WHICH UNSAMPLED STRATA
+
+There are 4 files:
+        - 2 specifying what is allocated to the unsampled LANDINGS
+            - 1 sorted by Fleet before season 
+            - 1 sorted by season before Fleet 
+        - 2 specifying what is allocated to the unsampled DISCARDS
+            - 1 sorted by Fleet before season
+            - 1 sorted by season  before Fleet 
+
+The patterns which visually can be seen in the allocations depend the sorting of the element (season or fleet) in the strata, depending on if the allocations have been primarily done according to season or fleet.
+
+
+   Explanation on how to use the output, for visual inspection:
+     1. Copy all the data into a spreadsheet.
+     2. Create a pivot table with the Unsampled as rows and the Sampled as columns.
+     3. Copy the pivot table but only with the header row and markers, out the sum row and column and column label.
+     4. Paste only values.\n
+     5. Select the Sampled row and format cell and select tab Alignment and align the text horizontal and adjust the column width.
+          
+
+Unsampled Discards strata,Allocated sampled strata,Marker
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_2_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.3.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_2_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.a.nshm_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_1_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_1_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_2_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_2_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_2_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_3_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_3_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_3_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_3_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_3_D,UKE_27.7.d_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_4_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_4_D,UKE_27.4.c_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_4_D,UKE_27.4.c_HM-ALL_4_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_4_D,UKE_27.7.d_HM-ALL_3_L,X
+DK_27.4.b_MIS_MIS_0_0_0_HC_4_D,UKE_27.7.d_HM-ALL_4_L,X
+FR_27.7.d_OTM_SPF_32-69_0_0_all_3_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+FR_27.7.d_OTM_SPF_32-69_0_0_all_3_D,UKE_27.4.c_HM-ALL_3_L,X
+FR_27.7.d_OTM_SPF_32-69_0_0_all_3_D,UKE_27.4.c_HM-ALL_4_L,X
+FR_27.7.d_OTM_SPF_32-69_0_0_all_3_D,UKE_27.7.d_HM-ALL_3_L,X
+FR_27.7.d_OTM_SPF_32-69_0_0_all_3_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.4.a.nshm_OTM_SPF_32-69_0_0_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.4.a.nshm_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.4.a.nshm_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.4.a.nshm_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.4.a.nshm_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.4.b_OTM_SPF_32-69_0_0_all_3_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.4.b_OTM_SPF_32-69_0_0_all_3_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.4.b_OTM_SPF_32-69_0_0_all_3_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.4.b_OTM_SPF_32-69_0_0_all_3_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.4.b_OTM_SPF_32-69_0_0_all_3_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_4_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_4_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_4_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_4_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.4.c_OTM_SPF_32-69_0_0_all_4_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_4_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_4_D,UKE_27.4.c_HM-ALL_3_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_4_D,UKE_27.4.c_HM-ALL_4_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_4_D,UKE_27.7.d_HM-ALL_3_L,X
+NL_27.7.d_OTM_SPF_32-69_0_0_all_4_D,UKE_27.7.d_HM-ALL_4_L,X
+SE_27.3.a.nshm_FPO_CRU_0_0_0_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+SE_27.3.a.nshm_FPO_CRU_0_0_0_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+SE_27.3.a.nshm_FPO_CRU_0_0_0_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+SE_27.3.a.nshm_FPO_CRU_0_0_0_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+SE_27.3.a.nshm_FPO_CRU_0_0_0_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+SE_27.3.a.nshm_GNS_DEF_all_0_0_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+SE_27.3.a.nshm_GNS_DEF_all_0_0_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+SE_27.3.a.nshm_GNS_DEF_all_0_0_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+SE_27.3.a.nshm_GNS_DEF_all_0_0_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+SE_27.3.a.nshm_GNS_DEF_all_0_0_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_2_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_2_D,UKE_27.4.c_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_2_D,UKE_27.4.c_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_2_D,UKE_27.7.d_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_32-69_2_22_all_2_D,UKE_27.7.d_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_70-89_2_35_all_1_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+SE_27.3.a.nshm_OTB_CRU_70-89_2_35_all_1_D,UKE_27.4.c_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_70-89_2_35_all_1_D,UKE_27.4.c_HM-ALL_4_L,X
+SE_27.3.a.nshm_OTB_CRU_70-89_2_35_all_1_D,UKE_27.7.d_HM-ALL_3_L,X
+SE_27.3.a.nshm_OTB_CRU_70-89_2_35_all_1_D,UKE_27.7.d_HM-ALL_4_L,X
+UKE_27.7.d_HM-ALL_4_D,NL_27.7.d_OTM_SPF_32-69_0_0_all_4_L,X
+UKE_27.7.d_HM-ALL_4_D,UKE_27.4.c_HM-ALL_3_L,X
+UKE_27.7.d_HM-ALL_4_D,UKE_27.4.c_HM-ALL_4_L,X
+UKE_27.7.d_HM-ALL_4_D,UKE_27.7.d_HM-ALL_3_L,X
+UKE_27.7.d_HM-ALL_4_D,UKE_27.7.d_HM-ALL_4_L,X

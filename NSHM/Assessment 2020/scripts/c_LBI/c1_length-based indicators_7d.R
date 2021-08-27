@@ -18,7 +18,9 @@ dataHistPath <- "NSHM/Assessment 2020/data/length/"
 dataPath     <- "NSHM/Assessment 2020/results/length/"
 resPath      <- "NSHM/Assessment 2020/results/length/"
 figPath      <- "NSHM/Assessment 2020/figures/length/"
-figAdvice    <- "NSHM/Assessment 2020/figures/advice/" 
+figAdvice    <- "NSHM/Assessment 2020/figures/advice/"
+advicePath   <- "NSHM/Assessment 2020/results/advice/"
+
 
 # Settings
 years      <-c(2016:2019)
@@ -161,6 +163,8 @@ for (i in years){
   
 }
 
+# Save 
+write.csv(adviceOut, file=paste0(advicePath, "NSHM_advice_7.d_Flm_Fmean_",min(years),"-",max(years),".csv"), row.names = FALSE)
 
 # figure for advice
 png(filename=paste(figAdvice,title_name,"_advice",".png",sep=""),width = 1500, height = 1200, units = "px", pointsize = 5,bg = "white", res = 450)
