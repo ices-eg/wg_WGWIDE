@@ -103,20 +103,22 @@ for (i in years){
   dev.off()
   
   # Calculate F/Fmsy ratio
-  ratio_F_Fmsy <- Lfm/Lmean
+  ratio_F_Fmsy <- Lmean/Lfm
   
   # Combine results 
   result <- data.frame(year,Lc,Lmean,Lsq,L95,Lfm,Lopt,Linf,L50,ratio_F_Fmsy)
-  Lopt/Lmean
+  Lmean/Lopt
   
   # Save
   write.csv(result,paste(resPath,title_name,"_size_Based_Indicators_&_Reference_Points_",year,".csv",sep=""),row.names=F)
   
-  ### PDF
-  pdf(file = paste(figPath,title_name,"_size_Based_Indicators_&_Reference_Points_",year,".pdf", sep=""))
-  grid.table(result, rows=NULL, cols=colnames(table), theme=ttheme_default(base_size = 5))
-  dev.off()
-
+  # Add results from year i
+  if(i == years[1]){
+    results <- result
+  }else{
+    results <- rbind(results, result)
+  }
+  
   # More plotting
   maxx=max(dat$length,Lc,Lmean,Lsq,L95,Lfm,Lopt,Linf,L50)
   minx=min(dat$length,Lc,Lmean,Lsq,L95,Lfm,Lopt,Linf,L50)
@@ -149,7 +151,7 @@ for (i in years){
 
   png(filename=paste(figAdvice,title_name,"_Lmean_Lfm_xa_advice_sheet_",year,".png",sep=""),width = 1500, height = 1200, units = "px", pointsize = 5,bg = "white", res = 450)
 
-  plot(result$year,1/result$ratio_F_Fmsy,type="p", pch=19, lwd=1.2, cex=1.2, xlab="Year", ylab="Indicator ratio",
+  plot(result$year,result$ratio_F_Fmsy,type="p", pch=19, lwd=1.2, cex=1.2, xlab="Year", ylab="Indicator ratio",
        cex.lab=1.5, cex.main=1.5,xlim=c(year-1,year+1),ylim=c(0,result$ratio_F_Fmsy+0.8),las=1,mgp=c(2.5,0.5,0),
        col="blue", lab=c(2,5,1),bty="l",main=paste(title_name,year,sep=" "))
   abline(1,0,cex=0.8,lty=2)
@@ -157,20 +159,21 @@ for (i in years){
 
   dev.off()
   
-  adviceOut <- cbind(adviceOut,c(result$year,1/result$ratio_F_Fmsy))
-  
 }
 
 # Save 
-write.csv(adviceOut, file=paste0(advicePath, "NSHOM_advice_7.d_Flm_Fmean_",min(years),"-",max(years),".csv"), row.names = FALSE)
+write.csv(results, file=paste0(dataPath,"NSHOM_size_Based_Indicators_&_Reference_Points_",min(years),"-",max(years),".csv"))
 
 # figure for advice
 png(filename=paste(figAdvice,title_name,"_advice",".png",sep=""),width = 1500, height = 1200, units = "px", pointsize = 5,bg = "white", res = 450)
 
-minYear <- 2016
-plot(adviceOut[1,],adviceOut[2,],type="b", pch=19, lwd=1.2, cex=1.2, xlab="Year", ylab="Indicator ratio", 
-     cex.lab=1.5, cex.main=1.5,xlim=c(min(adviceOut[1,])-0.5,max(adviceOut[1,])+0.5),ylim=c(0,max(adviceOut[2,])+0.8),
-     las=1,mgp=c(2.5,0.5,0),col="blue", lab=c(3,1,1),bty="l")
+minYear <- years[1]
+plot(results$year, results$ratio_F_Fmsy,type="b", pch=19, lwd=1.2, cex=1.2, xlab="Year", 
+     ylab=expression(paste("L"[mean], "/L"['F=M'])), cex.lab=2, cex.main=1.5, cex.axis=1.5, 
+     xlim=c(min(results$year)-0.5,max(results$year)+0.5), ylim=c(0,max(results$ratio_F_Fmsy)+0.8), 
+     las=1, mgp=c(2.5,0.5,0), col="blue", bty="l")
 abline(1,0,cex=0.8,lty=2)
-text(minYear+1,0.5,label="Lmean/LF=M",col="blue",cex=1.4)
+box()
+
 dev.off()
+

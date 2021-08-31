@@ -3,12 +3,9 @@ rm(list=ls())
 library(icesSAG)  # devtools::install_github("ices-tools-prod/icesSAG")
 library(tidyverse)
 
-#modelPath <- 'C:/Users/berge057/OneDrive - WageningenUR/projects/WG/2019_WGWIDE/2019 assessment/NSHM/hurdle_model/output/hurdle_model_index_abundance/'
-#fmsyPath <- 'C:/Users/berge057/OneDrive - WageningenUR/projects/WG/2019_WGWIDE/2019 assessment/NSHM/MSY_proxy/Size_Based_Methods/output/'
-#dataPath <- 'C:/Users/berge057/OneDrive - WageningenUR/projects/WG/2019_WGWIDE/2019 assessment/NSHM/data/commercial_data/data_xa_analysis/'
-
-resultPath  <- "C:/git/wg_WGWIDE/NSHM/results/"
-dataPath    <- "C:/git/wg_WGWIDE/NSHM/data/"
+# Set paths
+resultPath  <- "NSHM/Assessment 2019/results/model/"
+dataPath    <- "NSHM/Assessment 2019/data/"
 
 indexSurveys_exploitable  <- read.table(paste0(resultPath,'model_fit_large_nshm.csv'),header = TRUE,sep=',')
 indexSurveys_juvenile     <- read.table(paste0(resultPath,'model_fit_small_nshm.csv'),header = TRUE,sep=',') # needs updating

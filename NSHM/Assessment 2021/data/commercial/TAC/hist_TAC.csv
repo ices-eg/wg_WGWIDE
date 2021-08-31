@@ -67,7 +67,7 @@ year;country;TAC;advice_TAC;buffer;cap
 2014;Sweden;75;;;no advice
 2014;UK;3188;;;no advice
 2014;Norway;3550;;;no advice
-2014;all;31720;25500;;no advice
+2014;all;31720;25500;1;down
 2015;Belgium;13;;;no advice
 2015;Denmark;5519;;;no advice
 2015;Germany;487;;;no advice
@@ -115,7 +115,7 @@ year;country;TAC;advice_TAC;buffer;cap
 2018;Sweden;75;;;no advice
 2018;UK;1425;;;no advice
 2018;Norway;2550;;;no advice
-2018;all;15179;17517;0;down
+2018;all;15179;17517;0;no advice
 2019;Belgium;14;;;no advice
 2019;Denmark;5985;;;no advice
 2019;Germany;529;;;no advice
@@ -139,7 +139,7 @@ year;country;TAC;advice_TAC;buffer;cap
 2020;Sweden;75;;;no advice
 2020;UK;1264;;;no advice
 2020;Norway;2550;;;no advice
-2020;all;13763;14014;0;down
+2020;all;13763;14014;0;no advice
 2021;Belgium;3;;;no advice
 2021;Denmark;1328;;;no advice
 2021;Germany;117;;;no advice
@@ -151,4 +151,4 @@ year;country;TAC;advice_TAC;buffer;cap
 2021;Sweden;19;;;no advice
 2021;UK;316;;;no advice
 2021;Norway;638;;;no advice
-2021;all;3442;14014;0;down
+2021;all;14014;14014;1;down
