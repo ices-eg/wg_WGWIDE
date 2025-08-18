@@ -1,0 +1,477 @@
+File created:26/08/2024 13:52:44
+WG assessment year:2024
+Data year:2023
+Stock:whb.27.1-91214,Stock description:Blue whiting (Micromesistius poutassou) in Subareas 1-9, 12, and 14 (Northeast Atlantic and adjacent waters)
+Allocation scheme:Alloc2023
+
+LIST OF UNSAMPLED STRATA AND THEIR ALLOCATED SAMPLED STRATA.
+
+YOU CAN USE THIS FILE TO HAVE A MATRIX OVERVIEW OF WHAT SAMPLED STRATA HAVE BEEN ALLOCATED TO WHICH UNSAMPLED STRATA
+
+There are 4 files:
+        - 2 specifying what is allocated to the unsampled LANDINGS
+            - 1 sorted by Fleet before season 
+            - 1 sorted by season before Fleet 
+        - 2 specifying what is allocated to the unsampled DISCARDS
+            - 1 sorted by Fleet before season
+            - 1 sorted by season  before Fleet 
+
+The patterns which visually can be seen in the allocations depend the sorting of the element (season or fleet) in the strata, depending on if the allocations have been primarily done according to season or fleet.
+
+
+   Explanation on how to use the output, for visual inspection:
+     1. Copy all the data into a spreadsheet.
+     2. Create a pivot table with the Unsampled as rows and the Sampled as columns.
+     3. Copy the pivot table but only with the header row and markers, out the sum row and column and column label.
+     4. Paste only values.\n
+     5. Select the Sampled row and format cell and select tab Alignment and align the text horizontal and adjust the column width.
+          
+
+Unsampled Landings strata,Allocated sampled strata,Marker
+DE_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+DE_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+DE_27.6.a_1_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+DE_27.6.a_2_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+DE_27.6.a_4_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+DE_27.6.a_4_OTM_SPF_32-69_0_0_all_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+DE_27.7.b_1_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+DE_27.7.b_1_OTM_SPF_32-69_0_0_all_L,IE_27.6.a_1_TrawlPlus_L,X
+DE_27.7.b_1_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+DE_27.7.b_1_OTM_SPF_32-69_0_0_all_L,UKS_27.6.a_1_All_L,X
+DE_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,DK_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,X
+DE_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,ES_27.7.j.2_1_OTB_DEF_70-99_0_0_D,X
+DE_27.8.d.2_1_OTM_SPF_32-69_0_0_all_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+DK_27.2.a.1_4_OTM_SPF_32-69_0_0_all_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+DK_27.2.a.1_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+DK_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+DK_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+DK_27.3.a.20_2_MIS_MIS_0_0_0_IBC_L,IS_27.4.a_2_Pelagic trawl_L,X
+DK_27.3.a.20_2_MIS_MIS_0_0_0_IBC_L,NO_27.4.a_2_All_L,X
+DK_27.3.a.20_2_MIS_MIS_0_0_0_IBC_L,RU_27.4.a_2_Pelagic trawl_L,X
+DK_27.3.a.20_3_MIS_MIS_0_0_0_IBC_L,NO_27.4.a_3_All_L,X
+DK_27.4.a_1_MIS_MIS_0_0_0_HC_L,IS_27.4.a_1_Pelagic trawl_L,X
+DK_27.4.a_1_MIS_MIS_0_0_0_IBC_L,IS_27.4.a_1_Pelagic trawl_L,X
+DK_27.4.a_1_OTM_SPF_32-69_0_0_all_L,IS_27.4.a_1_Pelagic trawl_L,X
+DK_27.4.a_3_MIS_MIS_0_0_0_IBC_L,NO_27.4.a_3_All_L,X
+DK_27.4.a_3_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_3_All_L,X
+DK_27.4.a_4_MIS_MIS_0_0_0_IBC_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+DK_27.4.b_2_MIS_MIS_0_0_0_IBC_L,IS_27.4.a_2_Pelagic trawl_L,X
+DK_27.4.b_2_MIS_MIS_0_0_0_IBC_L,NO_27.4.a_2_All_L,X
+DK_27.4.b_2_MIS_MIS_0_0_0_IBC_L,RU_27.4.a_2_Pelagic trawl_L,X
+DK_27.4.b_3_MIS_MIS_0_0_0_IBC_L,NO_27.4.a_3_All_L,X
+DK_27.4.b_3_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_3_All_L,X
+DK_27.4.b_4_OTM_SPF_32-69_0_0_all_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+DK_27.4.b_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+DK_27.6.b.2_1_OTM_SPF_32-69_0_0_all_L,IE_27.6.b.2_1_TrawlPlus_L,X
+DK_27.8.a_1_MIS_MIS_0_0_0_IBC_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+ES_27.6.a_1_OTM_DEF_32-69_0_0_all_L,IE_27.6.a_1_TrawlPlus_L,X
+ES_27.6.a_1_OTM_DEF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+ES_27.6.a_1_OTM_DEF_32-69_0_0_all_L,UKS_27.6.a_1_All_L,X
+ES_27.6.a_4_OTM_DEF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+ES_27.6.a_4_OTM_DEF_32-69_0_0_all_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+ES_27.7.c.2_1_OTM_DEF_32-69_0_0_all_L,DE_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,X
+ES_27.7.c.2_1_OTM_DEF_32-69_0_0_all_L,IE_27.7.c.2_1_TrawlPlus_L,X
+ES_27.7.c.2_1_OTM_DEF_32-69_0_0_all_L,UKS_27.7.c.2_1_All_L,X
+ES_27.7.j.2_1_OTB_DEF_100-119_0_0_L,DK_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,X
+ES_27.7.j.2_1_OTB_DEF_100-119_0_0_L,ES_27.7.j.2_1_OTB_DEF_70-99_0_0_D,X
+ES_27.7.j.2_3_OTB_DEF_70-99_0_0_L,ES_27.7.j.2_3_OTB_DEF_70-99_0_0_D,X
+ES_27.8.a_1_OTB_DEF_>=70_0_0_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_1_PTB_DEF_>=70_0_0_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_2_OTB_DEF_>=70_0_0_L,ES_27.8.a_2_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_2_PTB_DEF_>=70_0_0_L,ES_27.8.a_2_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_3_OTB_DEF_>=70_0_0_L,ES_27.8.a_3_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_3_PTB_DEF_>=70_0_0_L,ES_27.8.a_3_PTB_DEF_>=70_0_0_D,X
+ES_27.8.a_4_OTB_DEF_>=70_0_0_L,ES_27.8.a_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.a_4_OTB_DEF_>=70_0_0_L,ES_27.8.a_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_1_LLS_DEF_0_0_0_L,ES_27.8.b_1_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_1_LLS_DEF_0_0_0_L,ES_27.8.b_1_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_2_LLS_DEF_0_0_0_L,ES_27.8.b_2_OTB_DEF_>=70_0_0_L,X
+ES_27.8.b_2_MIS_MIS_0_0_0_HC_L,ES_27.8.b_2_OTB_DEF_>=70_0_0_L,X
+ES_27.8.b_2_PTB_DEF_>=70_0_0_L,ES_27.8.b_2_OTB_DEF_>=70_0_0_L,X
+ES_27.8.b_3_GNS_DEF_60-79_0_0_L,ES_27.8.b_3_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_3_GNS_DEF_60-79_0_0_L,ES_27.8.b_3_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_3_LLS_DEF_0_0_0_L,ES_27.8.b_3_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_3_LLS_DEF_0_0_0_L,ES_27.8.b_3_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_GNS_DEF_60-79_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_GNS_DEF_60-79_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_GTR_DEF_60-79_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_GTR_DEF_60-79_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_LLS_DEF_0_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_LLS_DEF_0_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_OTB_DEF_>=70_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_OTB_DEF_>=70_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_PTB_DEF_>=70_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+ES_27.8.b_4_PTB_DEF_>=70_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+ES_27.8.c_1_GNS_DEF_60-79_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+ES_27.8.c_1_GNS_DEF_60-79_0_0_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_1_GNS_DEF_60-79_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_1_GNS_DEF_80-99_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+ES_27.8.c_1_GNS_DEF_80-99_0_0_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_1_GNS_DEF_80-99_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_1_OTB_MPD_>=55_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+ES_27.8.c_1_OTB_MPD_>=55_0_0_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_1_OTB_MPD_>=55_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_1_PS_SPF_0_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+ES_27.8.c_1_PS_SPF_0_0_0_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_1_PS_SPF_0_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_2_LHM_DEF_0_0_0_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+ES_27.8.c_2_LHM_DEF_0_0_0_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+ES_27.8.c_2_LHM_DEF_0_0_0_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+ES_27.8.c_2_LHM_DEF_0_0_0_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_2_LHM_DEF_0_0_0_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_2_MIS_MIS_0_0_0_HC_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+ES_27.8.c_2_MIS_MIS_0_0_0_HC_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+ES_27.8.c_2_MIS_MIS_0_0_0_HC_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+ES_27.8.c_2_MIS_MIS_0_0_0_HC_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_2_MIS_MIS_0_0_0_HC_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_2_OTB_MPD_>=55_0_0_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+ES_27.8.c_2_OTB_MPD_>=55_0_0_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+ES_27.8.c_2_OTB_MPD_>=55_0_0_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+ES_27.8.c_2_OTB_MPD_>=55_0_0_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_2_OTB_MPD_>=55_0_0_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_2_PS_SPF_0_0_0_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+ES_27.8.c_2_PS_SPF_0_0_0_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+ES_27.8.c_2_PS_SPF_0_0_0_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+ES_27.8.c_2_PS_SPF_0_0_0_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_2_PS_SPF_0_0_0_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_3_GNS_DEF_60-79_0_0_L,ES_27.8.c_3_GTR_DEF_60-79_0_0_L,X
+ES_27.8.c_3_GNS_DEF_60-79_0_0_L,ES_27.8.c_3_LLS_DEF_0_0_0_L,X
+ES_27.8.c_3_GNS_DEF_60-79_0_0_L,ES_27.8.c_3_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_3_GNS_DEF_60-79_0_0_L,ES_27.8.c_3_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_3_GNS_DEF_80-99_0_0_L,ES_27.8.c_3_GTR_DEF_60-79_0_0_L,X
+ES_27.8.c_3_GNS_DEF_80-99_0_0_L,ES_27.8.c_3_LLS_DEF_0_0_0_L,X
+ES_27.8.c_3_GNS_DEF_80-99_0_0_L,ES_27.8.c_3_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_3_GNS_DEF_80-99_0_0_L,ES_27.8.c_3_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_3_OTB_MPD_>=55_0_0_L,ES_27.8.c_3_GTR_DEF_60-79_0_0_L,X
+ES_27.8.c_3_OTB_MPD_>=55_0_0_L,ES_27.8.c_3_LLS_DEF_0_0_0_L,X
+ES_27.8.c_3_OTB_MPD_>=55_0_0_L,ES_27.8.c_3_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_3_OTB_MPD_>=55_0_0_L,ES_27.8.c_3_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_60-79_0_0_L,ES_27.8.c_4_LLS_DEF_0_0_0_L,X
+ES_27.8.c_4_GNS_DEF_60-79_0_0_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_60-79_0_0_L,ES_27.8.c_4_OTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_60-79_0_0_L,ES_27.8.c_4_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_80-99_0_0_L,ES_27.8.c_4_LLS_DEF_0_0_0_L,X
+ES_27.8.c_4_GNS_DEF_80-99_0_0_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_80-99_0_0_L,ES_27.8.c_4_OTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GNS_DEF_80-99_0_0_L,ES_27.8.c_4_PTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GTR_DEF_60-79_0_0_L,ES_27.8.c_4_LLS_DEF_0_0_0_L,X
+ES_27.8.c_4_GTR_DEF_60-79_0_0_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+ES_27.8.c_4_GTR_DEF_60-79_0_0_L,ES_27.8.c_4_OTB_MPD_>=55_0_0_L,X
+ES_27.8.c_4_GTR_DEF_60-79_0_0_L,ES_27.8.c_4_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_1_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_1_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_1_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_1_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_1_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_1_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_1_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_1_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_1_LLS_DEF_0_0_0_L,ES_27.9.a.n_1_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_1_LLS_DEF_0_0_0_L,ES_27.9.a.n_1_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_1_LLS_DEF_0_0_0_L,ES_27.9.a.n_1_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_1_LLS_DEF_0_0_0_L,ES_27.9.a.n_1_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_2_LLS_DEF_0_0_0_L,ES_27.9.a.n_2_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_2_LLS_DEF_0_0_0_L,ES_27.9.a.n_2_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_2_MIS_MIS_0_0_0_HC_L,ES_27.9.a.n_2_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_2_MIS_MIS_0_0_0_HC_L,ES_27.9.a.n_2_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_2_OTB_MCD_>=55_0_0_L,ES_27.9.a.n_2_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_2_OTB_MCD_>=55_0_0_L,ES_27.9.a.n_2_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_2_OTB_MPD_>=55_0_0_L,ES_27.9.a.n_2_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_2_OTB_MPD_>=55_0_0_L,ES_27.9.a.n_2_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_2_PS_SPF_0_0_0_L,ES_27.9.a.n_2_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_2_PS_SPF_0_0_0_L,ES_27.9.a.n_2_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_3_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_3_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_3_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_60-79_0_0_L,ES_27.9.a.n_3_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_3_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_3_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_3_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_3_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_LLS_DEF_0_0_0_L,ES_27.9.a.n_3_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_3_LLS_DEF_0_0_0_L,ES_27.9.a.n_3_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_3_LLS_DEF_0_0_0_L,ES_27.9.a.n_3_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_LLS_DEF_0_0_0_L,ES_27.9.a.n_3_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_PS_SPF_0_0_0_L,ES_27.9.a.n_3_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_3_PS_SPF_0_0_0_L,ES_27.9.a.n_3_OTB_MCD_>=55_0_0_L,X
+ES_27.9.a.n_3_PS_SPF_0_0_0_L,ES_27.9.a.n_3_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_3_PS_SPF_0_0_0_L,ES_27.9.a.n_3_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_4_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_4_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_4_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_GNS_DEF_80-99_0_0_L,ES_27.9.a.n_4_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_LLS_DEF_0_0_0_L,ES_27.9.a.n_4_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_4_LLS_DEF_0_0_0_L,ES_27.9.a.n_4_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_LLS_DEF_0_0_0_L,ES_27.9.a.n_4_PTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_OTB_MCD_>=55_0_0_L,ES_27.9.a.n_4_OTB_DEF_>=55_0_0_L,X
+ES_27.9.a.n_4_OTB_MCD_>=55_0_0_L,ES_27.9.a.n_4_OTB_MPD_>=55_0_0_L,X
+ES_27.9.a.n_4_OTB_MCD_>=55_0_0_L,ES_27.9.a.n_4_PTB_MPD_>=55_0_0_L,X
+FO_27.2.a_3_All_L,RU_27.2.a_3_Pelagic trawl_L,X
+FO_27.2.a_4_All_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+FO_27.2.a_4_All_L,NO_27.4.a_4_All_L,X
+FO_27.4.a_1_All_L,IS_27.4.a_1_Pelagic trawl_L,X
+FO_27.4.a_2_All_L,NO_27.4.a_2_All_L,X
+FO_27.4.a_4_All_L,NO_27.4.a_4_All_L,X
+FO_27.5.a_3_All_L,IS_27.5.a_3_Pelagic trawl_L,X
+FO_27.5.a_4_All_L,IS_27.5.a_4_Pelagic trawl_L,X
+FO_27.5.b_3_All_L,IS_27.5.a_3_Pelagic trawl_L,X
+FO_27.6.a_1_All_L,UKS_27.6.a_1_All_L,X
+FO_27.6.a_2_All_L,UKS_27.6.a_2_All_L,X
+FO_27.6.a_4_All_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+FO_27.6.a_4_All_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+FR_27.4.a_2_OTM_DEF_32-69_0_0_all_L,IS_27.4.a_2_Pelagic trawl_L,X
+FR_27.4.a_2_OTM_DEF_32-69_0_0_all_L,NO_27.4.a_2_All_L,X
+FR_27.4.a_2_OTM_DEF_32-69_0_0_all_L,RU_27.4.a_2_Pelagic trawl_L,X
+FR_27.4.a_3_MIS_MIS_0_0_0_L,NO_27.4.a_3_All_L,X
+FR_27.4.a_4_MIS_MIS_0_0_0_L,NO_27.4.a_4_All_L,X
+FR_27.5.b_2_OTM_DEF_32-69_0_0_all_L,FO_27.5.b_2_All_L,X
+FR_27.5.b_2_OTM_DEF_32-69_0_0_all_L,IS_27.5.b_2_Pelagic trawl_L,X
+FR_27.5.b_2_OTM_DEF_32-69_0_0_all_L,NO_27.5.b_2_All_L,X
+FR_27.5.b_2_OTM_DEF_32-69_0_0_all_L,RU_27.5.b_2_Pelagic trawl_L,X
+FR_27.6.a_1_OTM_DEF_32-69_0_0_all_L,IE_27.6.a_1_TrawlPlus_L,X
+FR_27.6.a_1_OTM_DEF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+FR_27.6.a_1_OTM_DEF_32-69_0_0_all_L,UKS_27.6.a_1_All_L,X
+FR_27.6.a_2_OTM_DEF_32-69_0_0_all_L,IE_27.6.a_2_TrawlPlus_L,X
+FR_27.6.a_2_OTM_DEF_32-69_0_0_all_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+FR_27.6.a_2_OTM_DEF_32-69_0_0_all_L,RU_27.6.a_2_Pelagic trawl_L,X
+FR_27.6.a_2_OTM_DEF_32-69_0_0_all_L,UKS_27.6.a_2_All_L,X
+FR_27.6.a_4_OTM_DEF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+FR_27.6.a_4_OTM_DEF_32-69_0_0_all_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+FR_27.6.b_2_OTM_DEF_32-69_0_0_all_L,ES_27.6.a_2_OTB_DEF_100-119_0_0_D,X
+FR_27.6.b_2_OTM_DEF_32-69_0_0_all_L,IE_27.6.a_2_TrawlPlus_L,X
+FR_27.6.b_2_OTM_DEF_32-69_0_0_all_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+FR_27.6.b_2_OTM_DEF_32-69_0_0_all_L,RU_27.6.a_2_Pelagic trawl_L,X
+FR_27.6.b_2_OTM_DEF_32-69_0_0_all_L,UKS_27.6.a_2_All_L,X
+FR_27.7.b_1_OTM_DEF_32-69_0_0_all_L,NO_27.7.c_1_All_L,X
+FR_27.7.b_1_OTM_DEF_32-69_0_0_all_L,RU_27.7.c_1_Pelagic trawl_L,X
+FR_27.7.c_1_OTM_DEF_32-69_0_0_all_L,NO_27.7.c_1_All_L,X
+FR_27.7.c_1_OTM_DEF_32-69_0_0_all_L,RU_27.7.c_1_Pelagic trawl_L,X
+FR_27.7.c_2_OTM_DEF_32-69_0_0_all_L,NO_27.7.c_2_All_L,X
+FR_27.7.d_1_MIS_MIS_0_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+FR_27.7.d_1_MIS_MIS_0_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+FR_27.7.e_4_MIS_MIS_0_0_0_L,ES_27.8.a_4_OTB_DEF_>=70_0_0_D,X
+FR_27.7.h_1_OTM_DEF_32-69_0_0_all_L,ES_27.7.h_1_OTB_DEF_70-99_0_0_D,X
+FR_27.7.h_4_OTM_DEF_32-69_0_0_all_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+FR_27.7.j_4_OTM_DEF_32-69_0_0_all_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+FR_27.7.k_1_OTM_DEF_32-69_0_0_all_L,FO_27.7.k_1_All_L,X
+FR_27.7.k_1_OTM_DEF_32-69_0_0_all_L,NO_27.7.k_1_All_L,X
+FR_27.7.k_1_OTM_DEF_32-69_0_0_all_L,RU_27.7.k_1_Pelagic trawl_L,X
+FR_27.7.k_2_OTM_DEF_32-69_0_0_all_L,NO_27.7.c_2_All_L,X
+FR_27.8.a_1_OTM_DEF_32-69_0_0_all_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+FR_27.8.a_2_MIS_MIS_0_0_0_L,ES_27.8.a_2_PTB_DEF_>=70_0_0_D,X
+FR_27.8.a_3_MIS_MIS_0_0_0_L,ES_27.8.a_3_PTB_DEF_>=70_0_0_D,X
+FR_27.8.a_4_OTM_DEF_32-69_0_0_all_L,ES_27.8.a_4_OTB_DEF_>=70_0_0_D,X
+FR_27.8.a_4_OTM_DEF_32-69_0_0_all_L,ES_27.8.a_4_PTB_DEF_>=70_0_0_D,X
+FR_27.8.b_1_MIS_MIS_0_0_0_L,ES_27.8.b_1_OTB_DEF_>=70_0_0_D,X
+FR_27.8.b_1_MIS_MIS_0_0_0_L,ES_27.8.b_1_PTB_DEF_>=70_0_0_D,X
+FR_27.8.b_2_MIS_MIS_0_0_0_L,ES_27.8.b_2_OTB_DEF_>=70_0_0_L,X
+FR_27.8.b_3_MIS_MIS_0_0_0_L,ES_27.8.b_3_OTB_DEF_>=70_0_0_D,X
+FR_27.8.b_3_MIS_MIS_0_0_0_L,ES_27.8.b_3_PTB_DEF_>=70_0_0_D,X
+FR_27.8.b_4_MIS_MIS_0_0_0_L,ES_27.8.b_4_OTB_DEF_>=70_0_0_D,X
+FR_27.8.b_4_MIS_MIS_0_0_0_L,ES_27.8.b_4_PTB_DEF_>=70_0_0_D,X
+FR_27.8.c_1_MIS_MIS_0_0_0_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+FR_27.8.c_1_MIS_MIS_0_0_0_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+FR_27.8.c_1_MIS_MIS_0_0_0_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+FR_27.8.c_2_MIS_MIS_0_0_0_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+FR_27.8.c_2_MIS_MIS_0_0_0_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+FR_27.8.c_2_MIS_MIS_0_0_0_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+FR_27.8.c_2_MIS_MIS_0_0_0_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+FR_27.8.c_2_MIS_MIS_0_0_0_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+FR_27.8.d_1_OTM_DEF_32-69_0_0_all_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+FR_27.8.d_4_OTM_DEF_32-69_0_0_all_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+GL_27.2.a_2_All_L,FO_27.2.a_2_All_L,X
+GL_27.2.a_3_All_L,RU_27.2.a_3_Pelagic trawl_L,X
+GL_27.2.a_4_All_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+GL_27.2.a_4_All_L,NO_27.4.a_4_All_L,X
+GL_27.4.a_2_All_L,NO_27.4.a_2_All_L,X
+GL_27.4.a_4_All_L,NO_27.4.a_4_All_L,X
+GL_27.5.b_1_All_L,FO_27.5.b_1_All_L,X
+GL_27.5.b_2_All_L,FO_27.5.b_2_All_L,X
+GL_27.5.b_2_All_L,NO_27.5.b_2_All_L,X
+GL_27.5.b_4_All_L,FO_27.5.b_4_All_L,X
+GL_27.6.a_2_All_L,UKS_27.6.a_2_All_L,X
+IE_27.7.b_1_TrawlPlus_L,NO_27.7.c_1_All_L,X
+IE_27.7.b_1_TrawlPlus_L,RU_27.7.c_1_Pelagic trawl_L,X
+IE_27.7.c.2_2_TrawlPlus_L,DK_27.7.c.2_2_OTM_SPF_32-69_0_0_all_L,X
+IE_27.7.c.2_2_TrawlPlus_L,ES_27.7.c.2_2_OTB_DEF_70-99_0_0_D,X
+IE_27.7.g_1_TrawlPlus_L,ES_27.7.g_1_OTB_DEF_70-99_0_0_D,X
+IE_27.7.j.2_2_TrawlPlus_L,ES_27.7.j.2_2_OTB_DEF_70-99_0_0_D,X
+IE_27.7.k.2_1_TrawlPlus_L,DE_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+IE_27.7.k.2_1_TrawlPlus_L,NL_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+IS_27.14.b_1_Pelagic trawl_L,RU_27.12_1_Pelagic trawl_L,X
+IS_27.14.b_2_Pelagic trawl_L,FO_27.5.b_2_All_L,X
+IS_27.14.b_2_Pelagic trawl_L,RU_27.5.b_2_Pelagic trawl_L,X
+IS_27.14.b_3_Pelagic trawl_L,IS_27.5.a_3_Pelagic trawl_L,X
+IS_27.14.b_4_Pelagic trawl_L,IS_27.5.a_4_Pelagic trawl_L,X
+IS_27.2.a_1_Pelagic trawl_L,FO_27.2.a_1_All_L,X
+IS_27.2.a_3_Pelagic trawl_L,RU_27.2.a_3_Pelagic trawl_L,X
+IS_27.2.a_4_Pelagic trawl_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+IS_27.2.a_4_Pelagic trawl_L,NO_27.4.a_4_All_L,X
+IS_27.4.a_4_Pelagic trawl_L,NO_27.4.a_4_All_L,X
+IS_27.5.b_4_Pelagic trawl_L,FO_27.5.b_4_All_L,X
+IS_27.6.a_1_Pelagic trawl_L,IE_27.6.a_1_TrawlPlus_L,X
+IS_27.6.a_1_Pelagic trawl_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+IS_27.6.a_1_Pelagic trawl_L,UKS_27.6.a_1_All_L,X
+IS_27.6.a_2_Pelagic trawl_L,RU_27.6.a_2_Pelagic trawl_L,X
+IS_27.6.a_4_Pelagic trawl_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+IS_27.6.a_4_Pelagic trawl_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+IS_27.7.k_1_Pelagic trawl_L,RU_27.7.k_1_Pelagic trawl_L,X
+LT_27.6.a_1_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_1_OTM_SPF_32-69_0_0_all_L,IE_27.6.a_1_TrawlPlus_L,X
+LT_27.6.a_1_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_1_OTM_SPF_32-69_0_0_all_L,UKS_27.6.a_1_All_L,X
+LT_27.6.a_11_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_12_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_3_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_3_OTM_SPF_32-69_0_0_all_L,IE_27.6.a_1_TrawlPlus_L,X
+LT_27.6.a_3_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_3_OTM_SPF_32-69_0_0_all_L,UKS_27.6.a_1_All_L,X
+LT_27.6.a_4_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_4_OTM_SPF_32-69_0_0_all_L,ES_27.6.a_2_OTB_DEF_100-119_0_0_D,X
+LT_27.6.a_4_OTM_SPF_32-69_0_0_all_L,IE_27.6.a_2_TrawlPlus_L,X
+LT_27.6.a_4_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+LT_27.6.a_4_OTM_SPF_32-69_0_0_all_L,RU_27.6.a_2_Pelagic trawl_L,X
+LT_27.7.b_3_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.b_3_OTM_SPF_32-69_0_0_all_L,IE_27.6.a_2_TrawlPlus_L,X
+LT_27.7.b_3_OTM_SPF_32-69_0_0_all_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.b_3_OTM_SPF_32-69_0_0_all_L,RU_27.6.a_2_Pelagic trawl_L,X
+LT_27.7.b_3_OTM_SPF_32-69_0_0_all_L,UKS_27.6.a_2_All_L,X
+LT_27.7.c.2_3_OTM_SPF_32-69_0_0_all_L,DE_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.c.2_3_OTM_SPF_32-69_0_0_all_L,DK_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.c.2_3_OTM_SPF_32-69_0_0_all_L,IE_27.7.c.2_1_TrawlPlus_L,X
+LT_27.7.c.2_3_OTM_SPF_32-69_0_0_all_L,UKS_27.7.c.2_1_All_L,X
+LT_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,DE_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,DK_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,NL_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_2_OTM_SPF_32-69_0_0_all_L,DE_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_2_OTM_SPF_32-69_0_0_all_L,DK_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_2_OTM_SPF_32-69_0_0_all_L,NL_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_3_OTM_SPF_32-69_0_0_all_L,DE_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_3_OTM_SPF_32-69_0_0_all_L,DK_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.1_3_OTM_SPF_32-69_0_0_all_L,NL_27.7.k.1_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,DE_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,DK_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,NL_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_2_OTM_SPF_32-69_0_0_all_L,DE_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_2_OTM_SPF_32-69_0_0_all_L,DK_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+LT_27.7.k.2_2_OTM_SPF_32-69_0_0_all_L,NL_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+NL_27.12.a.1_1_OTM_SPF_32-69_0_0_all_L,RU_27.12_1_Pelagic trawl_L,X
+NL_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+NL_27.2.a.2_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+NL_27.4.a_2_OTM_SPF_32-69_0_0_all_L,IS_27.4.a_2_Pelagic trawl_L,X
+NL_27.4.a_2_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_2_All_L,X
+NL_27.4.a_2_OTM_SPF_32-69_0_0_all_L,RU_27.4.a_2_Pelagic trawl_L,X
+NL_27.4.a_3_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_3_All_L,X
+NL_27.4.a_4_OTM_SPF_32-69_0_0_all_L,NO_27.4.a_4_All_L,X
+NL_27.5.b.1_4_OTM_SPF_32-69_0_0_all_L,DK_27.5.b_4_OTM_SPF_32-69_0_0_all_L,X
+NL_27.5.b.1_4_OTM_SPF_32-69_0_0_all_L,FO_27.5.b_4_All_L,X
+NL_27.6.a_3_OTM_SPF_32-69_0_0_all_L,ES_27.6.a_3_OTB_DEF_100-119_0_0_D,X
+NL_27.6.a_4_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+NL_27.6.a_4_OTM_SPF_32-69_0_0_all_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+NL_27.6.b.2_1_OTM_SPF_32-69_0_0_all_L,IE_27.6.b.2_1_TrawlPlus_L,X
+NL_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,DE_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,X
+NL_27.7.h_4_OTM_SPF_32-69_0_0_all_L,ES_27.8.c_4_OTB_MPD_>=55_0_0_L,X
+NL_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,DK_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,X
+NL_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,ES_27.7.j.2_1_OTB_DEF_70-99_0_0_D,X
+NL_27.7.j.2_2_OTM_SPF_32-69_0_0_all_L,ES_27.7.j.2_2_OTB_DEF_70-99_0_0_D,X
+NL_27.7.j.2_4_OTM_SPF_32-69_0_0_all_L,ES_27.7.j.2_3_OTB_DEF_70-99_0_0_D,X
+NL_27.8.a_1_OTM_SPF_32-69_0_0_all_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+NL_27.8.a_4_OTM_SPF_32-69_0_0_all_L,ES_27.8.a_4_OTB_DEF_>=70_0_0_D,X
+NL_27.8.a_4_OTM_SPF_32-69_0_0_all_L,ES_27.8.a_4_PTB_DEF_>=70_0_0_D,X
+NO_27.2.a_1_All_L,FO_27.2.a_1_All_L,X
+NO_27.2.a_2_All_L,FO_27.2.a_2_All_L,X
+NO_27.2.a_3_All_L,RU_27.2.a_3_Pelagic trawl_L,X
+NO_27.2.a_4_All_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+NO_27.2.a_4_All_L,NO_27.4.a_4_All_L,X
+NO_27.2.b_3_All_L,RU_27.2.a_3_Pelagic trawl_L,X
+NO_27.3.a_3_All_L,NO_27.4.a_3_All_L,X
+NO_27.3.a_4_All_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+NO_27.3.a_4_All_L,NO_27.4.a_4_All_L,X
+NO_27.4.a_1_All_L,IS_27.4.a_1_Pelagic trawl_L,X
+NO_27.4.b_3_All_L,NO_27.4.a_3_All_L,X
+NO_27.5.b_4_All_L,FO_27.5.b_4_All_L,X
+NO_27.6.b_2_All_L,DK_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+NO_27.6.b_2_All_L,IE_27.6.a_2_TrawlPlus_L,X
+NO_27.6.b_2_All_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+NO_27.6.b_2_All_L,RU_27.6.a_2_Pelagic trawl_L,X
+NO_27.6.b_2_All_L,UKS_27.6.a_2_All_L,X
+PL_27.2.a.1_4_Pel Freezer Trawler_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+PL_27.2.a.1_4_Pel Freezer Trawler_L,NO_27.4.a_4_All_L,X
+PL_27.5.b.1_4_Pel Freezer Trawler_L,DK_27.5.b_4_OTM_SPF_32-69_0_0_all_L,X
+PL_27.5.b.1_4_Pel Freezer Trawler_L,FO_27.5.b_4_All_L,X
+PL_27.6.a_1_Pel Freezer Trawler_L,IE_27.6.a_1_TrawlPlus_L,X
+PL_27.6.a_1_Pel Freezer Trawler_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+PL_27.6.a_1_Pel Freezer Trawler_L,UKS_27.6.a_1_All_L,X
+PL_27.6.a_2_Pel Freezer Trawler_L,IE_27.6.a_2_TrawlPlus_L,X
+PL_27.6.a_2_Pel Freezer Trawler_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+PL_27.6.a_2_Pel Freezer Trawler_L,RU_27.6.a_2_Pelagic trawl_L,X
+PL_27.6.a_2_Pel Freezer Trawler_L,UKS_27.6.a_2_All_L,X
+PL_27.6.a_4_Pel Freezer Trawler_L,DK_27.6.a_4_OTM_SPF_32-69_0_0_all_L,X
+PL_27.6.a_4_Pel Freezer Trawler_L,ES_27.6.a_4_OTB_DEF_100-119_0_0_D,X
+PL_27.6.b.2_1_Pel Freezer Trawler_L,IE_27.6.b.2_1_TrawlPlus_L,X
+PL_27.7.c.2_1_Pel Freezer Trawler_L,DE_27.7.c.2_1_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.c.2_1_Pel Freezer Trawler_L,IE_27.7.c.2_1_TrawlPlus_L,X
+PL_27.7.c.2_1_Pel Freezer Trawler_L,UKS_27.7.c.2_1_All_L,X
+PL_27.7.c.2_2_Pel Freezer Trawler_L,DK_27.7.c.2_2_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.c.2_2_Pel Freezer Trawler_L,ES_27.7.c.2_2_OTB_DEF_70-99_0_0_D,X
+PL_27.7.j.2_1_Pel Freezer Trawler_L,DK_27.7.j.2_1_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.j.2_1_Pel Freezer Trawler_L,ES_27.7.j.2_1_OTB_DEF_70-99_0_0_D,X
+PL_27.7.k.2_1_Pel Freezer Trawler_L,DE_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.k.2_1_Pel Freezer Trawler_L,NL_27.7.k.2_1_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.k.2_2_Pel Freezer Trawler_L,DK_27.7.c.2_2_OTM_SPF_32-69_0_0_all_L,X
+PL_27.7.k.2_2_Pel Freezer Trawler_L,NO_27.7.c_2_All_L,X
+PL_27.8.a_1_Pel Freezer Trawler_L,ES_27.8.a_1_PTB_DEF_>=70_0_0_D,X
+PT_27.8.c_1_All_L,ES_27.8.c_1_LLS_DEF_0_0_0_L,X
+PT_27.8.c_1_All_L,ES_27.8.c_1_OTB_DEF_>=55_0_0_L,X
+PT_27.8.c_1_All_L,ES_27.8.c_1_PTB_MPD_>=55_0_0_L,X
+PT_27.8.c_2_All_L,ES_27.8.c_2_GNS_DEF_60-79_0_0_L,X
+PT_27.8.c_2_All_L,ES_27.8.c_2_GNS_DEF_80-99_0_0_L,X
+PT_27.8.c_2_All_L,ES_27.8.c_2_LLS_DEF_0_0_0_L,X
+PT_27.8.c_2_All_L,ES_27.8.c_2_OTB_DEF_>=55_0_0_L,X
+PT_27.8.c_2_All_L,ES_27.8.c_2_PTB_MPD_>=55_0_0_L,X
+PT_27.8.c_3_All_L,ES_27.8.c_3_GTR_DEF_60-79_0_0_L,X
+PT_27.8.c_3_All_L,ES_27.8.c_3_LLS_DEF_0_0_0_L,X
+PT_27.8.c_3_All_L,ES_27.8.c_3_OTB_DEF_>=55_0_0_L,X
+PT_27.8.c_3_All_L,ES_27.8.c_3_PTB_MPD_>=55_0_0_L,X
+PT_27.8.c_4_All_L,ES_27.8.c_4_LLS_DEF_0_0_0_L,X
+PT_27.8.c_4_All_L,ES_27.8.c_4_OTB_DEF_>=55_0_0_L,X
+PT_27.8.c_4_All_L,ES_27.8.c_4_OTB_MPD_>=55_0_0_L,X
+PT_27.8.c_4_All_L,ES_27.8.c_4_PTB_MPD_>=55_0_0_L,X
+RU_27.12_1_All_L,RU_27.12_1_Pelagic trawl_L,X
+RU_27.2.a_1_Pelagic trawl_L,FO_27.2.a_1_All_L,X
+RU_27.2.a_2_All_L,FO_27.2.a_2_All_L,X
+RU_27.2.a_3_All_L,RU_27.2.a_3_Pelagic trawl_L,X
+RU_27.2.a_4_Pelagic trawl_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+RU_27.2.a_4_Pelagic trawl_L,NO_27.4.a_4_All_L,X
+RU_27.4.a_1_Pelagic trawl_L,IS_27.4.a_1_Pelagic trawl_L,X
+RU_27.4.a_2_All_L,NO_27.4.a_2_All_L,X
+RU_27.4.a_4_Pelagic trawl_L,NO_27.4.a_4_All_L,X
+RU_27.5.b_1_All_L,FO_27.5.b_1_All_L,X
+RU_27.5.b_2_All_L,FO_27.5.b_2_All_L,X
+RU_27.5.b_2_All_L,NO_27.5.b_2_All_L,X
+RU_27.5.b_3_Pelagic trawl_L,IS_27.5.a_3_Pelagic trawl_L,X
+RU_27.6.a_2_All_L,UKS_27.6.a_2_All_L,X
+RU_27.6.b_1_All_L,NO_27.6.b_1_All_L,X
+RU_27.6.b_2_Pelagic trawl_L,DK_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+RU_27.6.b_2_Pelagic trawl_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+RU_27.6.b_2_Pelagic trawl_L,RU_27.6.a_2_Pelagic trawl_L,X
+RU_27.6.b_2_Pelagic trawl_L,UKS_27.6.a_2_All_L,X
+RU_27.7.c_1_All_L,NO_27.7.c_1_All_L,X
+RU_27.7.k_1_All_L,FO_27.7.k_1_All_L,X
+RU_27.7.k_1_All_L,NO_27.7.k_1_All_L,X
+SE_27.2.a.2_4_All_L,DK_27.4.a_4_OTM_SPF_32-69_0_0_all_L,X
+SE_27.2.a.2_4_All_L,NO_27.4.a_4_All_L,X
+SE_27.4.a_1_All_L,IS_27.4.a_1_Pelagic trawl_L,X
+SE_27.4.a_2_All_L,NO_27.4.a_2_All_L,X
+SE_27.4.a_3_All_L,NO_27.4.a_3_All_L,X
+SE_27.4.b_3_All_L,NO_27.4.a_3_All_L,X
+UKE_27.6.a_2_OTM_SPF_32-69_0_0_all_L,DK_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+UKE_27.7.h_3_TBB_DEF_70-99_0_0_all_L,ES_27.7.h_3_OTB_DEF_70-99_0_0_D,X
+UKN_27.6.a_1_NI-PT_L,IE_27.6.a_1_TrawlPlus_L,X
+UKN_27.6.a_1_NI-PT_L,NL_27.6.a_1_OTM_SPF_32-69_0_0_all_L,X
+UKN_27.6.a_1_NI-PT_L,UKS_27.6.a_1_All_L,X
+UKN_27.6.a_2_NI-PT_L,IE_27.6.a_2_TrawlPlus_L,X
+UKN_27.6.a_2_NI-PT_L,NL_27.6.a_2_OTM_SPF_32-69_0_0_all_L,X
+UKN_27.6.a_2_NI-PT_L,RU_27.6.a_2_Pelagic trawl_L,X
+UKN_27.6.a_2_NI-PT_L,UKS_27.6.a_2_All_L,X
+UKS_27.2.a_1_All_L,FO_27.2.a_1_All_L,X
+UKS_27.4.a_1_All_L,IS_27.4.a_1_Pelagic trawl_L,X
+UKS_27.4.a_3_All_L,NO_27.4.a_3_All_L,X
+UKS_27.6.b.2_1_All_L,IE_27.6.b.2_1_TrawlPlus_L,X
+UKS_27.6.b.2_1_All_L,NO_27.6.b_1_All_L,X
+UKS_27.6.b.2_1_All_L,RU_27.6.b_1_Pelagic trawl_L,X

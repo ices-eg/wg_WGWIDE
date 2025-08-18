@@ -1,0 +1,281 @@
+---
+title: "WGWIDE 2024: whb.27.1-91214  - Change in advice"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+header-includes:
+- \usepackage{comment}
+- \usepackage{booktabs}
+- \usepackage{longtable,tabu}
+- \usepackage{array}
+- \usepackage{caption}
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \floatplacement{table}{ht}
+- \usepackage{colortbl}
+- \usepackage{makecell}
+- \usepackage{xcolor}
+
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+fig_caption: yes
+---
+
+```{r setup, eval=TRUE, echo=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
+# USE R version <4 - otherwise Latex wont work! 
+options(tinytex.verbose = TRUE)
+
+rm(list=ls())
+graphics.off()
+
+# libraries
+# not used ? library(icesTAF) 
+library(knitr)
+library(reshape2)
+library(ggplot2)
+library(kableExtra)
+library(RColorBrewer)
+library(dplyr)
+
+# User to edit
+# directories
+#setwd("N://Stock_assessment/WGNSSK/Change in advice")
+
+# settings
+stock.name <- "whb.27.1-91214 "
+ages <- 1:10 # ages for stock
+ay <- 2024 # assessment year
+
+# Source as described in input files for this script. Must be an exact match as these are used for filtering later.
+source.now <-"WGWIDE 2024"
+source.prev <-"WGWIDE 2023"
+
+opts_chunk$set(comment   = NA,
+               warning   = FALSE,
+               message   = FALSE,
+               error     = FALSE,
+               echo      = FALSE,
+               eval      = TRUE,
+               dev = "my_png",
+               fig.ext = "png",
+               fig.align = 'center',
+               tab.align = 'left',
+               fig.width = 7,
+               fig.height = 5)
+options(knitr.kable.NA = '-')
+options(knitr.table.format = 'latex')
+options(digits = 2)
+options(scipen=5)
+my_png <- function(file, width, height) {
+  png(file, width = width, height = height, 
+      res = 300, units = "in", pointsize = 20)
+}
+
+```
+
+A comparison of the values used in this year's and last year's advice forecasts, for:
+
+ * Forecast assumptions of SSB, Fbar, recruitment, total catch
+ * Stock weights-at-age used in the forecast years
+ * Selectivities used in the forecast
+ * Stock numbers-at-age, specifically for the forecast years (plot) and for all assessment and forecast years (table)
+ * Stock biomass-at-age, specifically for the forecast years (plot) and for all assessment and forecast years (table)
+
+```{r, comp-fcst-asmp, echo=FALSE, results='asis',eval=TRUE,fig.show="hide"}
+
+# Compare forecast assumptions ------------------------------------------------------------
+
+# read in and format forcast assumptions
+dat <- read.csv(paste0("Forecast_assumptions.csv"))
+dat <- dat[dat$Year >(ay-2),]
+dat$Type <- factor(dat$Type,levels=c("Data year","Intermediate year","Advice year"))
+dat$Variable <- factor(dat$Variable,levels=c("SSB","Fbar","Total catch","Recruitment"))
+
+# plot
+ggplot(dat,aes(x=Year,y=Value,colour=Source,shape=Type))+geom_point(size=3)+facet_wrap(~Variable,scales="free_y")+
+  theme_bw()+labs(x="",y="",colour="",shape="")+ scale_shape_manual(values=c(16, 2, 0))+ggtitle(stock.name)
+
+```
+
+\clearpage
+
+![Compare forecast assumptions for SSB, Fbar, recruitment and total catch](`r fig_chunk('comp-fcst-asmp', 'png', 1,fig.path = opts_chunk$get("fig.path"))`)
+
+\clearpage
+
+```{r, comp-fcst-stwts, echo=FALSE, results='asis',eval=TRUE,fig.show="hide"}
+# Compare forecast stock weights ------------------------------------------------------------
+
+# read in stock weights used in the forecasts
+dat <- read.csv(paste0("Forecast_stockwts.csv"))
+
+# plot
+ggplot(data=dat, aes(x=Age, y=Weight,colour=Source, group=Source)) + 
+  facet_wrap(~Year,nrow = 2)+
+  geom_line() +geom_point(size=2) + theme_bw()+ labs(colour="",x="",y="Mean weight (kg)") +
+  theme(axis.title=element_text(size=8),axis.text=element_text(size=8),
+        legend.text=element_text(size=9)) + ggtitle(stock.name)
+
+```
+\clearpage
+
+![Compare stock weights-at-age used in the forecast](`r fig_chunk('comp-fcst-stwts', 'png', 1,fig.path = opts_chunk$get("fig.path"))`)
+
+\clearpage
+
+```{r, comp-fcst-sel, echo=FALSE, results='asis',eval=TRUE,fig.show="hide"}
+# Compare forecast selectivity ------------------------------------------------------------
+
+# read in selectivities used in forecast 
+dat <- read.csv(paste0("Forecast_selectivity.csv"))
+
+# plot
+ggplot(data=dat, aes(x=Age, y=Selectivity,colour=Source, group=Source)) + 
+  geom_line() + geom_point(size=2)+theme_bw()+ labs(colour="",x="",y="Selectivity") +
+  theme(axis.title=element_text(size=8),axis.text=element_text(size=8),
+        legend.text=element_text(size=9)) + ggtitle(stock.name)
+
+```
+\clearpage
+
+![Compare selectivities used in the forecast](`r fig_chunk('comp-fcst-sel', 'png', 1,fig.path = opts_chunk$get("fig.path"))`)
+
+\clearpage
+
+
+```{r, comp-fcst-nage, echo=FALSE, results='asis',eval=TRUE,fig.show="hide"}
+# Compare forecast N at age ------------------------------------------------------------
+
+# read in N at age from the forecasts
+dat <- read.csv(paste0("Forecast_N_at_age.csv"))
+
+# plot
+ggplot(dat,aes(x=Age,y=N,group=interaction(Type,Source),colour=Source,shape=Type))+ 
+  geom_line() + geom_point(size=3) + labs(colour="",y="Abundance (thousands)",shape="")+
+  facet_wrap(~Year,nrow=2)+theme_bw()+scale_shape_manual(values=c(16, 2, 0))  + ggtitle(stock.name)
+
+
+# Make a table to show the change in N at age between forecasts as a ratio
+
+# Read in N at age tables - as output from assessment
+dat.prev <- read.csv(paste0("Prev_assessment_N_at_age.csv"))
+dat.now <- read.csv(paste0("Now_assessment_N_at_age.csv"))
+colnames(dat.prev) <- colnames(dat.now) <- c("Year",ages)
+
+# Combine with forecast N at age
+# Forecast values ovewrite the assessment output here to account for when forecast values (e.g. median recruitment) are different to the assessment output
+tmp.prev <- dat[dat$Source %in% source.prev,]
+tmp.prev <- dcast(tmp.prev,Year~Age,value.var="N")
+dat.prev <- rbind(dat.prev[dat.prev$Year < min(tmp.prev$Year),],tmp.prev)
+
+tmp.now <- dat[dat$Source %in% source.now,]
+tmp.now <- dcast(tmp.now,Year~Age,value.var="N")
+dat.now <- rbind(dat.now[dat.now$Year < min(tmp.now$Year),],tmp.now)
+
+# Find ratio
+comp.yrs <- intersect(dat.now$Year,dat.prev$Year)
+rat.n <- dat.now[dat.now$Year %in% comp.yrs,] / dat.prev[dat.prev$Year %in% comp.yrs,]
+rat.n$Year <- comp.yrs
+
+dat2tab <- rat.n[,as.character(ages)]
+row.names(dat2tab) <- rat.n$Year
+
+col.pal <- brewer.pal(n = 7, name = "RdBu")
+# 0.8, 0.9, 0.95, 1, 1.05, 1.1, 1.2
+
+
+colour_cols <- function(x){
+  for (i in 1:dim(dat2tab)[2]){
+ x <- x %>% column_spec(column=i+1, background = ifelse(dat2tab[,i] <= 0.80, col.pal[1],
+                                       ifelse(dat2tab[,i]<= 0.90,col.pal[2],
+                                              ifelse(dat2tab[,i] <= 0.95,col.pal[3], 
+                                                     ifelse(dat2tab[,i] <= 1.05,col.pal[4],
+                                                            ifelse(dat2tab[,i] <= 1.1, col.pal[5],
+                                                                   ifelse(dat2tab[,i] <= 1.2,col.pal[6],col.pal[7])))))))
+  }
+  return(x)
+  }
+
+
+dat2tab %>%
+  kbl(longtable=T, booktabs = TRUE,caption = paste0(stock.name,": Ratio of stock numbers-at-age between forecasts (this year/lst year). Red colours indicate a decrease in numbers while blue colours indicate an increase")) %>%
+  kable_styling(full_width=F,latex_options = c("repeat_header"),font_size = 8, repeat_header_continued = T, position = "center") %>%
+  colour_cols()
+
+
+```
+\clearpage
+
+![Compare numbers-at-age in the forecasts](`r fig_chunk('comp-fcst-nage', 'png', 1,fig.path = opts_chunk$get("fig.path"))`)
+
+\clearpage
+
+
+```{r, comp-fcst-bage, echo=FALSE, results='asis',eval=TRUE,fig.show="hide"}
+
+# Compare forecast B at age ------------------------------------------------------------
+
+# read in biomass at age from the forecasts
+dat <- read.csv(paste0("Forecast_B_at_age.csv"))
+
+# plot
+ggplot(dat,aes(x=Age,y=B,group=interaction(Type,Source),colour=Source,shape=Type))+ 
+  geom_line() + geom_point(size=3) + labs(colour="",y="Biomass (tonnes)",shape="")+
+  facet_wrap(~Year,nrow=2)+theme_bw()+scale_shape_manual(values=c(16, 2, 0))  + ggtitle(stock.name)
+
+# Make a table to show the change in N at age between forecasts as a ratio
+
+# Read in B at age tables - as output from assessment (N * stock weights)
+dat.prev <- read.csv(paste0("Prev_assessment_B_at_age.csv"))
+dat.now <- read.csv(paste0("Now_assessment_B_at_age.csv"))
+
+colnames(dat.prev) <- colnames(dat.now) <- c("Year",ages)
+
+# Combine with forecast B at age
+# Forecast values ovewrite the assessment output here to account for when forecast values (e.g. median recruitment) are different to the assessment output
+tmp.prev <- dat[dat$Source %in% source.prev,]
+tmp.prev <- dcast(tmp.prev,Year~Age,value.var="B")
+dat.prev <- rbind(dat.prev[dat.prev$Year < min(tmp.prev$Year),],tmp.prev)
+
+tmp.now <- dat[dat$Source %in% source.now,]
+tmp.now <- dcast(tmp.now,Year~Age,value.var="B")
+dat.now <- rbind(dat.now[dat.now$Year < min(tmp.now$Year),],tmp.now)
+
+# Find ratio
+comp.yrs <- intersect(dat.now$Year,dat.prev$Year)
+rat.b <- dat.now[dat.now$Year %in% comp.yrs,] / dat.prev[dat.prev$Year %in% comp.yrs,]
+rat.b$Year <- comp.yrs
+
+# print table
+dat2tab <- rat.b[,as.character(ages)]
+row.names(dat2tab) <- rat.b$Year
+
+col.pal <- brewer.pal(n = 7, name = "RdBu")
+# 0.8, 0.9, 0.95, 1, 1.05, 1.1, 1.2
+
+colour_cols <- function(x){
+  for (i in 1:dim(dat2tab)[2]){
+ x <- x %>% column_spec(column=i+1, background = ifelse(dat2tab[,i] <= 0.80, col.pal[1],
+                                       ifelse(dat2tab[,i]<= 0.90,col.pal[2],
+                                              ifelse(dat2tab[,i] <= 0.95,col.pal[3], 
+                                                     ifelse(dat2tab[,i] <= 1.05,col.pal[4],
+                                                            ifelse(dat2tab[,i] <= 1.1, col.pal[5],
+                                                                   ifelse(dat2tab[,i] <= 1.2,col.pal[6],col.pal[7])))))))
+  }
+  return(x)
+  }
+
+
+dat2tab %>%
+  kbl(longtable=T, booktabs = TRUE,caption = paste0(stock.name,": Ratio of stock biomass-at-age between forecasts (this year/lst year). Red colours indicate a decrease in biomass while blue colours indicate an increase")) %>%
+  kable_styling(full_width=F, latex_options = c("repeat_header"),font_size = 8, repeat_header_continued = T, position = "center") %>%
+  colour_cols()
+
+```
+\clearpage
+
+![Compare biomass-at-age in the forecasts](`r fig_chunk('comp-fcst-bage', 'png', 1,fig.path = opts_chunk$get("fig.path"))`)
+
+\clearpage
+
+

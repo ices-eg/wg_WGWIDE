@@ -1,0 +1,1542 @@
+11/08/2025 17:54:06
+Blue whiting (Micromesistius poutassou) in Subareas 1-9, 12, and 14 (Northeast Atlantic and adjacent waters), stock code: whb.27.1-91214. Working year 2025. Data year 2025
+Allocation Scheme: BW_2025_1S_age. Allocation Scheme description: Allocations to preliminary 2025 1S data
+
+Catch and sampling information
+Catch and sampling data per area and country pr year.
+---------------------------------------------
+Area: 27.14.b
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Iceland	Landings	Reported	 	37000	0	37000	0	0	0	0
+               	         		Total       	37000	0	37000	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.2.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Faroe Islands	Landings	Reported	 	52484000	52484	52484000	3	325	3	250
+Iceland	Landings	Reported	 	15501000	0	15501000	0	0	0	0
+Norway	Landings	Reported	 	3697470	3238072	3697470	1	1	1	30
+               	         		Total       	71682470	3290556	71682470	4	326	4	280
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.2.a.1
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	59594	0	59594	0	0	0	0
+               	         		Total       	59594	0	59594	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.3.a.20
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	214	0	214	0	0	0	0
+               	         		Total       	214	0	214	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.4.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	6860	0	6860	0	0	0	0
+Faroe Islands	Landings	Reported	 	29752000	0	29752000	0	0	0	0
+Iceland	Landings	Reported	 	13646000	0	13646000	0	0	0	0
+Norway	Landings	Reported	 	7805973	0	7805973	0	0	0	0
+Poland	Landings	Reported	 	1867846	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	12861	0	0	0	0	0	0
+               	         		Total       	53091540	0	51210833	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.4.b
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	21	0	21	0	0	0	0
+UK (England)	Landings	All - reported, nonreported and misreported	 	61	0	0	0	0	0	0
+               	         		Total       	82	0	21	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.5.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Iceland	Landings	Reported	 	234000	0	234000	0	0	0	0
+               	         		Total       	234000	0	234000	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.5.b
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Faroe Islands	Landings	Reported	 	172664000	172664	172664000	7	650	7	406
+Iceland	Landings	Reported	 	119676000	0	119676000	0	0	0	0
+Norway	Landings	Reported	 	55509883	55374761	55509883	2	2	2	60
+               	         		Total       	347849883	55547425	347849883	9	652	9	466
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.6.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	45033108	45033108	45033108	15	977	15	722
+Faroe Islands	Landings	Reported	 	24552000	817	24552000	1	100	1	100
+Germany	Landings	Reported	 	12052894	0	12053000	0	0	0	0
+Iceland	Landings	Reported	 	23112000	0	23112000	0	0	0	0
+Ireland	Landings	Reported	 	38582652	38583	0	19	5196	19	1000
+Poland	Landings	Reported	 	26409674	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	62546446	0	0	0	0	0	0
+               	         		Total       	232288774	45072508	104750108	35	6273	35	1822
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.6.b
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Faroe Islands	Landings	Reported	 	9618000	9618	9618000	1	99	1	99
+Iceland	Landings	Reported	 	8349000	0	8349000	0	0	0	0
+Norway	Landings	Reported	 	24687684	24687684	24687684	4	4	4	120
+               	         		Total       	42654684	24697302	42654684	5	103	5	219
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.6.b.2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Ireland	Landings	Reported	 	4300968	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	6246660	0	0	0	0	0	0
+               	         		Total       	10547628	0	0	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.b
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	3382873	3382873	3382873	1	48	1	48
+Germany	Landings	Reported	 	4043224	0	4043000	0	0	0	0
+Ireland	Landings	Reported	 	913062	913	0	1	278	1	100
+Poland	Landings	Reported	 	3475797	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	4182418	0	0	0	0	0	0
+               	         		Total       	15997374	3383786	7425873	2	326	2	148
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.c
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Iceland	Landings	Reported	 	954000	0	954000	0	0	0	0
+Norway	Landings	Reported	 	57690935	57690935	57690935	5	6	5	177
+UK (England)	Landings	All - reported, nonreported and misreported	 	2586893	0	0	0	0	0	0
+               	         		Total       	61231828	57690935	58644935	5	6	5	177
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.c.2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	21678810	21678810	21678810	5	568	5	409
+Germany	Landings	Reported	 	8989116	0	8989000	0	0	0	0
+Ireland	Landings	Reported	 	9301501	9302	0	4	989	4	300
+Poland	Landings	Reported	 	10568095	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	22855869	0	0	0	0	0	0
+               	         		Total       	73393391	21688112	30667810	9	1557	9	709
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.d
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+UK (England)	Landings	All - reported, nonreported and misreported	 	34	0	0	0	0	0	0
+               	         		Total       	34	0	0	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.h
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Germany	Landings	Reported	 	36664	0	37000	0	0	0	0
+UK (England)	Landings	All - reported, nonreported and misreported	 	3964	0	0	0	0	0	0
+               	         		Total       	40628	0	37000	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.j
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	50755	0	50755	0	0	0	0
+UK (England)	Landings	All - reported, nonreported and misreported	 	1609	0	0	0	0	0	0
+               	         		Total       	52364	0	50755	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.j.2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	14593	0	14593	0	0	0	0
+Germany	Landings	Reported	 	90354	0	90000	0	0	0	0
+Ireland	Landings	Reported	 	6850	0	0	0	0	0	0
+               	         		Total       	111797	0	104593	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.k
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Faroe Islands	Landings	Reported	 	48967000	48967	48967000	3	305	3	300
+Iceland	Landings	Reported	 	13456700	0	13457000	0	0	0	0
+Norway	Landings	Reported	 	219173485	219173485	219173485	13	18	13	539
+               	         		Total       	281597185	219222452	281597485	16	323	16	839
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.7.k.2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	8461535	8461535	8461535	3	216	3	167
+Ireland	Landings	Reported	 	571450	0	0	0	0	0	0
+               	         		Total       	9032985	8461535	8461535	3	216	3	167
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.8.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	91771	0	91771	0	0	0	0
+Poland	Landings	Reported	 	1265	0	0	0	0	0	0
+               	         		Total       	93036	0	91771	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.8.d.2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Poland	Landings	Reported	 	253	0	0	0	0	0	0
+               	         		Total       	253	0	0	0	0	0	0
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Area: 27.9.a
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Portugal	Landings	Reported	 	736326	736326	736326	4	400	4	392
+               	         		Total       	736326	736326	736326	4	400	4	392
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+11/08/2025 17:54:07
+Blue whiting (Micromesistius poutassou) in Subareas 1-9, 12, and 14 (Northeast Atlantic and adjacent waters), stock code: whb.27.1-91214. Working year 2025. Data year 2025
+Allocation Scheme: BW_2025_1S_age. Allocation Scheme description: Allocations to preliminary 2025 1S data
+
+Catch and sampling information
+Quarterly Catch and sampling data per country.
+---------------------------------------------
+Season: 1
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	47464944	47241454	47464944	16	1189	16	935
+Faroe Islands	Landings	Reported	 	104552000	103427	104552000	11	1073	11	899
+Germany	Landings	Reported	 	25212252	0	25212000	0	0	0	0
+Iceland	Landings	Reported	 	72915700	0	72916000	0	0	0	0
+Ireland	Landings	Reported	 	42486394	37608	0	17	4679	17	1000
+Norway	Landings	Reported	 	302274469	301552104	302274469	22	28	22	836
+Poland	Landings	Reported	 	22747483	0	0	0	0	0	0
+Portugal	Landings	Reported	 	344351	344351	344351	1	150	1	149
+UK (England)	Landings	All - reported, nonreported and misreported	 	2592563	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	73306146	0	0	0	0	0	0
+               	         		Total       	693896302	349278944	552763764	67	7119	67	3819
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Season: 2
+----------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	31315190	31314872	31315190	8	620	8	411
+Faroe Islands	Landings	Reported	 	233485000	181123	233485000	4	406	4	256
+Iceland	Landings	Reported	 	122050000	0	122050000	0	0	0	0
+Ireland	Landings	Reported	 	11190091	11190	0	7	1784	7	400
+Norway	Landings	Reported	 	66290961	58612833	66290961	3	3	3	90
+Poland	Landings	Reported	 	19575447	0	0	0	0	0	0
+Portugal	Landings	Reported	 	391975	391975	391975	3	250	3	243
+UK(Scotland)	Landings	Reported	 	22538108	0	0	0	0	0	0
+               	         		Total       	506836772	90511993	453533126	25	3063	25	1400
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+11/08/2025 17:54:07
+Blue whiting (Micromesistius poutassou) in Subareas 1-9, 12, and 14 (Northeast Atlantic and adjacent waters), stock code: whb.27.1-91214. Working year 2025. Data year 2025
+Allocation Scheme: BW_2025_1S_age. Allocation Scheme description: Allocations to preliminary 2025 1S data
+
+Catch and sampling information
+Catch and sampling data per country for all areas and all quarters.
+---------------------------------------------
+Area: All Areas and Season: All seasons
+---------------------------------------
+Country	Catch   	Reporting	Misreported 	Catch	Sampled	Official	No. of length	No.     	No. of age	No. 
+       	category	category 	area to/from	     	Catch  	Catch   	samples      	measured	samples   	aged
+       	 kg			 kg	 kg  	 kg	in numbers	in numbers	in numbers
+samples   	aged
+Denmark	Landings	All - reported, nonreported and misreported	 	78780134	78556326	78780134	24	1809	24	1346
+Faroe Islands	Landings	Reported	 	338037000	284550	338037000	15	1479	15	1155
+Germany	Landings	Reported	 	25212252	0	25212000	0	0	0	0
+Iceland	Landings	Reported	 	194965700	0	194966000	0	0	0	0
+Ireland	Landings	Reported	 	53676485	48798	0	24	6463	24	1400
+Norway	Landings	Reported	 	368565430	360164937	368565430	25	31	25	926
+Poland	Landings	Reported	 	42322930	0	0	0	0	0	0
+Portugal	Landings	Reported	 	736326	736326	736326	4	400	4	392
+UK (England)	Landings	All - reported, nonreported and misreported	 	2592563	0	0	0	0	0	0
+UK(Scotland)	Landings	Reported	 	95844254	0	0	0	0	0	0
+               	         		Total       	1200733074	439790937	1006296890	92	10182	92	5219
+
+      Total Discards: 0 kg
+      Total Misreported: 0 kg
+
+
+Catch Numbers at Age by Area (in numbers)
+----------------------------
+For Period	1
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.9.a	Total
+1	90403.9	27343578.4	219480.9	10678985.8	239.4	204523.4	251687989.2	0	1702946.7	421103.8	0	0	10813.1	0	0	0	0	0	0	6324.9	23732.8	292390122.3
+2	45419.1	7264707.6	58312.2	4924965.6	63.6	94416.3	126448508.4	118369415.3	37693891	9320925.7	15390820.9	22660390.2	36963703.5	17.4	20827.1	26816	57225.2	146340522.8	2387033.1	112944.1	423798.6	528604723.7
+3	67651.8	13034664.9	104626.4	7486304.6	114.1	143484.8	188345460.6	145195110.1	43890314.9	10853174.2	21234473	70434382.1	145036382.8	34.6	41306.3	53308.6	113882.8	281190807.9	14955106.6	409195.3	1535417.5	944125203.9
+4	88635.3	23816758.7	191171.9	10266612.2	208.5	196668.9	246764268.4	433176437.8	124944955.5	30896323.4	60633221	228354452.4	336883484.7	113.2	135122.7	174244.1	372098.2	930076029.2	37357816	81014.4	303989.2	2464713625.7
+5	33294.1	10080442.9	80913.5	3933576.7	88.3	75335.5	92692109.6	184410199.3	74136486.5	18332431.7	31644416.4	144925427.6	114187973.1	91.7	109735	141312.8	301583.9	769356303.6	14487967.9	6398.6	24009.4	1458960098.1
+6	11297.3	3634895.2	29176.5	1349319.7	31.8	25839	31452237.6	69936189.3	32904322.2	8136563.6	8821508.3	31033824.3	15657963.1	24.3	29154.2	37518.7	80046.2	206220921.6	1793029.1	3589.5	13468.7	411170920.2
+7	2533.2	796028.5	6389.5	301268.6	7	5769.5	7052660.5	68235834.8	6972486.2	1724152.8	147918.8	6652689.4	19031133.1	8.1	9671	12474.8	26643.8	66286770.2	2990682.8	0	0	180255122.6
+8	0	398014.2	3194.8	27066.8	3.5	512.6	0	23798500.9	1783297	440972.8	4669612.1	18051419.2	2029655.5	1.3	1532.6	2011.2	4329.2	8017494.1	3284569.2	0	0	62512187
+9	0	398014.2	3194.8	27066.8	3.5	512.6	0	4894517.4	2937831.6	726465.5	0	15330887.3	2062908.5	3.1	3696.3	4756.6	10148.1	26154166.1	217366.9	0	0	52771539.3
+10	0	398014.2	3194.8	27066.8	3.5	512.6	0	674769.2	0	0	0	5835699.8	0	2.8	3314.6	4277.4	9137.5	22587805.7	1173218.6	0	0	30717017.5
+11	0	0	0	0	0	0	0	232969.1	0	0	0	12494612.1	0	0.8	951.1	1223.2	2609.1	6779226.3	0	0	0	19511591.7
+12	0	0	0	0	0	0	0	199687.8	2048578.9	506571.5	0	0	0	0.4	501.3	644.7	1375.2	3573135.6	0	0	0	6330495.4
+
+
+Mean Weight at Age by Area (in grams)
+------------------------------------
+For Period	1
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.9.a	Total
+1	38.8	42.2	42.2	39.4	42.2	39.4	38.8	0	53	53	0	0	51.1	0	0	0	0	0	0	98	98	39.2525435200381
+2	72.4	61.8	61.8	71.3	61.8	71.3	72.4	69.6	82.8	82.8	69.1	66.3	70.1	70.7	70.7	70.7	70.7	70.7	72.4	135.1	135.1	71.6149818397659
+3	92.1	87.6	87.6	91.5	87.6	91.5	92.1	82.1	100.7	100.7	82	82.8	89.4	89.3	89.3	89.3	89.3	89.3	89.1	145.1	145.1	88.8846558502091
+4	105	108.2	108.2	105.5	108.2	105.5	105	98.1	123.2	123.2	111.9	101.9	107.7	105.1	105.1	105.1	105.1	105	107.2	174	174	105.267101202564
+5	113.3	121.4	121.4	114.7	121.4	114.7	113.3	114.8	132.5	132.5	126.8	107.8	128.5	120.3	120.3	120.3	120.3	120.2	127.2	217.6	217.6	119.484327828335
+6	141.1	140.4	140.4	141	140.4	141	141.1	142.6	180.1	180.1	149.2	143.8	162.8	151.7	151.7	151.7	151.7	151.5	176.5	240.1	240.1	151.823605741416
+7	120.1	214.7	214.7	137.1	214.7	136.9	120.1	164.3	220.3	220.3	130.7	207.8	183.1	175.2	175.3	175.3	175.2	175.9	160.4	0	0	173.21661789949
+8	0	132.1	132.1	132.1	132.1	132.1	0	161.5	263	263	226.7	162.6	228.6	181.8	181.4	181.7	181.8	176.7	194.3	0	0	175.951915930249
+9	0	203.9	203.9	203.9	203.9	203.9	0	197.5	319	319	0	194.2	183	201.7	201.7	201.7	201.7	201.9	181.5	0	0	206.579342169767
+10	0	165.3	165.3	165.3	165.3	165.3	0	193.9	0	0	0	151.5	0	182.7	182.8	182.7	182.7	183	177.1	0	0	176.782408919746
+11	0	0	0	0	0	0	0	241.5	0	0	0	188	0	191.6	191.6	191.6	191.6	191.6	0	0	0	189.890480552133
+12	0	0	0	0	0	0	0	262.4	457	457	0	0	0	281	281	281	281	281	0	0	0	351.451402163565
+
+
+Mean Length at Age by Area (in mm)
+----------------------------------
+For Period	1
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.9.a	Total
+1	193.7	199.9	199.9	194.8	199.9	194.8	193.7	0	210	210	0	0	215	0	0	0	0	0	0	202.4	202.4	194.445504514706
+2	234.7	225.1	225.1	233.8	225.1	233.8	234.7	238	245.7	245.7	229.8	234.2	234.3	234.9	234.9	234.9	234.9	235	232.9	224.2	224.2	236.148006331881
+3	252.8	251.8	251.8	252.7	251.8	252.7	252.8	253.2	261.8	261.8	246.2	252.9	251.3	253.6	253.6	253.6	253.6	253.8	249.7	229.2	229.2	253.19752391257
+4	264.4	268.6	268.6	265.1	268.6	265.1	264.4	267.9	277.1	277.1	268.2	268	265.9	266.4	266.4	266.4	266.4	266.3	267.8	242.7	242.7	267.259738870056
+5	269.5	277.2	277.3	270.9	277.2	270.8	269.5	278.4	282.5	282.5	280.6	274.5	281.2	276.7	276.6	276.7	276.7	276.6	281.8	261.2	261.2	277.028259572255
+6	288.1	288.3	288.3	288.1	288.3	288.1	288.1	292.6	306.1	306.1	286.9	298.8	303.9	295.2	295.1	295.2	295.2	295	319.4	270	270	295.646326286014
+7	276.5	329	329	285.9	329	285.8	276.5	303.4	320.6	320.6	315	332.4	314.8	309.6	309.6	309.6	309.6	309.6	309.1	0	0	307.920770260373
+8	0	287	287	287	287	287	0	305	340	340	331.1	312.2	332.2	318.8	318.5	318.7	318.8	314.4	329.8	0	0	313.544168796878
+9	0	326	326	326	326	326	0	327.3	356.6	356.6	0	334.4	310.8	325.5	325.6	325.5	325.5	325.6	320	0	0	329.868350448894
+10	0	300	300	300	300	300	0	339	0	0	0	322.7	0	314.7	314.8	314.8	314.7	315	309.8	0	0	316.581939833514
+11	0	0	0	0	0	0	0	365	0	0	0	329.2	0	317.6	317.6	317.6	317.6	317.6	0	0	0	325.594234304319
+12	0	0	0	0	0	0	0	375	405	405	0	0	0	360	360	360	360	360	0	0	0	378.636311622626
+
+
+Catch Numbers at Age by Area (in numbers)
+----------------------------
+For Period	2
+
+Ages	27.14.b	27.2.a	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.7.c.2	27.8.a	27.8.d.2	27.9.a	Total
+1	1011.5	165898505.3	552.5	53690154.2	12.3	106021.9	30333208.7	19898711.1	1954.4	93.1	18.6	28839.4	269959083
+2	6819.4	33268362.4	110.8	33102375.5	24.5	121900.9	204502796.8	119645741.2	11751.2	1893.3	378.7	586670.7	391248825.4
+3	17144.6	199166867.7	663.3	118233188.9	36.8	369587.9	514140774.3	293053078.1	28782.6	5782.7	1156.5	1791849.3	1126808912.7
+4	49459.6	259574198	864.5	245626591.3	61.3	894114.2	1483220347.8	697055077.1	68462.3	770.6	154.1	238773	2686728873.8
+5	24720.3	95863389.1	319.3	112500663.8	30.6	428378.9	741325581.2	275831973	27091.3	8.7	1.7	2708.6	1226004866.5
+6	2582.7	8317090.9	27.7	11239125.3	6.1	43828.3	77452387.1	45668550.6	4485.4	0	0	0	142728084.1
+7	1963.6	0	0	6628605.3	0	29867.1	58885567.6	16490085	1619.6	0	0	0	82037708.2
+8	976.4	3064697.9	10.2	4224908	12.3	16526.1	29281522.5	2932155.9	288	0	0	0	39521097.3
+9	476.7	0	0	1609058.6	0	7250.1	14294158	1628941.3	160	0	0	0	17540044.7
+10	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+
+Mean Weight at Age by Area (in grams)
+------------------------------------
+For Period	2
+
+Ages	27.14.b	27.2.a	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.7.c.2	27.8.a	27.8.d.2	27.9.a	Total
+1	44.6	56.1	56.1	55.4	62	54.4	44.6	51.5	51.5	104.3	104.3	104.3	54.3339752458709
+2	64.4	81.3	81.3	69.5	74.5	66.9	64.4	59.4	59.4	140.9	140.9	140.9	64.8552881818824
+3	73.5	83.8	83.8	78.7	95	76.5	73.5	71.6	71.6	148.6	148.6	148.6	75.4928677899071
+4	83.1	93.8	93.8	86.5	86.3	84.8	83.1	83.5	83.5	164.1	164.1	164.1	84.5561829208306
+5	95.6	101	101	97	108	96.3	95.6	95.4	95.4	240.1	240.1	240.1	96.10626738845
+6	122.3	141.3	141.3	126.5	151	124.2	122.3	125.6	125.6	0	0	0	124.794491883255
+7	109.7	0	0	109.7	0	109.7	109.7	132.7	132.7	0	0	0	114.323595833215
+8	138	114.5	114.5	132.9	114.5	135.7	138	163.1	163.1	0	0	0	137.493899974786
+9	243	0	0	243	0	243	243	128.2	128.2	0	0	0	232.337494149031
+10	0	0	0	0	0	0	0	0	0	0	0	0	NA
+11	0	0	0	0	0	0	0	0	0	0	0	0	NA
+12	0	0	0	0	0	0	0	0	0	0	0	0	NA
+
+
+Mean Length at Age by Area (in mm)
+----------------------------------
+For Period	2
+
+Ages	27.14.b	27.2.a	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.7.c.2	27.8.a	27.8.d.2	27.9.a	Total
+1	212.5	208.5	208.5	208.8	222.5	209.1	212.5	217.2	217.2	206.4	206.4	206.4	209.650480663546
+2	238.8	246.1	246.1	241	238.8	239.9	238.8	232.2	232.2	226.9	226.9	226.9	237.570785583757
+3	252.8	250	250	251.4	257.5	252	252.8	248.3	248.3	230.8	230.8	230.8	250.952363949819
+4	264.6	263.4	263.4	264.2	261.5	264.4	264.6	263.4	263.4	237.9	237.9	237.9	264.13368279454
+5	279.6	271.7	271.7	277.6	278	278.6	279.6	275.5	275.5	270	270	270	277.875862212616
+6	309.5	308.2	308.2	309.2	300	309.4	309.5	301.9	301.9	0	0	0	306.968588551242
+7	288.2	0	0	288.2	0	288.2	288.2	312.4	312.4	0	0	0	293.064826920165
+8	307.2	280	280	301.2	280	304.4	307.2	343.9	343.9	0	0	0	307.171270412322
+9	370	0	0	370	0	370	370	306.9	306.9	0	0	0	364.1393369408
+10	0	0	0	0	0	0	0	0	0	0	0	0	NA
+11	0	0	0	0	0	0	0	0	0	0	0	0	NA
+12	0	0	0	0	0	0	0	0	0	0	0	0	NA
+
+
+Catch Numbers at Age by Area (in numbers)
+----------------------------
+For Period	3
+
+Ages		Total
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+10	0	0
+11	0	0
+12	0	0
+
+
+Mean Weight at Age by Area (in grams)
+------------------------------------
+For Period	3
+
+Ages		Total
+1	0	NA
+2	0	NA
+3	0	NA
+4	0	NA
+5	0	NA
+6	0	NA
+7	0	NA
+8	0	NA
+9	0	NA
+10	0	NA
+11	0	NA
+12	0	NA
+
+
+Mean Length at Age by Area (in mm)
+----------------------------------
+For Period	3
+
+Ages		Total
+1	0	NA
+2	0	NA
+3	0	NA
+4	0	NA
+5	0	NA
+6	0	NA
+7	0	NA
+8	0	NA
+9	0	NA
+10	0	NA
+11	0	NA
+12	0	NA
+
+
+Catch Numbers at Age by Area (in numbers)
+----------------------------
+For Period	4
+
+Ages		Total
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+10	0	0
+11	0	0
+12	0	0
+
+
+Mean Weight at Age by Area (in grams)
+------------------------------------
+For Period	4
+
+Ages		Total
+1	0	NA
+2	0	NA
+3	0	NA
+4	0	NA
+5	0	NA
+6	0	NA
+7	0	NA
+8	0	NA
+9	0	NA
+10	0	NA
+11	0	NA
+12	0	NA
+
+
+Mean Length at Age by Area (in mm)
+----------------------------------
+For Period	4
+
+Ages		Total
+1	0	NA
+2	0	NA
+3	0	NA
+4	0	NA
+5	0	NA
+6	0	NA
+7	0	NA
+8	0	NA
+9	0	NA
+10	0	NA
+11	0	NA
+12	0	NA
+
+
+Catch Numbers at Age by Area (in numbers)
+----------------------------
+For Period	All periods
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.8.d.2	27.9.a	Total
+1	91415.4	193242083.7	219480.9	552.5	64369140	251.6	310545.3	282021197.9	19898711.1	1702946.7	421103.8	0	0	12767.5	0	0	0	0	0	0	6418	18.6	52572.2	562349205.2
+2	52238.4	40533070	58312.2	110.8	38027341.2	88.1	216317.2	330951305.1	238015156.5	37693891	9320925.7	15390820.9	22660390.2	36975454.7	17.4	20827.1	26816	57225.2	146340522.8	2387033.1	114837.5	378.7	1010469.3	919853549.1
+3	84796.4	212201532.6	104626.4	663.3	125719493.5	150.9	513072.7	702486234.9	438248188.2	43890314.9	10853174.2	21234473	70434382.1	145065165.5	34.6	41306.3	53308.6	113882.8	281190807.9	14955106.6	414978	1156.5	3327266.8	2070934116.7
+4	138094.9	283390956.7	191171.9	864.5	255893203.5	269.8	1090783.1	1729984616.2	1130231514.9	124944955.5	30896323.4	60633221	228354452.4	336951947	113.2	135122.7	174244.1	372098.2	930076029.2	37357816	81785	154.1	542762.2	5151442499.5
+5	58014.4	105943832.1	80913.5	319.3	116434240.6	118.9	503714.4	834017690.8	460242172.2	74136486.5	18332431.7	31644416.4	144925427.6	114215064.3	91.7	109735	141312.8	301583.9	769356303.6	14487967.9	6407.3	1.7	26717.9	2684964964.5
+6	13880.1	11951986.1	29176.5	27.7	12588444.9	37.9	69667.2	108904624.7	115604739.9	32904322.2	8136563.6	8821508.3	31033824.3	15662448.5	24.3	29154.2	37518.7	80046.2	206220921.6	1793029.1	3589.5	0	13468.7	553899004.2
+7	4496.8	796028.5	6389.5	0	6929873.9	7	35636.6	65938228.1	84725919.8	6972486.2	1724152.8	147918.8	6652689.4	19032752.7	8.1	9671	12474.8	26643.8	66286770.2	2990682.8	0	0	0	262292830.8
+8	976.4	3462712.1	3194.8	10.2	4251974.7	15.7	17038.8	29281522.5	26730656.8	1783297	440972.8	4669612.1	18051419.2	2029943.5	1.3	1532.6	2011.2	4329.2	8017494.1	3284569.2	0	0	0	102033284.2
+9	476.7	398014.2	3194.8	0	1636125.4	3.5	7762.7	14294158	6523458.7	2937831.6	726465.5	0	15330887.3	2063068.5	3.1	3696.3	4756.6	10148.1	26154166.1	217366.9	0	0	0	70311584
+10	0	398014.2	3194.8	0	27066.8	3.5	512.6	0	674769.2	0	0	0	5835699.8	0	2.8	3314.6	4277.4	9137.5	22587805.7	1173218.6	0	0	0	30717017.5
+11	0	0	0	0	0	0	0	0	232969.1	0	0	0	12494612.1	0	0.8	951.1	1223.2	2609.1	6779226.3	0	0	0	0	19511591.7
+12	0	0	0	0	0	0	0	0	199687.8	2048578.9	506571.5	0	0	0	0.4	501.3	644.7	1375.2	3573135.6	0	0	0	0	6330495.4
+
+
+Mean Weight at Age by Area (in grams)
+------------------------------------
+For Period	All periods
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.8.d.2	27.9.a	Total
+1	38.9	54.1	42.2	56.1	52.7	43.1	44.5	39.4	51.5	53	53	0	0	51.1	0	0	0	0	0	0	98.1	104.3	101.4	46.4639012630901
+2	71.3	77.8	61.8	81.3	69.7	65.3	68.8	67.4	64.5	82.8	82.8	69.1	66.3	70.1	70.7	70.7	70.7	70.7	70.7	72.4	135.2	140.9	138.5	68.7251101869886
+3	88.3	84	87.6	83.8	79.5	89.4	80.7	78.5	75	100.7	100.7	82	82.8	89.4	89.3	89.3	89.3	89.3	89.3	89.1	145.2	148.6	147	81.5850307508337
+4	97.1	95	108.2	93.8	87.3	103.2	88.5	86.2	89.1	123.2	123.2	111.9	101.9	107.7	105.1	105.1	105.1	105.1	105	107.2	173.9	164.1	169.6	94.4599261091976
+5	105.8	102.9	121.4	101	97.6	117.9	99	97.6	103.2	132.5	132.5	126.8	107.8	128.5	120.3	120.3	120.3	120.3	120.2	127.2	217.6	240.1	219.9	108.8230572592
+6	137.6	141.1	140.4	141.3	128.1	142.1	130.5	127.7	135.9	180.1	180.1	149.2	143.8	162.8	151.7	151.7	151.7	151.7	151.5	176.5	240.1	0	240.1	144.859180694281
+7	115.6	214.7	214.7	0	110.9	214.7	114.1	110.8	158.2	220.3	220.3	130.7	207.8	183.1	175.2	175.3	175.3	175.2	175.9	160.4	0	0	0	154.810232889751
+8	138	116.5	132.1	114.5	132.9	118.4	135.5	138	161.7	263	263	226.7	162.6	228.5	181.8	181.4	181.7	181.8	176.7	194.3	0	0	0	161.059795388317
+9	243	203.9	203.9	0	242.4	203.9	240.4	243	180.2	319	319	0	194.2	183	201.7	201.7	201.7	201.7	201.9	181.5	0	0	0	213.006650050723
+10	0	165.3	165.3	0	165.3	165.3	165.3	0	193.9	0	0	0	151.5	0	182.7	182.8	182.7	182.7	183	177.1	0	0	0	176.782408919746
+11	0	0	0	0	0	0	0	0	241.5	0	0	0	188	0	191.6	191.6	191.6	191.6	191.6	0	0	0	0	189.890480552133
+12	0	0	0	0	0	0	0	0	262.4	457	457	0	0	0	281	281	281	281	281	0	0	0	0	351.451402163565
+
+
+Mean Length at Age by Area (in mm)
+----------------------------------
+For Period	All periods
+
+Ages	27.14.b	27.2.a	27.2.a.1	27.3.a.20	27.4.a	27.4.b	27.5.a	27.5.b	27.6.a	27.6.b	27.6.b.2	27.7.b	27.7.c	27.7.c.2	27.7.d	27.7.h	27.7.j	27.7.j.2	27.7.k	27.7.k.2	27.8.a	27.8.d.2	27.9.a	Total
+1	193.9	207.3	199.9	208.5	206.5	201	199.7	195.7	217.2	210	210	0	0	215.3	0	0	0	0	0	0	202.4	206.4	204.6	201.742082492944
+2	235.3	242.3	225.1	246.1	240.1	228.9	237.2	237.3	235.1	245.7	245.7	229.8	234.2	234.3	234.9	234.9	234.9	234.9	235	232.9	224.2	226.9	225.7	236.780812332216
+3	252.8	250.1	251.8	250	251.4	253.2	252.2	252.8	249.9	261.8	261.8	246.2	252.9	251.3	253.6	253.6	253.6	253.6	253.8	249.7	229.2	230.8	230	251.965120869294
+4	264.5	263.8	268.6	263.4	264.3	267	264.5	264.6	265.1	277.1	277.1	268.2	268	265.9	266.4	266.4	266.4	266.4	266.3	267.8	242.6	237.9	240.6	265.634678367645
+5	273.8	272.2	277.3	271.7	277.3	277.4	277.5	278.5	276.7	282.5	282.5	280.6	274.5	281.2	276.7	276.6	276.7	276.7	276.6	281.8	261.2	270	262.1	277.424755949656
+6	292.1	302.1	288.3	308.2	307	290.2	301.5	303.3	296.3	306.1	306.1	286.9	298.8	303.9	295.2	295.1	295.2	295.2	295	319.4	270	0	270	298.56582352583
+7	281.6	329	329	0	288.1	329	287.8	286.9	305.2	320.6	320.6	315	332.4	314.8	309.6	309.6	309.6	309.6	309.6	309.1	0	0	0	303.277670218503
+8	307.2	280.8	287	280	301.1	281.5	303.9	307.2	309.3	340	340	331.1	312.2	332.2	318.8	318.5	318.7	318.8	314.4	329.8	0	0	0	311.083768496692
+9	370	326	326	0	369.3	326	367.1	370	322.2	356.6	356.6	0	334.4	310.8	325.5	325.6	325.5	325.5	325.6	320	0	0	0	338.41774845593
+10	0	300	300	0	300	300	300	0	339	0	0	0	322.7	0	314.7	314.8	314.8	314.7	315	309.8	0	0	0	316.581939833514
+11	0	0	0	0	0	0	0	0	365	0	0	0	329.2	0	317.6	317.6	317.6	317.6	317.6	0	0	0	0	325.594234304319
+12	0	0	0	0	0	0	0	0	375	405	405	0	0	0	360	360	360	360	360	0	0	0	0	378.636311622626
+
+
+The rest of the file is split in two tables:
+
+	Table 1:
+	This table shows imported catch data, both catches were there are sample data
+	(age or length data) and catches were there are no sample data.
+	The data shown are ONLY CATCH DATA - NO AGE OR LENGTH DATA are shown.
+	This means that for the sampled catches the sampled age or length data are cut of and not shown in table 1.
+	Table 1 can be imported in a spreadsheet and used as a pivot table, to show data the way you want to see it.
+	Remember Table 1 is tab delimited.
+
+	Table 2:
+	This table shows ALL catch data WITH AGE OR LENGTH DATA, both catches were there are sample data
+	(age or length data) and catches were the age or length data have been estimated/hole filled.
+
+
+TABLE 1.
+Catch data, both catches were there are sample data (age or length data) and catches were there are no sample data.
+There are NO AGE OR LENGTH DATA.
+
+Stock	Country	Year	CatchCategory	ReportingCategory	CATONRaisedOrImported	MisreportedArea	Area	Season	SeasonType	Fleet	CATON	Effort	UnitEffort	OfficialLandings	SampledOrEstimated	SampledCatch	No. of Length Samples	No. of Length Measured	No. of Age Samples	No. Age Readings
+											in kg			in kg				in numbers	in numbers	in numbers	in numbers
+
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	8461535	3	216	3	167
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	48967	3	305	3	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	9302	4	989	4	300
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	219173485	13	18	13	539
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	344351	1	150	1	149
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	31314872	8	620	8	411
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	135429	3	300	3	155
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	11190	7	1784	7	400
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	55374761	2	2	2	60
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	391975	3	250	3	243
+
+
+TABLE 2.
+Catch data, both catches were there are sample data (age or length data) and catches were there are no sample data.
+AGE OR LENGTH DATA ARE INCLUDED
+
+Stock	Country	Year	CatchCategory	ReportingCategory	CATONRaisedOrImported	MisreportedArea	Area	Season	SeasonType	Fleet	CATON	Effort	UnitEffort	OfficialLandings	SampledOrEstimated	Sex	AgeOrLength	AgeOrLengthType	CANUM	WECA	LECA	SampledCatch	No. of Length Samples	No. of Length Measured	No. of Age Samples	No. Age Readings
+											in kg			in kg											in numbers	in numbers	in numbers	in numbers
+
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	1	Age	219480.85	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	2	Age	58312.20	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	3	Age	104626.37	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	4	Age	191171.85	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	5	Age	80913.49	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	6	Age	29176.50	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	7	Age	6389.54	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	8	Age	3194.77	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	9	Age	3194.77	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.2.a.1	1	Quarter	OTM_SPF_32-69_0_0_all	59594.00	-9	NA	59594	Estimated_Distribution	Undetermined	10	Age	3194.77	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	1	Age	24944.52	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	2	Age	6627.32	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	3	Age	11891.04	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	4	Age	21727.14	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	5	Age	9196.01	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	6	Age	3315.98	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	7	Age	726.19	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	8	Age	363.09	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	9	Age	363.09	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	1	Quarter	OTM_SPF_32-69_0_0_all	6773.00	-9	NA	6773	Estimated_Distribution	Undetermined	10	Age	363.09	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	1	Age	14.73	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	2	Age	3.91	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	3	Age	7.02	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	4	Age	12.83	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	5	Age	5.43	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	6	Age	1.96	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	7	Age	0.43	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	8	Age	0.21	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	9	Age	0.21	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	OTM_SPF_32-69_0_0_all	4.00	-9	NA	4	Estimated_Distribution	Undetermined	10	Age	0.21	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	2	Age	25979.79	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	3	Age	51701.93	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	4	Age	168929.77	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	5	Age	136916.84	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	6	Age	36340.36	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	7	Age	12096.08	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	8	Age	1965.44	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	9	Age	4607.18	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	10	Age	4148.34	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	11	Age	1184.51	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	50755.00	-9	NA	50755	Estimated_Distribution	Undetermined	12	Age	624.32	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	2	Age	6836.49	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	3	Age	13605.18	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	4	Age	44453.28	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	5	Age	36029.19	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	6	Age	9562.84	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	7	Age	3183.04	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	8	Age	517.20	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	9	Age	1212.36	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	10	Age	1091.62	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	11	Age	311.70	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	MIS_MIS_0_0_0_IBC	13356.00	-9	NA	13356	Estimated_Distribution	Undetermined	12	Age	164.29	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	2	Age	633.18	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	3	Age	1260.08	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	4	Age	4117.15	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	5	Age	3336.93	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	6	Age	885.69	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	7	Age	294.81	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	8	Age	47.90	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	9	Age	112.29	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	10	Age	101.10	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	11	Age	28.87	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	1237.00	-9	NA	1237	Estimated_Distribution	Undetermined	12	Age	15.22	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	1	Age	6324.90	98.00	202.36	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	2	Age	112944.13	135.09	224.17	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	3	Age	409195.28	145.14	229.17	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	4	Age	81014.41	174.00	242.69	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	5	Age	6398.59	217.61	261.22	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.8.a	1	Quarter	MIS_MIS_0_0_0_HC	91771.00	-9	NA	91771	Estimated_Distribution	Undetermined	6	Age	3589.45	240.11	270.00	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	1	Age	3711110.69	39.41	194.75	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	2	Age	1713199.47	71.33	233.77	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	3	Age	2603554.39	91.54	252.69	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	4	Age	3568589.74	105.47	265.05	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	5	Age	1366975.30	114.68	270.84	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	6	Age	468852.01	140.99	288.14	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	7	Age	104687.62	136.94	285.83	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	8	Age	9301.66	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	9	Age	9301.66	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	1125000.00	-9	NA	1125000	Estimated_Distribution	Undetermined	10	Age	9301.66	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	2	Age	12844688.17	67.50	239.10	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	3	Age	20934037.28	80.64	253.31	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	4	Age	61808736.30	97.69	269.69	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	5	Age	18999759.07	114.44	283.55	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	6	Age	3352367.14	150.30	308.83	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	7	Age	2480920.50	156.67	313.07	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	8	Age	1780005.30	165.64	320.57	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	9	Age	263432.93	215.50	347.83	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	10	Age	116117.76	193.94	338.95	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	11	Age	40090.52	241.46	365.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	12052894.00	-9	NA	12053000	Estimated_Distribution	Undetermined	12	Age	34363.30	262.41	375.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	2	Age	3889921.77	69.11	229.81	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	3	Age	5366863.75	82.02	246.19	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	4	Age	15324620.29	111.89	268.21	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	5	Age	7997903.76	126.85	280.63	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	6	Age	2229574.20	149.16	286.93	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	7	Age	37385.45	130.75	315.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	4043224.00	-9	NA	4043000	Estimated_Distribution	Undetermined	8	Age	1180211.63	226.70	331.11	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	1	Age	1324.59	51.05	215.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	2	Age	4528001.43	70.08	234.31	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	3	Age	17766751.88	89.41	251.27	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	4	Age	41267750.69	107.67	265.94	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	5	Age	13987865.29	128.52	281.15	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	6	Age	1918078.34	162.81	303.90	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	7	Age	2331286.90	183.08	314.79	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	8	Age	248629.93	228.56	332.16	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	8989116.00	-9	NA	8989000	Estimated_Distribution	Undetermined	9	Age	252703.37	182.97	310.85	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	2	Age	18767.08	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	3	Age	37348.03	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	4	Age	122030.17	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	5	Age	98904.92	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	6	Age	26251.26	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	7	Age	8737.87	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	8	Age	1419.78	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	9	Age	3328.10	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	10	Age	2996.64	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	11	Age	855.66	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	36664.00	-9	NA	37000	Estimated_Distribution	Undetermined	12	Age	450.99	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	2	Age	46249.20	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	3	Age	92039.72	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	4	Age	300728.61	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	5	Age	243739.23	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	6	Age	64693.07	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	7	Age	21533.43	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	8	Age	3498.87	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	9	Age	8201.69	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	10	Age	7384.87	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	11	Age	2108.66	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Germany	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	OTM_SPF_32-69_0_0_all	90354.00	-9	NA	90000	Estimated_Distribution	Undetermined	12	Age	1111.41	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	1	Age	90403.87	38.83	193.68	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	2	Age	45419.07	72.38	234.72	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	3	Age	67651.85	92.06	252.80	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	4	Age	88635.31	104.96	264.41	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	5	Age	33294.10	113.28	269.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	6	Age	11297.34	141.12	288.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	1	Quarter	Pelagic trawl	28000.00	-9	NA	28000	Estimated_Distribution	Undetermined	7	Age	2533.25	120.14	276.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	1	Age	644513.70	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	2	Age	171235.95	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	3	Age	307239.23	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	4	Age	561383.26	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	5	Age	237605.46	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	6	Age	85677.88	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	7	Age	18763.14	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	8	Age	9381.57	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	9	Age	9381.57	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	Pelagic trawl	175000.00	-9	NA	175000	Estimated_Distribution	Undetermined	10	Age	9381.57	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	1	Age	6478774.57	39.41	194.75	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	2	Age	2990865.57	71.33	233.77	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	3	Age	4545227.39	91.54	252.69	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	4	Age	6229964.66	105.47	265.05	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	5	Age	2386435.10	114.68	270.84	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	6	Age	818511.41	140.99	288.14	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	7	Age	182761.32	136.94	285.83	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	8	Age	16238.63	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	9	Age	16238.63	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	Pelagic trawl	1964000.00	-9	NA	1964000	Estimated_Distribution	Undetermined	10	Age	16238.63	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	1	Age	204523.43	39.41	194.75	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	2	Age	94416.33	71.33	233.77	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	3	Age	143484.78	91.54	252.69	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	4	Age	196668.95	105.47	265.05	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	5	Age	75335.53	114.68	270.84	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	6	Age	25838.96	140.99	288.14	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	7	Age	5769.45	136.94	285.83	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	8	Age	512.62	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	9	Age	512.62	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	1	Quarter	Pelagic trawl	62000.00	-9	NA	62000	Estimated_Distribution	Undetermined	10	Age	512.62	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	1	Age	131030719.54	38.83	193.68	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	2	Age	65830074.32	72.38	234.72	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	3	Age	98054107.79	92.06	252.80	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	4	Age	128467392.32	104.96	264.41	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	5	Age	48256231.30	113.28	269.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	6	Age	16374278.86	141.12	288.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	Pelagic trawl	40583000.00	-9	NA	40583000	Estimated_Distribution	Undetermined	7	Age	3671669.77	120.14	276.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	2	Age	7826451.47	67.50	239.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	3	Age	12755407.10	80.64	253.31	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	4	Age	37660943.45	97.69	269.69	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	5	Age	11576823.84	114.44	283.55	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	6	Age	2042645.05	150.30	308.83	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	7	Age	1511660.20	156.67	313.07	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	8	Age	1084582.59	165.64	320.57	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	9	Age	160513.43	215.50	347.83	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	10	Age	70752.20	193.94	338.95	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	11	Age	24427.73	241.46	365.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pelagic trawl	7344000.00	-9	NA	7344000	Estimated_Distribution	Undetermined	12	Age	20938.05	262.41	375.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	1	Age	333325.69	53.00	210.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	2	Age	7378000.88	82.83	245.72	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	3	Age	8590855.78	100.72	261.84	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	4	Age	24456058.17	123.18	277.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	5	Age	14511079.85	132.53	282.48	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	6	Age	6440516.26	180.11	306.13	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	7	Age	1364757.21	220.31	320.60	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	8	Age	349053.04	263.00	340.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	9	Age	575035.47	319.04	356.57	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	Pelagic trawl	8349000.00	-9	NA	8349000	Estimated_Distribution	Undetermined	12	Age	400977.89	457.00	405.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	2	Age	353051.88	66.30	234.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	3	Age	1097377.01	82.81	252.90	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	4	Age	3557792.65	101.93	268.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	5	Age	2257957.38	107.83	274.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	6	Age	483511.10	143.85	298.80	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	7	Age	103649.78	207.81	332.40	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	8	Age	281243.51	162.61	312.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	9	Age	238857.26	194.17	334.40	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	10	Age	90920.98	151.46	322.70	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	Pelagic trawl	954000.00	-9	NA	954000	Estimated_Distribution	Undetermined	11	Age	194667.71	188.05	329.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	2	Age	6993182.52	70.68	234.95	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	3	Age	13437280.43	89.33	253.79	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	4	Age	44445593.81	104.98	266.31	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	5	Age	36765271.54	120.17	276.56	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	6	Age	9854690.40	151.51	294.96	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	7	Age	3167649.49	175.91	309.61	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	8	Age	383132.43	176.73	314.39	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	9	Age	1249830.56	201.88	325.59	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	10	Age	1079404.70	183.03	315.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	11	Age	323959.25	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	Pelagic trawl	13456700.00	-9	NA	13457000	Estimated_Distribution	Undetermined	12	Age	170749.63	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	171711.96	53.00	210.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	3800760.06	82.83	245.72	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	4425559.45	100.72	261.84	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	12598481.69	123.18	277.10	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	7475349.15	132.53	282.48	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	3317817.02	180.11	306.13	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	703051.51	220.31	320.60	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	179813.86	263.00	340.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	296228.19	319.04	356.57	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	TrawlPlus	4300968.28	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	206562.83	457.00	405.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	3506.29	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	6977.80	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	22799.11	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	18478.58	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	4904.57	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	1632.51	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	265.26	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	621.79	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	559.87	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	159.86	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.j.2	1	Quarter	TrawlPlus	6850.00	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	84.26	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	151009.89	72.38	232.87	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	946098.74	89.09	249.67	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	2363352.09	107.15	267.78	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	916546.33	127.24	281.78	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	113431.66	176.54	319.35	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	189198.33	160.41	309.09	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	207790.35	194.26	329.83	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	13751.19	181.55	320.00	0	0	0	0	0
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.k.2	1	Quarter	TrawlPlus	571450.20	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	74220.84	177.05	309.80	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	1	Age	1691933.17	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	2	Age	449516.87	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	3	Age	806543.37	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	4	Age	1473704.84	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	5	Age	623745.56	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	6	Age	224915.69	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	7	Age	49255.70	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	8	Age	24627.85	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	9	Age	24627.85	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	TrawlPlus	459398.00	-9	NA	459398	Estimated_Distribution	Undetermined	10	Age	24627.85	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	1	Age	421730.62	39.41	194.75	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	2	Age	194687.99	71.33	233.77	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	3	Age	295867.92	91.54	252.69	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	4	Age	405534.54	105.47	265.05	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	5	Age	155343.07	114.68	270.84	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	6	Age	53280.34	140.99	288.14	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	7	Age	11896.70	136.94	285.83	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	8	Age	1057.04	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	9	Age	1057.04	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	TrawlPlus	127845.00	-9	NA	127845	Estimated_Distribution	Undetermined	10	Age	1057.04	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	1	Age	436269.69	38.83	193.68	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	2	Age	219182.69	72.38	234.72	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	3	Age	326473.33	92.06	252.80	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	4	Age	427735.04	104.96	264.41	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	5	Age	160670.19	113.28	269.50	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	6	Age	54518.53	141.12	288.10	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	TrawlPlus	135122.00	-9	NA	135122	Estimated_Distribution	Undetermined	7	Age	12224.91	120.14	276.50	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	9288153.18	67.50	239.10	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	15137661.75	80.64	253.31	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	44694663.10	97.69	269.69	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	13738961.21	114.44	283.55	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	2424138.22	150.30	308.83	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	1793984.35	156.67	313.07	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	1287143.89	165.64	320.57	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	190491.61	215.50	347.83	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	83966.19	193.94	338.95	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	28989.95	241.46	365.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	Pel Freezer Trawler	8715597.00	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	24848.53	262.41	375.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	3344009.24	69.11	229.81	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	4613676.84	82.02	246.19	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	13173959.50	111.89	268.21	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	6875476.08	126.85	280.63	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	1916675.24	149.16	286.93	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	32138.76	130.75	315.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	Pel Freezer Trawler	3475797.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	1014580.46	226.70	331.11	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	1555.49	51.05	215.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	5317317.75	70.08	234.31	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	20863832.90	89.41	251.27	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	48461500.45	107.67	265.94	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	16426214.88	128.52	281.15	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	2252435.69	162.81	303.90	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	2737674.32	183.08	314.79	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	291970.84	228.56	332.16	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	Pel Freezer Trawler	10556089.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	296754.35	182.97	310.85	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	224.66	42.18	199.88	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	59.69	61.82	225.13	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	107.09	87.55	251.79	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	195.68	108.19	268.57	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	82.82	121.40	277.25	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	29.86	140.39	288.33	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	6.54	214.67	329.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	3.27	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	3.27	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	1	Quarter	MIS_MIS_0_0_0_HC	61.00	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	3.27	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	957345.33	66.30	234.20	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	2975678.11	82.81	252.90	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	9647409.75	101.93	268.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	6122740.19	107.83	274.50	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	1311102.17	143.85	298.80	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	281059.64	207.81	332.40	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	762627.73	162.61	312.20	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	647692.00	194.17	334.40	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	246543.86	151.46	322.70	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c	1	Quarter	OTM_SPF_32-69_0_0_all	2586893.80	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	527866.40	188.05	329.20	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	17.40	70.71	234.92	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	34.63	89.31	253.58	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	113.16	105.07	266.36	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	91.72	120.30	276.65	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	24.34	151.72	295.16	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	8.10	175.25	309.59	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	1.32	181.77	318.83	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	3.09	201.72	325.55	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	2.78	182.74	314.75	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	0.79	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.d	1	Quarter	MIS_MIS_0_0_0_HC	34.00	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	0.42	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	2060.01	70.68	234.95	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	3958.28	89.33	253.79	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	13092.54	104.98	266.31	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	10830.11	120.17	276.56	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	2902.94	151.51	294.96	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	933.11	175.91	309.61	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	112.86	176.73	314.39	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	368.17	201.88	325.59	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	317.97	183.03	315.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	95.43	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.h	1	Quarter	OTM_SPF_32-69_0_0_all	3964.90	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	50.30	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	836.17	70.68	234.95	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	1606.68	89.33	253.79	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	5314.30	104.98	266.31	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	4395.98	120.17	276.56	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	1178.31	151.51	294.96	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	378.75	175.91	309.61	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	45.81	176.73	314.39	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	149.44	201.88	325.59	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	10	Age	129.06	183.03	315.00	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	11	Age	38.74	191.58	317.60	0	0	0	0	0
+whb.27.1-91214	UK (England)	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.j	1	Quarter	OTM_SPF_32-69_0_0_all	1609.90	-9	NA	0	Estimated_Distribution	Undetermined	12	Age	20.42	281.00	360.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	1	Age	42425.42	39.41	194.75	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	19585.30	71.33	233.77	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	29763.83	91.54	252.69	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	40796.12	105.47	265.05	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	15627.26	114.68	270.84	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	5359.92	140.99	288.14	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	1196.79	136.94	285.83	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	106.34	132.10	287.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	9	Age	106.34	203.92	326.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.4.a	1	Quarter	All	12861.00	-9	kWd	0	Estimated_Distribution	Undetermined	10	Age	106.34	165.30	300.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	43727950.63	73.24	236.15	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	23545819.57	89.34	252.57	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	74001147.21	100.21	259.32	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	74001147.21	115.44	270.82	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	50455327.65	139.60	286.40	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	53819016.16	166.37	300.81	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	13454754.04	158.30	293.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	40008338.00	-9	kWd	0	Estimated_Distribution	Undetermined	9	Age	3363688.51	189.34	318.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	1	Age	249391.81	53.00	210.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	5520165.65	82.83	245.72	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	6427614.71	100.72	261.84	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	18297841.70	123.18	277.10	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	10857082.53	132.53	282.48	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	4818746.59	180.11	306.13	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	1021101.24	220.31	320.60	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	261158.90	263.00	340.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	9	Age	430237.28	319.04	356.57	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.b.2	1	Quarter	All	6246660.00	-9	kWd	0	Estimated_Distribution	Undetermined	12	Age	300008.69	457.00	405.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	4023838.11	69.11	229.81	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	5551626.02	82.02	246.19	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	15852193.14	111.89	268.21	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	8273243.49	126.85	280.63	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	2306330.61	149.16	286.93	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	38672.49	130.75	315.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	All	4182418.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	1220842.17	226.70	331.11	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	1	Age	3367.92	51.05	215.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	11512968.30	70.08	234.31	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	45174025.30	89.41	251.27	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	104928037.82	107.67	265.94	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	35565768.28	128.52	281.15	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	4876936.44	162.81	303.90	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	5927567.07	183.08	314.79	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	632170.42	228.56	332.16	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	All	22855869.00	-9	kWd	0	Estimated_Distribution	Undetermined	9	Age	642527.60	182.97	310.85	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	1	Age	552.50	56.10	208.53	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	2	Age	110.79	81.28	246.10	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	3	Age	663.29	83.76	249.97	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	4	Age	864.47	93.84	263.38	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	5	Age	319.26	100.98	271.70	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	6	Age	27.70	141.34	308.16	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.3.a.20	2	Quarter	MIS_MIS_0_0_0_IBC	214.00	-9	NA	214	Estimated_Distribution	Undetermined	8	Age	10.21	114.50	280.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	1	Age	53.63	54.43	209.10	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	2	Age	61.66	66.88	239.91	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	3	Age	186.94	76.51	251.96	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	4	Age	452.26	84.80	264.43	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	5	Age	216.68	96.30	278.63	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	6	Age	22.17	124.25	309.38	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	7	Age	15.11	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	8	Age	8.36	135.66	304.44	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.a	2	Quarter	OTM_SPF_32-69_0_0_all	87.00	-9	NA	87	Estimated_Distribution	Undetermined	9	Age	3.67	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	1	Age	12.25	62.00	222.50	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	2	Age	24.50	74.50	238.80	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	3	Age	36.76	95.00	257.50	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	4	Age	61.26	86.30	261.50	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	5	Age	30.63	108.00	278.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	6	Age	6.13	151.00	300.00	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.4.b	2	Quarter	MIS_MIS_0_0_0_IBC	17.00	-9	NA	17	Estimated_Distribution	Undetermined	8	Age	12.25	114.50	280.00	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	1	Age	17645858.64	54.43	209.10	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	2	Age	20288704.64	66.88	239.91	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	3	Age	61512755.00	76.51	251.96	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	4	Age	148812824.28	84.80	264.43	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	5	Age	71297693.18	96.30	278.63	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	6	Age	7294607.61	124.25	309.38	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	7	Age	4970968.48	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	8	Age	2750544.99	135.66	304.44	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	All	28627000.00	-9	NA	28627000	Estimated_Distribution	Undetermined	9	Age	1206676.13	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	1	Age	3863672.59	51.52	217.20	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	2	Age	23231251.88	59.42	232.16	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	3	Age	56901230.27	71.56	248.34	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	4	Age	135345077.09	83.53	263.43	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	5	Age	53557460.34	95.35	275.48	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	6	Age	8867324.41	125.59	301.87	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	7	Age	3201829.96	132.68	312.39	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	8	Age	569327.84	163.07	343.89	0	0	0	0	0
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	23735000.00	-9	NA	23735000	Estimated_Distribution	Undetermined	9	Age	316286.61	128.17	306.95	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	1	Age	1011.49	44.57	212.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	2	Age	6819.37	64.36	238.82	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	3	Age	17144.58	73.49	252.79	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	4	Age	49459.59	83.10	264.63	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	5	Age	24720.30	95.65	279.60	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	6	Age	2582.73	122.27	309.52	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	7	Age	1963.60	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	8	Age	976.42	138.04	307.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.14.b	2	Quarter	Pelagic trawl	9000.00	-9	NA	9000	Estimated_Distribution	Undetermined	9	Age	476.65	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	1	Age	39567954.86	56.10	208.53	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	2	Age	7934737.32	81.28	246.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	3	Age	47502692.18	83.76	249.97	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	4	Age	61910263.33	93.84	263.38	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	5	Age	22864089.38	100.98	271.70	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	6	Age	1983684.41	141.34	308.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	Pelagic trawl	15326000.00	-9	NA	15326000	Estimated_Distribution	Undetermined	8	Age	730951.90	114.50	280.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	1	Age	30160044.94	56.10	208.53	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	2	Age	6048127.46	81.28	246.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	3	Age	36208172.39	83.76	249.97	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	4	Age	47190114.59	93.84	263.38	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	5	Age	17427788.87	100.98	271.70	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	6	Age	1512031.92	141.34	308.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pelagic trawl	11682000.00	-9	NA	11682000	Estimated_Distribution	Undetermined	8	Age	557156.48	114.50	280.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	1	Age	106021.86	54.43	209.10	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	2	Age	121900.90	66.88	239.91	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	3	Age	369587.94	76.51	251.96	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	4	Age	894114.15	84.80	264.43	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	5	Age	428378.92	96.30	278.63	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	6	Age	43828.29	124.25	309.38	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	7	Age	29867.14	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	8	Age	16526.14	135.66	304.44	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.a	2	Quarter	Pelagic trawl	172000.00	-9	NA	172000	Estimated_Distribution	Undetermined	9	Age	7250.09	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	1	Age	8889119.19	44.57	212.50	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	2	Age	59929358.34	64.36	238.82	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	3	Age	150668485.65	73.49	252.79	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	4	Age	434656372.06	83.10	264.63	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	5	Age	217244786.39	95.65	279.60	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	6	Age	22697351.51	122.27	309.52	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	7	Age	17256361.94	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	8	Age	8580923.50	138.04	307.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	Pelagic trawl	79093000.00	-9	NA	79093000	Estimated_Distribution	Undetermined	9	Age	4188889.98	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	1	Age	2566774.36	51.52	217.20	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	2	Age	15433342.31	59.42	232.16	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	3	Age	37801499.85	71.56	248.34	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	4	Age	89914521.83	83.53	263.43	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	5	Age	35580115.22	95.35	275.48	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	6	Age	5890877.24	125.59	301.87	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	7	Age	2127088.89	132.68	312.39	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	8	Age	378224.62	163.07	343.89	0	0	0	0	0
+whb.27.1-91214	Iceland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pelagic trawl	15768000.00	-9	NA	15768000	Estimated_Distribution	Undetermined	9	Age	210120.38	128.17	306.95	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	1	Age	4732845.26	54.43	209.10	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	2	Age	5441690.40	66.88	239.91	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	3	Age	16498508.63	76.51	251.96	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	4	Age	39913505.18	84.80	264.43	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	5	Age	19122954.36	96.30	278.63	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	6	Age	1956507.18	124.25	309.38	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	7	Age	1333277.40	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	8	Age	737731.39	135.66	304.44	0	0	0	0	0
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	TrawlPlus	7678128.00	-9	NA	7678128	Estimated_Distribution	Undetermined	9	Age	323645.99	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	1151351.75	54.43	209.10	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	1323791.38	66.88	239.91	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	4013565.98	76.51	251.96	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	9709694.99	84.80	264.43	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	4652010.72	96.30	278.63	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	475956.39	124.25	309.38	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	324344.28	109.72	288.16	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	179466.74	135.66	304.44	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.4.a	2	Quarter	Pel Freezer Trawler	1867846.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	78732.85	243.00	370.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	2880308.42	51.52	217.20	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	17318540.54	59.42	232.16	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	42418990.93	71.56	248.34	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	100897670.77	83.53	263.43	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	39926261.94	95.35	275.48	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	6610453.80	125.59	301.87	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	2386914.93	132.68	312.39	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	424425.14	163.07	343.89	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	Pel Freezer Trawler	17694077.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	235786.80	128.17	306.95	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	1954.38	51.52	217.20	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	11751.19	59.42	232.16	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	28782.65	71.56	248.34	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	68462.31	83.53	263.43	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	27091.25	95.35	275.48	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	6	Age	4485.41	125.59	301.87	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	7	Age	1619.60	132.68	312.39	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	8	Age	287.99	163.07	343.89	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	2	Quarter	Pel Freezer Trawler	12006.00	-9	NA	0	Estimated_Distribution	Undetermined	9	Age	159.99	128.17	306.95	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	93.07	104.26	206.42	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	1893.33	140.91	226.85	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	5782.74	148.60	230.77	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	770.58	164.07	237.87	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.a	2	Quarter	Pel Freezer Trawler	1265.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	8.74	240.11	270.00	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	Undetermined	1	Age	18.61	104.26	206.42	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	Undetermined	2	Age	378.67	140.91	226.85	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	Undetermined	3	Age	1156.55	148.60	230.77	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	Undetermined	4	Age	154.12	164.07	237.87	0	0	0	0	0
+whb.27.1-91214	Poland	2025	Landings	Reported	Imported_Data	 	27.8.d.2	2	Quarter	Pel Freezer Trawler	253.00	-9	NA	0	Estimated_Distribution	Undetermined	5	Age	1.75	240.11	270.00	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	1	Age	3668838.01	51.52	217.20	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	2	Age	22059762.54	59.42	232.16	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	3	Age	54031854.77	71.56	248.34	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	4	Age	128519990.09	83.53	263.43	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	5	Age	50856702.15	95.35	275.48	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	6	Age	8420169.17	125.59	301.87	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	7	Age	3040370.31	132.68	312.39	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	8	Age	540618.17	163.07	343.89	0	0	0	0	0
+whb.27.1-91214	UK(Scotland)	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	All	22538108.00	-9	kWd	0	Estimated_Distribution	Undetermined	9	Age	300337.13	128.17	306.95	0	0	0	0	0
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	2	Age	13687027.98	63.84	232.37	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	3	Age	27881622.22	74.15	244.33	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	4	Age	73138009.82	92.87	263.38	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	5	Age	25920438.45	111.34	279.90	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	6	Age	2822023.53	136.96	298.12	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	7	Age	1970010.50	145.42	306.75	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	1	Quarter	OTM_SPF_32-69_0_0_all	13718236.00	-9	NA	13718236	Sampled_Distribution	Undetermined	8	Age	2475199.38	171.83	325.59	13718236	7	357	7	311
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	2	Age	3404434.42	71.56	228.33	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	3	Age	3971840.15	86.98	242.86	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	4	Age	11348114.73	125.19	269.00	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	5	Age	5106651.63	150.85	283.33	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	6	Age	2269622.95	149.08	285.00	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.b	1	Quarter	OTM_SPF_32-69_0_0_all	3382873.00	-9	NA	3382873	Sampled_Distribution	Undetermined	8	Age	1134811.47	233.00	330.00	3382873	1	48	1	48
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	2	Age	7139300.49	67.60	227.77	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	3	Age	39431074.29	92.05	250.60	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	4	Age	100385321.45	109.03	264.25	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	5	Age	34102450.93	130.66	279.85	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	6	Age	4302955.96	157.03	296.61	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	7	Age	6501403.52	180.17	311.25	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	8	Age	618095.04	258.57	342.66	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.c.2	1	Quarter	OTM_SPF_32-69_0_0_all	21678810.00	-9	NA	21678810	Sampled_Distribution	Undetermined	9	Age	870923.14	182.97	310.85	21678810	5	568	5	409
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	2	Age	2236023.17	72.38	232.87	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	3	Age	14009007.90	89.09	249.67	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	4	Age	34994463.90	107.15	267.78	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	5	Age	13571421.60	127.24	281.78	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	6	Age	1679597.39	176.54	319.35	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	7	Age	2801484.50	160.41	309.09	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	8	Age	3076778.88	194.26	329.83	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	9	Age	203615.70	181.55	320.00	8461535	3	216	3	167
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.7.k.2	1	Quarter	OTM_SPF_32-69_0_0_all	8461535.00	-9	NA	8461535	Sampled_Distribution	Undetermined	10	Age	1098997.77	177.05	309.80	8461535	3	216	3	167
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	1	Age	25007131.50	42.18	199.88	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	2	Age	6643954.74	61.82	225.13	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	3	Age	11920882.27	87.55	251.79	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	4	Age	21781670.56	108.19	268.57	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	5	Age	9219091.91	121.40	277.25	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	6	Age	3324301.64	140.39	288.33	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	7	Age	728009.65	214.67	329.00	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	8	Age	364004.83	132.10	287.00	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	9	Age	364004.83	203.92	326.00	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	1	Quarter	All	6790000.00	-9	NA	6790000	Sampled_Distribution	Undetermined	10	Age	364004.83	165.30	300.00	6790	2	219	2	149
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	1	Age	120220999.98	38.83	193.68	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	2	Age	60399251.35	72.38	234.72	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	3	Age	89964879.47	92.06	252.80	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	4	Age	117869141.09	104.96	264.41	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	5	Age	44275208.15	113.28	269.50	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	6	Age	15023440.19	141.12	288.10	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	1	Quarter	All	37235000.00	-9	NA	37235000	Sampled_Distribution	Undetermined	7	Age	3368765.84	120.14	276.50	37235	4	350	4	251
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	2	Age	892957.25	73.24	236.15	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	3	Age	480823.14	89.34	252.57	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	4	Age	1511158.43	100.21	259.32	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	5	Age	1511158.43	115.44	270.82	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	6	Age	1030335.29	139.60	286.40	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	7	Age	1099024.31	166.37	300.81	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	8	Age	274756.08	158.30	293.00	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	All	817000.00	-9	NA	817000	Sampled_Distribution	Undetermined	9	Age	68689.02	189.34	318.00	817	1	100	1	100
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	2	Age	12211978.15	72.31	238.93	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	3	Age	17445683.07	94.87	260.35	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	4	Age	35763650.29	112.75	272.93	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	5	Age	14828830.61	129.51	284.53	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	6	Age	5233704.92	188.85	318.00	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	All	9618000.00	-9	NA	9618000	Sampled_Distribution	Undetermined	9	Age	872284.15	158.47	308.00	9618	1	99	1	99
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	2	Age	18696959.25	61.34	233.36	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	3	Age	32186098.45	75.91	247.85	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	4	Age	182164002.42	93.52	262.85	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	5	Age	157874314.04	107.47	272.77	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	6	Age	56258313.19	125.77	285.39	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	7	Age	18568014.70	171.75	312.75	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	8	Age	4642003.67	169.47	314.00	48967	3	305	3	300
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	All	48967000.00	-9	NA	48967000	Sampled_Distribution	Undetermined	9	Age	1547334.56	207.97	330.00	48967	3	305	3	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	2	Age	30102186.61	69.00	242.26	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	3	Age	44459739.07	84.62	258.95	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	4	Age	140361779.44	100.17	273.09	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	5	Age	38661911.05	116.48	286.50	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	6	Age	7809352.43	156.53	315.66	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	7	Age	5561218.77	158.74	317.73	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	8	Age	3442059.62	161.77	319.17	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	9	Age	847701.87	217.62	350.25	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	10	Age	403933.02	193.94	338.95	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	11	Age	139460.89	241.46	365.00	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	1	Quarter	TrawlPlus	27392561.21	-9	NA	0	Sampled_Distribution	Undetermined	12	Age	119537.90	262.41	375.00	27393	12	3412	12	600
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	2	Age	728617.37	57.70	236.71	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	3	Age	1730466.25	70.63	253.84	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	4	Age	4934333.37	81.31	266.40	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	5	Age	3391141.49	90.70	276.55	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	6	Age	99305.33	150.84	331.00	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	7	Age	39722.13	130.75	315.00	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.b	1	Quarter	TrawlPlus	913062.80	-9	NA	0	Sampled_Distribution	Undetermined	8	Age	119166.39	166.72	341.67	913	1	278	1	100
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	1	Age	4565.09	51.05	215.00	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	2	Age	8466115.54	72.16	239.83	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	3	Age	21800698.44	84.65	252.48	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	4	Age	41840874.27	104.41	269.99	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	5	Age	14105673.67	123.35	284.29	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	6	Age	2307556.64	173.58	317.51	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	7	Age	1533201.26	195.43	329.81	9302	4	989	4	300
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.7.c.2	1	Quarter	TrawlPlus	9301501.51	-9	NA	0	Sampled_Distribution	Undetermined	8	Age	238789.31	150.88	305.00	9302	4	989	4	300
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	1	Age	1369621.00	53.00	210.00	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	2	Age	18103912.00	89.92	250.30	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	3	Age	17853776.00	106.44	263.30	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	4	Age	64725247.00	128.94	279.40	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	5	Age	44796576.00	133.53	281.80	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	6	Age	21230101.00	177.96	303.20	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	7	Age	5607729.00	220.31	320.60	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	8	Age	1434244.00	263.00	340.00	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	9	Age	1490512.00	413.00	385.00	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.6.b	1	Quarter	TrawlPlus	24687684.00	-9	NA	24687684	Sampled_Distribution	Undetermined	12	Age	1647601.00	457.00	405.00	24687684	4	4	4	120
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	2	Age	21349993.00	66.30	234.20	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	3	Age	66361327.00	82.81	252.90	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	4	Age	215149250.00	101.93	268.00	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	5	Age	136544730.00	107.83	274.50	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	6	Age	29239211.00	143.85	298.80	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	7	Age	6267980.00	207.81	332.40	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	8	Age	17007548.00	162.61	312.20	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	9	Age	14444338.00	194.17	334.40	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	10	Age	5498235.00	151.46	322.70	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.c	1	Quarter	TrawlPlus	57690935.00	-9	NA	57690935	Sampled_Distribution	Undetermined	11	Age	11772078.00	188.05	329.20	57690935	5	6	5	177
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	2	Age	120650381.00	72.13	235.20	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	3	Age	235567429.00	91.16	254.60	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	4	Age	703466433.00	107.95	267.20	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	5	Age	574716718.00	123.66	277.60	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	6	Age	140107918.00	161.84	298.80	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	7	Age	44551106.00	177.64	308.30	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	8	Age	2992358.00	188.00	315.00	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	9	Age	23357001.00	201.48	325.30	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	10	Age	21508401.00	183.03	315.00	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	11	Age	6455267.00	191.58	317.60	219173485	13	18	13	539
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.7.k	1	Quarter	TrawlPlus	219173485.00	-9	NA	219173485	Sampled_Distribution	Undetermined	12	Age	3402386.00	281.00	360.00	219173485	13	18	13	539
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	1	Age	23732.82	98.00	202.36	344351	1	150	1	149
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	2	Age	423798.61	135.09	224.17	344351	1	150	1	149
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	3	Age	1535417.53	145.14	229.17	344351	1	150	1	149
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	4	Age	303989.21	174.00	242.69	344351	1	150	1	149
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	5	Age	24009.36	217.61	261.22	344351	1	150	1	149
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	1	Quarter	All	344351.00	-9	NA	344351	Sampled_Distribution	Undetermined	6	Age	13468.66	240.11	270.00	344351	1	150	1	149
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	1	Age	3921395.95	63.34	230.95	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	2	Age	29390019.69	60.21	230.71	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	3	Age	82392033.75	72.16	247.50	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	4	Age	174104200.12	85.51	263.31	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	5	Age	65293563.78	97.74	274.76	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	6	Age	12083922.42	128.69	301.49	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	7	Age	3607665.85	134.00	310.00	31314872	8	620	8	411
+whb.27.1-91214	Denmark	2025	Landings	All - reported, nonreported and misreported	Imported_Data	 	27.6.a	2	Quarter	OTM_SPF_32-69_0_0_all	31314872.00	-9	NA	31314872	Sampled_Distribution	Undetermined	9	Age	382339.76	112.50	290.00	31314872	8	620	8	411
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	1	Age	123996804.45	55.99	208.26	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	2	Age	20666134.07	82.81	247.75	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	3	Age	144662938.52	83.22	249.61	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	4	Age	185995206.67	94.31	263.50	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	5	Age	67164935.74	100.37	271.15	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	All	45694000.00	-9	NA	45694000	Sampled_Distribution	Undetermined	6	Age	5166533.52	139.16	310.00	45694	1	106	1	101
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	1	Age	21444089.54	44.57	212.50	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	2	Age	71386245.44	61.35	238.33	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	3	Age	248883896.65	71.78	251.13	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	4	Age	748650316.71	82.88	264.40	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	5	Age	452853856.77	94.16	278.75	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	6	Age	44159703.62	125.21	313.00	135429	3	300	3	155
+whb.27.1-91214	Faroe Islands	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	All	135429000.00	-9	NA	135429000	Sampled_Distribution	Undetermined	7	Age	20928606.62	95.84	281.50	135429	3	300	3	155
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	1	Age	2997721.82	36.05	199.21	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	2	Age	12212824.29	57.54	235.67	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	3	Age	19507468.55	69.03	251.88	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	4	Age	68273617.20	78.46	263.74	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	5	Age	30617869.56	90.25	277.01	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	6	Age	3795803.56	115.73	303.06	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	7	Age	2126215.08	130.45	316.45	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	8	Age	1019560.09	163.07	343.89	11190	7	1784	7	400
+whb.27.1-91214	Ireland	2025	Landings	Reported	Imported_Data	 	27.6.a	2	Quarter	TrawlPlus	11190091.00	-9	NA	0	Sampled_Distribution	Undetermined	9	Age	184070.64	160.72	342.14	11190	7	1784	7	400
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	1	Age	2333746.00	62.00	222.50	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	2	Age	4667491.00	74.50	238.80	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	3	Age	7001237.00	95.00	257.50	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	4	Age	11668728.00	86.30	261.50	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	5	Age	5834364.00	108.00	278.00	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	6	Age	1166873.00	151.00	300.00	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.2.a	2	Quarter	TrawlPlus	3238072.00	-9	NA	3238072	Sampled_Distribution	Undetermined	8	Age	2333746.00	114.50	280.00	3238072	1	1	1	30
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	2	Age	73187193.00	67.29	239.30	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	3	Age	114588392.00	77.18	256.40	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	4	Age	299913659.00	83.63	265.20	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	5	Age	71226938.00	105.09	285.00	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	6	Age	10595332.00	110.00	295.00	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	7	Age	20700599.00	123.75	294.90	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	8	Age	20700599.00	138.04	307.20	55374761	2	2	2	60
+whb.27.1-91214	Norway	2025	Landings	Reported	Imported_Data	 	27.5.b	2	Quarter	TrawlPlus	55374761.00	-9	NA	55374761	Sampled_Distribution	Undetermined	9	Age	10105268.00	243.00	370.00	55374761	2	2	2	60
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	Undetermined	1	Age	28839.36	104.26	206.42	391975	3	250	3	243
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	Undetermined	2	Age	586670.72	140.91	226.85	391975	3	250	3	243
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	Undetermined	3	Age	1791849.25	148.60	230.77	391975	3	250	3	243
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	Undetermined	4	Age	238773.04	164.07	237.87	391975	3	250	3	243
+whb.27.1-91214	Portugal	2025	Landings	Reported	Imported_Data	 	27.9.a	2	Quarter	All	391975.00	-9	NA	391975	Sampled_Distribution	Undetermined	5	Age	2708.56	240.11	270.00	391975	3	250	3	243
