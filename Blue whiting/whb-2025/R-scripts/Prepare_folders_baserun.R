@@ -5,10 +5,10 @@
 
 # Set data path
 ## Check first if directories exists - if not, then create
-if(!dir.exists(file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch"))) & extended == FALSE){
+if(!dir.exists(stock.dir) & extended == FALSE){
   
   # Create new directory for base model run
-  dir.create(file.path(getwd(),year.root, paste0("bw_",assessmentYear,"_preliminary_catch")))
+  dir.create(file.path(getwd(),stock.dir))
   
 }
 # if(!dir.exists(file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch_extended"))) & extended == TRUE){
@@ -52,26 +52,34 @@ copy_files <- function(file_list, target_dir) {
   for (file_path in file_list) {
     file_name <- basename(file_path)
     new_path <- file.path(target_dir, file_name)
-    file.copy(file_path, new_path)
+    file.copy(file_path, new_path, overwrite = TRUE)
   }
 }
 
 # Create SAM folders based on previous assessment year
-copy_folder_structure(source_dir = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch")),
-                      target_dir = file.path(getwd(),year.root,paste0("bw_",assessmentYear,"_preliminary_catch")))
+if(folder_structure == TRUE){
+  copy_folder_structure(source_dir = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch")),
+                      target_dir = file.path(getwd(),stock.dir))
+}
 
 # Copy relevant files from previous assessment to current assessment
 ## Base run
-file.copy(from = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/run/model.RData")),
-          to = file.path(getwd(),year.root,paste0("bw_",assessmentYear,"_preliminary_catch/baserun")))
+if(base_run == TRUE){
+  file.copy(from = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/run/model.RData")),
+          to = file.path(getwd(),paste0(stock.dir,"/baserun")))
+}
 
 ## Configuration file
-file.copy(from = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/conf/model.cfg")),
-          to = file.path(getwd(),year.root,paste0("bw_",assessmentYear,"_preliminary_catch/conf")))
+if(config_file == TRUE){
+  file.copy(from = file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/conf/model.cfg")),
+          to = file.path(getwd(),paste0(stock.dir,"/conf")))
+}
 
 ## Input data to SAM
+
 ### Set source directory, which is data folder of last year's assessment
-source_dir     <- file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/data"))
+if(sam_data == TRUE){
+  source_dir     <- file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/data"))
 
 ### Select files to move
 files_to_copy  <- c(file.path(source_dir, "cn.dat"),
@@ -88,15 +96,18 @@ files_to_copy  <- c(file.path(source_dir, "cn.dat"),
 
 ### Copy files
 copy_files(file_list = files_to_copy, 
-           target_dir = file.path(getwd(),year.root,paste0("bw_",assessmentYear,"_preliminary_catch/data")))
+           target_dir = file.path(getwd(),paste0(stock.dir,"/data")))
+}
 
 ## Source code
-### Set source directory, which is data folder of last year's assessment
-source_dir     <- file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/src"))
-
-### Select files to copy (which is all)
-files_to_copy  <- list.files(source_dir, full.names = TRUE, recursive = FALSE)
-
-### Copy files
-copy_files(file_list = files_to_copy, 
-           target_dir = file.path(getwd(),year.root,paste0("bw_",assessmentYear,"_preliminary_catch/src")))
+if(source_code == TRUE){
+  ### Set source directory, which is data folder of last year's assessment
+  source_dir     <- file.path(file.path(getwd(),"Blue whiting", paste0('whb-',assessmentYear-1)),paste0("bw_",assessmentYear-1,"_preliminary_catch/src"))
+  
+  ### Select files to copy (which is all)
+  files_to_copy  <- list.files(source_dir, full.names = TRUE, recursive = FALSE)
+  
+  ### Copy files
+  copy_files(file_list = files_to_copy, 
+             target_dir = file.path(getwd(),paste0(stock.dir,"/src")))
+}

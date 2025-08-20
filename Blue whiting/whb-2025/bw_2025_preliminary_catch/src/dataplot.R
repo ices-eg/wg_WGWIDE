@@ -59,5 +59,3 @@ plotit('lf.dat')
 plotit('pf.dat')
 plotit('pm.dat')
 setwd(owd)
-
-

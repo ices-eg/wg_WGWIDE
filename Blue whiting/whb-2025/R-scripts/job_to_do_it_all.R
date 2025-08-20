@@ -43,186 +43,137 @@ if(extended == FALSE){
 # For survey.dat the new data line should be missing observations (- 1).
 
 
+
 ####################################################################################################################-
 # Gather data from previous assessment and prepare for current assessment ----
 
-# Prepare for base run
-source(file.path(R_script,"Prepare_folders_baserun.R"))
+# Should entire folder structure be copied?
+folder_structure    <- FALSE
+
+# Should model run from last year be copied to base run folder for this year?
+base_run            <- FALSE
+
+# Should configuration file be copied?
+config_file         <- FALSE
+
+# Should input data from SAM be copied?
+sam_data            <- FALSE
+
+# Should source code be copied?
+source_code         <- FALSE
+
+# Prepare for base run - MAKE SURE TO SELECT ABOVE WHICH FOLDERS AND FILES SHOULD BE COPIED!
+# DANGER FOR OVERWRITING EXISTING FILES!
+source(file.path(R_script,"prepare_folders_baserun.R"))
 
 
 
 ####################################################################################################################-
-# Read interCatch output and prepare input data ----
+# Read interCatch output and finalize input data ----
 
-## Data final year and preliminary data current year ----
+# Load script to read InterCatch data
+source(file.path(R_script, 'Read_new_data.R'))
 
-if (FALSE) { 
-  
-  # Load input data
-  cn      <- read.ices(file.path(stock.dir,"data/cn.dat"))
-  cw      <- read.ices(file.path(stock.dir,"data/cw.dat"))
-  dw      <- read.ices(file.path(stock.dir,"data/dw.dat"))
-  lw      <- read.ices(file.path(stock.dir,"data/lw.dat"))
-  mo      <- read.ices(file.path(stock.dir,"data/mo.dat"))
-  nm      <- read.ices(file.path(stock.dir,"data/nm.dat"))
-  pf      <- read.ices(file.path(stock.dir,"data/pf.dat"))
-  pm      <- read.ices(file.path(stock.dir,"data/pm.dat"))
-  sw      <- read.ices(file.path(stock.dir,"data/sw.dat"))
-  lf      <- read.ices(file.path(stock.dir,"data/lf.dat"))
-  surveys <- read.ices(file.path(stock.dir,"data/survey.dat"))
-  
-  # Get catch numbers and mean weights for the "final year" (the year with reported catches for the full year)
-  source(file.path(R_script, 'Read_new_data.R'))
-  
-  finalDir        <- "whb.27.1-91214_all_ 2025-8-13 18_22_27_2024BW"  # directory name for the un-zipped interCatch data
-  final           <- read_Intercatch_data(root=file.path(year.root,finalDir)) 
-  final   
-  sum(final$canum*final$weca)  #total catch weight (without 0-groups), should be close to caton.txt
-  
-  # Add to input data
-  ## Catch numbers
-  cn                        <- rbind(cn, final$canum)
-  row.names(cn)[nrow(cn)]   <- assessmentYear
-  
-  ## Catch weight at age
-  cw                        <- rbind(cw, final$weca)
-  row.names(cw)[nrow(cw)]   <- assessmentYear
-  
-  ## 'Save' catch weight at age as discards, landings and stock weight at age
-  dw                        <- cw
-  lw                        <- cw
-  sw                        <- cw
-  
-  # Add survey data of current assessment year
-  ## Assign survey values from this years survey report, age 1 to 8
-  survey_values             <- c(650, 2236, 3598, 12034, 4741, 546, 203, 88)
-  
-  ## Save attributes from original survey file 
-  attrs                     <- attributes(surveys$IBWSS)
-  
-  ## Add row with new data
-  surveys$IBWSS             <- rbind(surveys$IBWSS, survey_values)
-  rownames(surveys$IBWSS)[nrow(surveys$IBWSS)]   <- as.character(assessmentYear)
-  
-  ## Add new year to attributes
-  attrs$dim                 <- dim(surveys$IBWSS)
-  attrs$dimnames[[1]]       <- c(attrs$dimnames[[1]], as.character(assessmentYear))
-  
-  ## Restore the attributes
-  attributes(surveys$IBWSS) <- attrs
-  
-  # Add new row of data to remaining data files to represent current assessment year
-  lf                        <- rbind(lf, lf[nrow(lf),])
-  mo                        <- rbind(mo, mo[nrow(mo),])
-  nm                        <- rbind(nm, nm[nrow(nm),])
-  pf                        <- rbind(pf, pf[nrow(pf),])
-  pm                        <- rbind(pm, pm[nrow(pm),])
-  rownames(lf) <- rownames(mo) <- rownames(nm) <- rownames(pf) <- rownames(pm) <- as.character(c(1981:assessmentYear))
-  
-  # Save input data files
-  write.ices(cn, fileout = file.path(stock.dir,"data/cn.dat"))
-  
+
+# 1. Get catch numbers and mean weights for the "final year" (the year with reported catches for the full year)
+finalDir        <- "whb.27.1-91214_all_ 2025-8-13 18_22_27_2024BW"  # directory name for the un-zipped interCatch data
+final           <- read_Intercatch_data(root=file.path(year.root,finalDir)) 
+final   
+sum(final$canum*final$weca)  #total catch weight (without 0-groups), should be close to caton.txt
+
+
+# 2. Get preliminary catches of current assessment year and raise to total (best guess on) catches for the preliminary year
+## Load catches
+prelimDir       <- "whb.27.1-91214_all_ 2025-8-11 17_52_09_2025BW_1S"
+prelim          <- read_Intercatch_data(root=file.path(year.root,prelimDir)) #preliminary data 
+prelim  
+
+## Check total catch weight (without 0-groups), i.e. 'sum of products'
+sum(prelim$canum*prelim$weca)  
+newC            <-prelim[['canum']] 
+newW            <-prelim[['weca']]
+SOP             <-sum(newC*newW)   #total catch weight
+SOP #sum of product  
+
+## Set preliminary year catches as the best guesses on total catch in the current (full) year (the catch of O-groups should be subtracted, but not done)
+totalyield      <- 1700000  #best guess for current assessment year, from the preliminary catch table by country and quarter
+
+## Get difference between total catches and the preliminary catches done so far
+factor          <- totalyield/SOP #factor between the expected yield for the current year (estimated at the meeting) and the preliminary yield from InterCatch 
+SOP;totalyield;factor
+
+## Scale the catch numbers to the raised catches
+newCscaled      <- newC*factor   # Canum scaled to expected catches
+round(newCscaled,1) #used to update cn.dat for the preliminary data
+
+## Just to check when scaling the mean weights to the raised catches
+round(newW,5) #used to update cw.dat for the preliminary data
+sum(newCscaled*newW) #should be equal to 'totalyield', i.e. best guess of total catch 
+
+
+# 3. Get survey values (StoX abundance estimates, millions) from this years survey report, age 1 to 8
+survey_values    <- c(650, 2236, 3598, 12034, 4741, 546, 203, 88)
+
+# Should SAM data input files be updated? 
+# NOT ADVISED WHEN sam_data = FALSE AS WELL -> RISK OF ADDING DATA CURRENT YEAR MULTIPLE TIMES
+sam_data #TRUE or FALSE?
+data_update      <- FALSE
+
+if(data_update == TRUE){
+  # Based on the above new data, update and save the data input files
+  source(file.path(R_script, "update_input_data.R"))
 }
-
-
-## Data preliminary year ----
-
-if (FALSE) {  
-  
-  # Get preliminary catches of current assessment year and raise to total (best guess on) catches for the preliminary year
-  source(file.path(R_script,'Read_new_data.R'))
-  
-  prelimDir       <- "whb.27.1-91214_all_ 2024-8-28 15_39_28_2024_1S"
-  prelim          <- read_Intercatch_data(root=file.path(year.root,prelimDir)) # 2024 preliminary data (again) 
-  prelim  
-  
-  sum(prelim$canum*prelim$weca)  #total catch weight (without 0-groups)
-  
-  newC            <-prelim[['canum']] 
-  newW            <-prelim[['weca']]
-  SOP             <-sum(newC*newW)   #total catch weight
-  SOP #sum of product  
-  
-  # Preliminary year catches, the best guesses on total catch in the current (full) year (the catch of O-groups should be subtracted, but not done)
- 
-  totalyield      <- 1881072  ## best guess for 2024, from the preliminary catch table by country and quarter
- 
-  factor          <- totalyield/SOP # factor between the expected yield for the current year (estimated at the meeting) and the preliminary yield from InterCatch 
-  SOP;totalyield;factor
- 
-  # REMEMBER TO UPDATE THE INPUT FILES ("cn.dat" and "cw.dat" for current year as preliminary) WITH THE VALUES BELOW
-  newCscaled      <- newC*factor   # Canum scaled to expected catches
-  round(newCscaled,1) #used to update cn.dat for the preliminary data
-
-  # and mean weights
-  round(newW,5) #used to update cw.dat for the preliminary data
-  
-  sum(newCscaled*newW) # just checking
-} 
-
-
 
 
 
 ####################################################################################################################-
 # Run SAM ----
 
-# Delete all previous runs, forecast, residuals etc
-cat(stock.dir,'\n')
+# Set working directory to 'stock.dir' where results of selected run are saved
+orig_wd        <- getwd() #first save original directory path
 setwd(stock.dir)
-setwd("run")
-for(f in dir(pattern="RData"))file.remove(f) 
-setwd("..")
-
 
 # Check input data
-setwd(stock.dir)
-source(file.path(stock.dir,"src","dataplot.R"))
-check.all(path=file.path(stock.dir,'data'))
+source(file.path("src","dataplot.R"))
+check.all(path='data')
 
 
 # Read data into "dat" object
-setwd(stock.dir)
-source(file.path(stock.dir,"src","datascript.R"))
+source(file.path("src","datascript.R"))
 
 
 # Read configuration and run the model
-setwd(stock.dir)
-source(file.path(stock.dir,"src","model.R"))
+source(file.path("src","model.R"))
 # after this all results should be in the fit object ("fit")
 # and configuration in object "conf"
 fit
 
 # Residuals
 RES              <-residuals(fit)
-# plot(RES) #observation noise
-setwd(stock.dir)
+plot(RES) #observation noise
 save(RES, file="run/RES.RData")
 
 # Process noise
 RESP             <-procres(fit)
-
-#plot(RESP) 
+plot(RESP) 
 save(RESP, file="run/RESP.RData")
 
 
 #retrospective runs
-setwd(stock.dir)
 # source(file.path(stock.dir,"src","model.R")) # run again, to be absolutely sure you have a fresh copy of "fit"
-RETRO             <-retro(fit,year=5)
-setwd(stock.dir)
+RETRO            <-retro(fit,year=5)
+plot(RETRO)
 save(RETRO, file="run/RETRO.RData") 
 
-# plot the result, using (modified)  SAM script
+# Plot the result, using (modified) SAM script
 Extended          <- extended
-  # Extended used in the plotscript (do not change) !
-setwd(stock.dir)
+# Extended used in the plotscript (do not change) !
 # please note that the stampit function in common.R has been modified 
-source(file.path(stock.dir,"src","plotscript.R"))
+source(file.path("src","plotscript.R"))
 
-# some extra plotting
-fit$data$surveys  <-surveys  # MV addition
-source(file.path(stock.dir,"src","MV_functions.R"))
+# Some extra plotting
+fit$data$surveys  <- surveys  # MV addition
+source(file.path("src","MV_functions.R"))
 CommonThings(fit)  # some initializations
 
 if (Extended & FALSE) {  #work only with "extended" configuration
@@ -230,14 +181,16 @@ if (Extended & FALSE) {  #work only with "extended" configuration
   pz              <-process_noise(fit) 
   round(pz[[1]],3)
 }
-#just checking 
+
+# Just checking 
 round(obsVar(fit),2)
 round(exp(fit$pl$logSdLogN),2)  #process noise, N age 1 and ages 2-10
 
+# Create table with fitted parameters
 tp<-tableParameters(fit)
 print(round(tp,2),na.print = "")
 xtab(tp, caption=paste('Table 11. Parameter estimates','.',sep=''), cornername='Parameter \ Year', 
-     file=file.path(stock.dir,'res',paste(stamp,'_tab11a.html',sep='')), dec=rep(2,ncol(ftab)))
+     file=file.path('res',paste(stamp,'_tab11a.html',sep='')), dec=rep(2,ncol(ftab)))
 
 
 a<-cbind(
@@ -249,13 +202,13 @@ a<-cbind(
 
 colnames(a)<-as.character((assessmentYear-4):assessmentYear)
 xtab(a, caption=paste('Table 11. Parameter estimates, retrospective','.',sep=''), cornername='Parameter \ Year', 
-     file=file.path(stock.dir,'res',paste(stamp,'_tab11.html',sep='')), dec=rep(2,ncol(ftab)))
+     file=file.path('res',paste(stamp,'_tab11.html',sep='')), dec=rep(2,ncol(ftab)))
 
 
 # Leave out IBWSS
 if (FALSE) { # it does not work with my SAM version, MV August 2024
   lo <- leaveout(fit,ncores=1)  # MV added ncores=1, 28 August 2024
-  png(file.path(stock.dir,'res','leave_one_out.png'),width=900,height=1200,pointsize=25)
+  png(file.path('res','leave_one_out.png'),width=900,height=1200,pointsize=25)
   plot(lo)
   dev.off()
   #ssbplot(lo);recplot(lo);fbarplot(lo)
@@ -268,9 +221,10 @@ if (FALSE) { # not used !
   levelplot(v,xlab='',ylab='')
 }
 
-# other scripts used for presentation etc.
+# Other scripts used for presentation etc. - requires VPN connection to DTU server for now!
 library(tidyverse) #MV insert
 if (TRUE) {
+  setwd(orig_wd)
   source(file.path(other_R,'prelim_final_cn.R'))  # plot of preliminary and final catch at age, and table of preliminary and final catches
   source(file.path(other_R,'prelim_final_cw.R')) #plot of preliminary final weight at age
   source(file.path(other_R,'catch_curves_plot.R')) # catch curve plot and proportion catch plot

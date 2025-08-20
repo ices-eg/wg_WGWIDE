@@ -3,7 +3,7 @@ survey_n<-1  #survey number to be plotted
 
 ##  No used yet
 # get the assessment result (stock N) to be used in the graphs
-load(file.path('m:','wgwide',"whb-2024","bw_2024_preliminary_catch","run",'model.Rdata'),verbose=TRUE)
+load(file.path(stock.dir,"run",'model.Rdata'),verbose=TRUE)
 a<-ntable(fit)
 N<-data.frame(v=as.vector(a),year=as.numeric(dimnames(a)[[1]]),age=rep(as.numeric(dimnames(a)[[2]]),each=dim(a)[[1]]))
 N$cohort<-N$year-N$age  
@@ -44,12 +44,11 @@ bpLog<-function(x,y,v, scale=3, ...){
   points(x[v>0],y[v>0],cex=log10(v[v>0])*scale, col='blue', pch=1, ...)
 }
 
-png(filename=file.path(stock.dir,'data',paste0(data_source,'_proportion.png')),width=1000,height=600)
+png(filename=file.path('data',paste0(data_source,'_proportion.png')),width=1000,height=600)
 bpLog(x=a$year,y=a$age,v=a$v,scale=12,xlab='Year',ylab='Age')
 #par(op)
 #stampit();setcap("Catch proportion", "Catch proportion at age")
 dev.off()
-
 
 
 # catch curves
@@ -71,7 +70,7 @@ if (FALSE) { # first step towards a ggplot version of catch curve
 }
 
 library(lattice) 
-trellis.device(device='png',filename=file.path(stock.dir,'data',paste0(data_source,'_curves.png')),width=1000,height=600)
+trellis.device(device='png',filename=file.path('data',paste0(data_source,'_curves.png')),width=1000,height=600)
 
 
 ttl <- list(label="", cex=1.5)
@@ -116,8 +115,8 @@ if (data_source=='catch') {
   
   
 }
- cleanup()
+dev.off()
 
 
-
-
+# Return to original working directory
+setwd(orig_wd)
