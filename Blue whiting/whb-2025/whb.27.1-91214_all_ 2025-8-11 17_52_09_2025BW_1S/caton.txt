@@ -1,8 +1,0 @@
-Catch category:All
-whb.27.1-91214
-1 1
-2025 2025
-1 10
-5
-in tonnes
-1,200,733.074   
