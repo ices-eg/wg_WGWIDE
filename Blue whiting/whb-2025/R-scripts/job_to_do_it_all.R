@@ -80,23 +80,24 @@ finalDir        <- "whb.27.1-91214_all_ 2025-8-13 18_22_27_2024BW"  # directory 
 final           <- read_Intercatch_data(root=file.path(year.root,finalDir)) 
 final   
 sum(final$canum*final$weca)  #total catch weight (without 0-groups), should be close to caton.txt
+#caton 2024: 1797260 tonnes
 
 
 # 2. Get preliminary catches of current assessment year and raise to total (best guess on) catches for the preliminary year
 ## Load catches
-prelimDir       <- "whb.27.1-91214_all_ 2025-8-11 17_52_09_2025BW_1S"
+prelimDir       <- "whb.27.1-91214_all_ 2025-8-21 12_06_43_2025BW_1S"
 prelim          <- read_Intercatch_data(root=file.path(year.root,prelimDir)) #preliminary data 
 prelim  
 
 ## Check total catch weight (without 0-groups), i.e. 'sum of products'
-sum(prelim$canum*prelim$weca)  
+sum(prelim$canum*prelim$weca) 
 newC            <-prelim[['canum']] 
 newW            <-prelim[['weca']]
 SOP             <-sum(newC*newW)   #total catch weight
-SOP #sum of product  
+SOP #sum of product - close to caton.text - prelim caton 2025: 1216767 tonnes 
 
 ## Set preliminary year catches as the best guesses on total catch in the current (full) year (the catch of O-groups should be subtracted, but not done)
-totalyield      <- 1700000  #best guess for current assessment year, from the preliminary catch table by country and quarter
+totalyield      <- 1732586  #best guess for current assessment year, from the preliminary catch table by country and quarter
 
 ## Get difference between total catches and the preliminary catches done so far
 factor          <- totalyield/SOP #factor between the expected yield for the current year (estimated at the meeting) and the preliminary yield from InterCatch 
@@ -159,7 +160,7 @@ plot(RESP)
 save(RESP, file="run/RESP.RData")
 
 
-#retrospective runs
+# Retrospective runs
 # source(file.path(stock.dir,"src","model.R")) # run again, to be absolutely sure you have a fresh copy of "fit"
 RETRO            <-retro(fit,year=5)
 plot(RETRO)
@@ -204,7 +205,6 @@ colnames(a)<-as.character((assessmentYear-4):assessmentYear)
 xtab(a, caption=paste('Table 11. Parameter estimates, retrospective','.',sep=''), cornername='Parameter \ Year', 
      file=file.path('res',paste(stamp,'_tab11.html',sep='')), dec=rep(2,ncol(ftab)))
 
-
 # Leave out IBWSS
 if (FALSE) { # it does not work with my SAM version, MV August 2024
   lo <- leaveout(fit,ncores=1)  # MV added ncores=1, 28 August 2024
@@ -214,21 +214,14 @@ if (FALSE) { # it does not work with my SAM version, MV August 2024
   #ssbplot(lo);recplot(lo);fbarplot(lo)
 }
 
-if (FALSE) { # not used !
-  v<-cov2cor(fit$sdrep$cov.fixed) 
-  library(lattice)
-  X11()
-  levelplot(v,xlab='',ylab='')
-}
-
 # Other scripts used for presentation etc. - requires VPN connection to DTU server for now!
-library(tidyverse) #MV insert
 if (TRUE) {
   setwd(orig_wd)
   source(file.path(other_R,'prelim_final_cn.R'))  # plot of preliminary and final catch at age, and table of preliminary and final catches
   source(file.path(other_R,'prelim_final_cw.R')) #plot of preliminary final weight at age
   source(file.path(other_R,'catch_curves_plot.R')) # catch curve plot and proportion catch plot
 }
+
 
 
 ####################################################################################################################-

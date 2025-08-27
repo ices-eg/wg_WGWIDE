@@ -1,0 +1,307 @@
+Country	Year	Season	SeasonType	Area	Fleet	Catch category	Reporting category	Caton	Effort	UnitEffort	Weighting
+Filling-in for the following unsampled record:
+Germany	2025	2	Quarter	27.4.a	OTM_SPF_32-69_0_0_all	Landings	R Report	2545647.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	1	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	R Report	12366798.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.6.a	All	Landings	R Report	817000.00000	-9	NA	0.00000
+<<Denmark	2025	1	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	13718236.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.6.a	TrawlPlus	Landings	R Report	27392561.21000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	R Report	11295389.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	31314872.00000	-9	NA	0.00000
+<<Ireland	2025	2	Quarter	27.6.a	TrawlPlus	Landings	R Report	11190091.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	1	Quarter	27.7.b	OTM_SPF_32-69_0_0_all	Landings	R Report	4043224.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.b	OTM_SPF_32-69_0_0_all	Landings	A All - 	3382873.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.b	TrawlPlus	Landings	R Report	913062.80000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	1	Quarter	27.7.h	OTM_SPF_32-69_0_0_all	Landings	R Report	36664.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+<<Denmark	2025	1	Quarter	27.7.b	OTM_SPF_32-69_0_0_all	Landings	A All - 	3382873.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.b	TrawlPlus	Landings	R Report	913062.80000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	2	Quarter	27.5.b.1	OTM_SPF_32-69_0_0_all	Landings	R Report	1052742.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.5.b	TrawlPlus	Landings	R Report	55374761.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.5.b	All	Landings	R Report	135429000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	2	Quarter	27.2.a.2	OTM_SPF_32-69_0_0_all	Landings	R Report	826436.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	R Report	8989116.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	21678810.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.c.2	TrawlPlus	Landings	R Report	9301501.51000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Germany	2025	1	Quarter	27.7.j.2	OTM_SPF_32-69_0_0_all	Landings	R Report	90354.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Norway	2025	1	Quarter	27.4.a	TrawlPlus	Landings	R Report	127845.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Norway	2025	2	Quarter	27.4.a	TrawlPlus	Landings	R Report	7678128.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Norway	2025	1	Quarter	27.2.a	TrawlPlus	Landings	R Report	459398.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Norway	2025	1	Quarter	27.5.b	TrawlPlus	Landings	R Report	135122.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.5.b	All	Landings	R Report	37235000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2025	1	Quarter	27.4.b	MIS_MIS_0_0_0_HC	Landings	A All - 	61.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2025	1	Quarter	27.7.d	MIS_MIS_0_0_0_HC	Landings	A All - 	34.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.c	TrawlPlus	Landings	R Report	57690935.00000	-9	NA	0.00000
+<<Denmark	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	21678810.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.c.2	TrawlPlus	Landings	R Report	9301501.51000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2025	1	Quarter	27.7.c	OTM_SPF_32-69_0_0_all	Landings	A All - 	2586893.80000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.c	TrawlPlus	Landings	R Report	57690935.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2025	1	Quarter	27.7.h	OTM_SPF_32-69_0_0_all	Landings	A All - 	3964.90000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK (England)	2025	1	Quarter	27.7.j	OTM_SPF_32-69_0_0_all	Landings	A All - 	1609.90000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Faroe Islands	2025	1	Quarter	27.4.a	All	Landings	R Report	1125000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Faroe Islands	2025	2	Quarter	27.4.a	All	Landings	R Report	28627000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Faroe Islands	2025	2	Quarter	27.6.a	All	Landings	R Report	23735000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	31314872.00000	-9	NA	0.00000
+<<Ireland	2025	2	Quarter	27.6.a	TrawlPlus	Landings	R Report	11190091.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.4.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	6773.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	2	Quarter	27.4.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	87.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	2	Quarter	27.4.b	MIS_MIS_0_0_0_IBC	Landings	A All - 	17.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.5.b	All	Landings	R Report	135429000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.4.b	OTM_SPF_32-69_0_0_all	Landings	A All - 	4.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.7.j	OTM_SPF_32-69_0_0_all	Landings	A All - 	50755.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.8.a	MIS_MIS_0_0_0_HC	Landings	A All - 	91771.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Portugal	2025	1	Quarter	27.9.a	All	Landings	R Report	344351.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	2	Quarter	27.3.a.20	MIS_MIS_0_0_0_IBC	Landings	A All - 	214.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.2.a.1	OTM_SPF_32-69_0_0_all	Landings	A All - 	59594.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.7.j.2	MIS_MIS_0_0_0_IBC	Landings	A All - 	13356.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Denmark	2025	1	Quarter	27.7.j.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	1237.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	2	Quarter	27.4.a	Pel Freezer Trawler	Landings	R Report	1867846.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	1	Quarter	27.6.a	Pel Freezer Trawler	Landings	R Report	8715597.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.6.a	All	Landings	R Report	817000.00000	-9	NA	0.00000
+<<Denmark	2025	1	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	13718236.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.6.a	TrawlPlus	Landings	R Report	27392561.21000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	2	Quarter	27.6.a	Pel Freezer Trawler	Landings	R Report	17694077.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	31314872.00000	-9	NA	0.00000
+<<Ireland	2025	2	Quarter	27.6.a	TrawlPlus	Landings	R Report	11190091.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	1	Quarter	27.7.b	Pel Freezer Trawler	Landings	R Report	3475797.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.b	OTM_SPF_32-69_0_0_all	Landings	A All - 	3382873.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.b	TrawlPlus	Landings	R Report	913062.80000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	2	Quarter	27.8.a	Pel Freezer Trawler	Landings	R Report	1265.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Portugal	2025	2	Quarter	27.9.a	All	Landings	R Report	391975.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	1	Quarter	27.7.c.2	Pel Freezer Trawler	Landings	R Report	10556089.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	21678810.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.c.2	TrawlPlus	Landings	R Report	9301501.51000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	2	Quarter	27.7.c.2	Pel Freezer Trawler	Landings	R Report	12006.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	21678810.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.c.2	TrawlPlus	Landings	R Report	9301501.51000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Poland	2025	2	Quarter	27.8.d.2	Pel Freezer Trawler	Landings	R Report	253.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Portugal	2025	2	Quarter	27.9.a	All	Landings	R Report	391975.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.4.a	Pelagic trawl	Landings	R Report	1964000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.6.b	TrawlPlus	Landings	R Report	24687684.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.4.a	Pelagic trawl	Landings	R Report	11682000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.2.a	Pelagic trawl	Landings	R Report	175000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.2.a	Pelagic trawl	Landings	R Report	15326000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.5.a	Pelagic trawl	Landings	R Report	62000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.5.b	All	Landings	R Report	37235000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.5.a	Pelagic trawl	Landings	R Report	172000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.2.a	TrawlPlus	Landings	R Report	3238072.00000	-9	NA	0.00000
+<<Norway	2025	2	Quarter	27.5.b	TrawlPlus	Landings	R Report	55374761.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.2.a	All	Landings	R Report	45694000.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.5.b	All	Landings	R Report	135429000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.5.b	Pelagic trawl	Landings	R Report	40583000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.5.b	All	Landings	R Report	37235000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.5.b	Pelagic trawl	Landings	R Report	79093000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.5.b	TrawlPlus	Landings	R Report	55374761.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.5.b	All	Landings	R Report	135429000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.6.a	Pelagic trawl	Landings	R Report	7344000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.6.a	All	Landings	R Report	817000.00000	-9	NA	0.00000
+<<Denmark	2025	1	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	13718236.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.6.a	TrawlPlus	Landings	R Report	27392561.21000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.6.a	Pelagic trawl	Landings	R Report	15768000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	31314872.00000	-9	NA	0.00000
+<<Ireland	2025	2	Quarter	27.6.a	TrawlPlus	Landings	R Report	11190091.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.6.b	Pelagic trawl	Landings	R Report	8349000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.6.b	TrawlPlus	Landings	R Report	24687684.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.6.b	All	Landings	R Report	9618000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.14.b	Pelagic trawl	Landings	R Report	28000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.5.b	All	Landings	R Report	37235000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	2	Quarter	27.14.b	Pelagic trawl	Landings	R Report	9000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	2	Quarter	27.5.b	TrawlPlus	Landings	R Report	55374761.00000	-9	NA	0.00000
+<<Faroe Islands	2025	2	Quarter	27.5.b	All	Landings	R Report	135429000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.7.c	Pelagic trawl	Landings	R Report	954000.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.c	TrawlPlus	Landings	R Report	57690935.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Iceland	2025	1	Quarter	27.7.k	Pelagic trawl	Landings	R Report	13456700.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Ireland	2025	1	Quarter	27.6.b.2	TrawlPlus	Landings	R Report	4300968.28000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.6.b	TrawlPlus	Landings	R Report	24687684.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.6.b	All	Landings	R Report	9618000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Ireland	2025	1	Quarter	27.7.j.2	TrawlPlus	Landings	R Report	6850.00000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.7.k	TrawlPlus	Landings	R Report	219173485.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.7.k	All	Landings	R Report	48967000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+Ireland	2025	1	Quarter	27.7.k.2	TrawlPlus	Landings	R Report	571450.20000	-9	NA	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.k.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	8461535.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	1	Quarter	27.6.b.2	All	Landings	R Report	6246660.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Norway	2025	1	Quarter	27.6.b	TrawlPlus	Landings	R Report	24687684.00000	-9	NA	0.00000
+<<Faroe Islands	2025	1	Quarter	27.6.b	All	Landings	R Report	9618000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	1	Quarter	27.7.c.2	All	Landings	R Report	22855869.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.c.2	OTM_SPF_32-69_0_0_all	Landings	A All - 	21678810.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.c.2	TrawlPlus	Landings	R Report	9301501.51000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	1	Quarter	27.4.a	All	Landings	R Report	12861.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.2.a	All	Landings	R Report	6790000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	1	Quarter	27.6.a	All	Landings	R Report	40008338.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Faroe Islands	2025	1	Quarter	27.6.a	All	Landings	R Report	817000.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	2	Quarter	27.6.a	All	Landings	R Report	22538108.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	2	Quarter	27.6.a	OTM_SPF_32-69_0_0_all	Landings	A All - 	31314872.00000	-9	NA	0.00000
+<<Ireland	2025	2	Quarter	27.6.a	TrawlPlus	Landings	R Report	11190091.00000	-9	NA	0.00000
+Filling-in for the following unsampled record:
+UK(Scotland)	2025	1	Quarter	27.7.b	All	Landings	R Report	4182418.00000	-9	kWd	Mean Weight weighted by Numbers at Age or Length
+The following sampled catches are allocated to above unsampled catch:
+<<Denmark	2025	1	Quarter	27.7.b	OTM_SPF_32-69_0_0_all	Landings	A All - 	3382873.00000	-9	NA	0.00000
+<<Ireland	2025	1	Quarter	27.7.b	TrawlPlus	Landings	R Report	913062.80000	-9	NA	0.00000
+

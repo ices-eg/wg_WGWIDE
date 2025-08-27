@@ -27,15 +27,16 @@ library(stockassessment)
 # Set paths
 
 ## Main folder for this year
-year.root      <- file.path('m:','WGWIDE',paste0('whb-',assessmentYear))
+year.root      <- file.path("Blue whiting", paste0('whb-',assessmentYear))
 
 ## R scripts
 R_script       <- file.path(year.root,'R-scripts')
 other_R        <- file.path(R_script,'Other_scripts')
 
 ## Data
-#stock.dir      <-file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch")); extended<-FALSE
- stock.dir     <-file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch_extended")) ; extended<-TRUE  # used for forecast
+# stock.dir      <-file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch")); extended<-FALSE
+ # stock.dir     <-file.path(year.root,paste0("bw_",assessmentYear,"_preliminary_catch_extended")) ; extended<-TRUE  # used for forecast
+stock.dir      <-file.path(year.root,paste0("bw_",assessmentYear,"_final_catch")); extended<-FALSE
 
 # The "extended version includes dummy survey data (NA's) for the year after the last catch year to get stock numbers and SSB at the
 # start of the "intermediate" year (which in this case is the TAC year).
@@ -115,28 +116,21 @@ if (FALSE) {
 ####################################################################################################################-
 ### Run SAM ----
 
-# Delete all previous runs, forecast, residuals etc
-cat(stock.dir,'\n')
+# Set working directory to 'stock.dir' where results of selected run are saved
+orig_wd        <- getwd() #first save original directory path
 setwd(stock.dir)
-setwd("run")
-for(f in dir(pattern="RData"))file.remove(f) 
-setwd("..")
-
 
 # Check input data
-setwd(stock.dir)
-source(file.path(stock.dir,"src","dataplot.R"))
-check.all(path=file.path(stock.dir,'data'))
+source(file.path("src","dataplot.R"))
+check.all(path='data')
 
 
 # Read data into "dat" object
-setwd(stock.dir)
-source(file.path(stock.dir,"src","datascript.R"))
+source(file.path("src","datascript.R"))
 
 
 # Read configuration and run the model
-setwd(stock.dir)
-source(file.path(stock.dir,"src","model.R"))
+source(file.path("src","model.R"))
 # after this all results should be in the fit object ("fit")
 # and configuration in object "conf"
 fit

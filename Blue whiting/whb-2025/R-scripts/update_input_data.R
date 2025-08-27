@@ -78,20 +78,6 @@ write.survey.file<-function (surveys, fileout, ...)
   }
 }
 
-# ## Save attributes from original survey file 
-# attrs                     <- attributes(surveys$IBWSS)
-# 
-# ## Add row with new data
-# surveys$IBWSS             <- rbind(surveys$IBWSS, survey_values)
-# rownames(surveys$IBWSS)[nrow(surveys$IBWSS)]   <- as.character(assessmentYear)
-# 
-# ## Add new year to attributes
-# attrs$dim                 <- dim(surveys$IBWSS)
-# attrs$dimnames[[1]]       <- c(attrs$dimnames[[1]], as.character(assessmentYear))
-# 
-# ## Restore the attributes
-# attributes(surveys$IBWSS) <- attrs
-
 # Save input data files
 write.ices(cn, fileout = file.path(stock.dir,"data/cn.dat"))
 write.ices(cw, fileout = file.path(stock.dir,"data/cw.dat"))
@@ -103,5 +89,4 @@ write.ices(pf, fileout = file.path(stock.dir,"data/pf.dat"))
 write.ices(pm, fileout = file.path(stock.dir,"data/pm.dat"))
 write.ices(sw, fileout = file.path(stock.dir,"data/sw.dat"))
 write.ices(lf, fileout = file.path(stock.dir,"data/lf.dat"))
-# write.ices(surveys, fileout = file.path(stock.dir,"data/survey.dat"))
 write.survey.file(surveys, fileout = file.path(stock.dir,"data/survey.dat"))
