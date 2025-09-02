@@ -81,7 +81,7 @@ ax <- list(cex=0.7)
 b<--0.6    # slope
 
 if (data_source=='catch') {
-  print(xyplot(log(v)~age| factor(cohort), data=a,  subset=(cohort>1983 & cohort<2019),  #          subset=(cohort>1981 & cohort<2017),
+  print(xyplot(log(v)~age| factor(cohort), data=a,  subset=(cohort>1985 & cohort<2021),  #          subset=(cohort>1981 & cohort<2017),
        main=ttl, ylab=yttl, xlab=xttl, scales=ax, par.strip.text=stripttl, layout = c(7, 5),
        panel = function(x, y) {
          panel.xyplot(x, y,col="blue", type="l",lwd=2)

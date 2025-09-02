@@ -43,14 +43,14 @@ process_noise<-function(fit) {
   
   pz<-tapply(a$processZ,list(a$year,a$age),sum,na.rm=TRUE)
   
-  png(file=file.path(stock.dir,'res','process_Z.png'),width=1000,height=1000,pointsize=25)
+  png(file=file.path('res','process_Z.png'),width=1000,height=1000,pointsize=25)
   X11(h=7,w=9)
       ggplot(a,aes(year,processZ)) +
       theme_bw() +
       geom_text(aes(label=age)) +
       stat_smooth(span=0.1) +
       labs(x="",y="",title="Process error expressed as deviations in mortality")
-  ggsave(file.path(stock.dir,'res','process_Z.png'))
+  ggsave(file.path('res','process_Z.png'))
   
   
   ggplot(a,aes(year,processZ)) +
@@ -58,7 +58,7 @@ process_noise<-function(fit) {
     geom_bar(stat="identity") +
     facet_wrap(~ age, scale="free_y",ncol=4) +
     labs(x="", y="",title="Process error expressed as deviations in mortality")
-  ggsave(file.path(stock.dir,'res','process_Z.png'))
+  ggsave(file.path('res','process_Z.png'))
   
       
   ggplot(a,aes(year,process_N)) +
@@ -66,7 +66,7 @@ process_noise<-function(fit) {
       geom_bar(stat="identity") +
       facet_wrap(~ age, scale="free_y",ncol=4) +
       labs(x="", y="",title="Process error expressed as deviations in number of fish")
-  ggsave(file.path(stock.dir,'res','process_N.png'))
+  ggsave(file.path('res','process_N.png'))
   
       
   ggplot(a,aes(year,n_ratio*100)) +
@@ -74,12 +74,12 @@ process_noise<-function(fit) {
       geom_bar(stat="identity") +
       facet_wrap(~ age, scale="free_y",ncol=4) +
       labs(x="", y="",title="Process error expressed as percentage of initial number of fish ")
-  ggsave(file.path(stock.dir,'res','process_Npct.png'))
+  ggsave(file.path('res','process_Npct.png'))
   
   b<-aggregate(process_bio~year,data=a,sum)
      ggplot(data=b, aes(x=year, y=process_bio/1000)) +
       geom_bar(stat="identity") +labs(x='Year',y='Biomass (thousands tonnes)')
-     ggsave(file.path(stock.dir,'res','process_cumBio.png'))
+     ggsave(file.path('res','process_cumBio.png'))
      
    
   return(list(pz,a))
