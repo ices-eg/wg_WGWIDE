@@ -21,6 +21,9 @@ extended       <- TRUE
 
 
 # Set paths
+## First store project directory
+orig_wd        <- getwd()
+
 ## Main folder for this year
 year.root      <- file.path("Blue whiting", paste0('whb-',assessmentYear))
 
@@ -146,7 +149,7 @@ if(extended == FALSE){
 
 # Set working directory to 'stock.dir' where results of selected run are saved
 orig_wd        <- getwd() #first save original directory path
-setwd(stock.dir)
+setwd(file.path(orig_wd,stock.dir))
 
 # Check input data
 source(file.path("src","dataplot.R"))
@@ -634,3 +637,7 @@ catchProp <- catchAge / sum(catchAge)
 catchProp
 round(catchProp * 100,1) #percentages
 
+# Compare input data forecast
+## Set first GM used for last years forecast
+GMlast   <- 22993253
+source(file.path(orig_wd, other_R, "compare_Nage_weights.R"))

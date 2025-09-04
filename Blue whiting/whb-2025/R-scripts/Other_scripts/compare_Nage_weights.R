@@ -1,30 +1,28 @@
 ####################################################################################################################-
-# Compare numbers at age and weights from this year's assessment with previous year's assessment
+# Compare numbers at age and weights from this year's forecast with previous year's forecast
 #
 # Author: Esther D. Beukhof
 ####################################################################################################################-
-rm(list=ls())
 
 library(stockassessment)
 library(ggplot2)
 
-# Set overall working directory where all assessments are stored
-wide.root       <-file.path('m:','WGWIDE')
+# Set assessment year
+assessmentYear   <- fit$data$years[(length(fit$data$years)-1)]
 
-# Get list of paths of all assessments
-# ## If we do not include intermediate year
-# assess <-c(
-#   file.path(wide.root,'whb-2022','bw_2022_preliminary_2022_catch'),
-#   file.path(wide.root,'whb-2023','bw_2023_preliminary_catch'))
-## If we include the intermediate year
+# Get overall working directory where all assessments are stored
+wide.root       <-file.path(orig_wd, "Blue whiting")
+
+# Get list of paths of assessments
 assess <-c(
-#2023  file.path(wide.root,'whb-2022','bw_2022_preliminary_2022_catch_extended'),
-#2023  file.path(wide.root,'whb-2023','bw_2023_preliminary_catch_extended'))
-  file.path(wide.root,'whb-2023','bw_2023_preliminary_catch_extended'),
-   file.path(wide.root,'whb-2024','bw_2024_preliminary_catch_extended'))
+  file.path(wide.root, paste0('whb-',assessmentYear-1),paste0('bw_',assessmentYear-1,'_preliminary_catch_extended')),
+  file.path(wide.root, paste0('whb-',assessmentYear),paste0('bw_',assessmentYear,'_preliminary_catch_extended'))
+  )
 
 # Path to save results
-outPath         <-file.path(wide.root,'whb-2024','bw_2024_preliminary_catch_extended','res')
+outPath         <-file.path(wide.root,paste0('whb-',assessmentYear),paste0('bw_',assessmentYear,'_preliminary_catch_extended'),'res')
+
+
 
 ####################################################################################################################-
 # N at age -----
@@ -43,12 +41,23 @@ compareN        <- data.frame(Age = c(1:10))
 # Calculate ratios between assessments for several years
 # years           <- c(2019:2022) #if intermediate year is NOT included
 #years           <- c(2019:2023) #if intermediate year is included
-years           <- c(2020:2024) #if intermediate year is included
+# years           <- c(2020:2024) #if intermediate year is included
+years           <- c((assessmentYear-4):assessmentYear) #if intermediate year is included
 
 for(iYear in 1:length(years)){
   # Extract data
   ntabCurrent         <- as.data.frame(ntabList[[2]])
   ntabPrevious        <- as.data.frame(ntabList[[1]])
+  
+  # Replace recruitment value in terminal year of previous assessment by GM
+  if(iYear == length(years)){
+    ntabPrevious[nrow(ntabPrevious),1] <- GMlast
+  }
+  
+  # In case SAM assessment not used in most recent assessment, replace by GM
+  if(iYear == length(years)){
+    ntabCurrent[nrow(ntabCurrent)-1,1] <- ntabCurrent[nrow(ntabCurrent)-1,1] * my.nscale[1]
+  }
 
   # Calculate ratio
   ratio               <- ntabCurrent[paste(years[iYear]),] / ntabPrevious[paste(years[iYear]),]
@@ -101,6 +110,8 @@ colorIt<-function(itab,rounds=2) {
 
 colorIt(compareN) # you have to save the plot manually as as .png file
 
+
+
 ####################################################################################################################-
 # N at age * Weight at age -----
 
@@ -123,7 +134,8 @@ compareBiomass  <- data.frame(Age = c(1:10))
 
 # Calculate ratios between assessments for several years
 # years           <- c(2019:2022) #if intermediate year is NOT included
-years           <- c(2020:2024) #if intermediate year is included
+# years           <- c(2020:2024) #if intermediate year is included
+years           <- c((assessmentYear-4):assessmentYear) #if intermediate year is included
 
 for(iYear in 1:length(years)){
   # Select data
@@ -131,6 +143,16 @@ for(iYear in 1:length(years)){
   ntabPrevious        <- as.data.frame(ntabList[[1]])
   wtabCurrent         <- as.data.frame(wecaList[[2]])
   wtabPrevious        <- as.data.frame(wecaList[[1]])
+  
+  # Replace recruitment value in terminal year of previous assessment by GM
+  if(iYear == length(years)){
+    ntabPrevious[nrow(ntabPrevious),1] <- GMlast
+  }
+  
+  # In case SAM assessment not used in most recent assessment, replace by GM
+  if(iYear == length(years)){
+    ntabCurrent[nrow(ntabCurrent)-1,1] <- ntabCurrent[nrow(ntabCurrent)-1,1] * my.nscale[1]
+  }
   
   # Drop forecast year from current assessment
   ntabCurrent         <- ntabCurrent[-nrow(ntabCurrent),]
@@ -159,7 +181,7 @@ for(iYear in 1:length(years)){
     datPlot           <- data.frame(Age = rep(c(1:10),2),
                                     Weight = c(t(wtabCurrent[paste(years[iYear]),]),
                                                t(wtabPrevious[paste(years[iYear]),])),
-                                    Assessment = c(rep("WGWIDE 2024",10), rep("WGWIDE 2023",10)))
+                                    Assessment = c(rep(paste0("WGWIDE ", assessmentYear),10), rep(paste0("WGWIDE ", assessmentYear-1),10)))
     # Plot
     p <- ggplot(datPlot, aes(Age, Weight, colour=Assessment)) +
                   geom_point() +

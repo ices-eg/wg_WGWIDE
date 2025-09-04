@@ -76,10 +76,10 @@ process_noise<-function(fit) {
       labs(x="", y="",title="Process error expressed as percentage of initial number of fish ")
   ggsave(file.path('res','process_Npct.png'))
   
-  b<-aggregate(process_bio~year,data=a,sum)
-     ggplot(data=b, aes(x=year, y=process_bio/1000)) +
-      geom_bar(stat="identity") +labs(x='Year',y='Biomass (thousands tonnes)')
-     ggsave(file.path('res','process_cumBio.png'))
+  # b<-aggregate(process_bio~year,data=a,sum)
+  #    ggplot(data=b, aes(x=year, y=process_bio/1000)) +
+  #     geom_bar(stat="identity") +labs(x='Year',y='Biomass (thousands tonnes)')
+  #    ggsave(file.path('res','process_cumBio.png'))
      
    
   return(list(pz,a))
